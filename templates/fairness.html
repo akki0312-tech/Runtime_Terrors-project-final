@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div style="max-width: 800px; margin: 0 auto;">
+    <header style="text-align: center; margin-bottom: 3rem;">
+        <h1>How Does This Work?</h1>
+        <p style="color: var(--text-muted);">Understanding our AI credit scoring system</p>
+    </header>
+
+    <div class="card" style="margin-bottom: 2rem;">
+        <h2><span style="color: var(--primary);">01.</span> What Data We Use</h2>
+        <p>Traditional banks look at your credit card history and past loans. But what if you've never had those?
+            We look at other things that show you're reliable:</p>
+        <ul style="margin-top: 1rem; margin-left: 1.5rem; line-height: 1.6;">
+            <li><strong>Income & Employment:</strong> How long you've been working and your income level</li>
+            <li><strong>Assets:</strong> Whether you own a car or property</li>
+            <li><strong>Family Size:</strong> Number of dependents (helps understand financial responsibility)</li>
+            <li><strong>Employment Type:</strong> Self-employed, salaried, daily wage worker, etc.</li>
+        </ul>
+    </div>
+
+    <div class="card" style="margin-bottom: 2rem;">
+        <h2><span style="color: var(--secondary);">02.</span> What We DON'T Use</h2>
+        <p>To keep things fair, we <strong>never</strong> look at:</p>
+        <ul style="margin-top: 1rem; margin-left: 1.5rem; line-height: 1.6;">
+            <li>Gender or age</li>
+            <li>Religion or caste</li>
+            <li>Your exact address or neighborhood</li>
+            <li>Social media activity</li>
+        </ul>
+        <p style="margin-top: 1rem;">These things shouldn't determine if you can get a loan.</p>
+    </div>
+
+    <div class="card">
+        <h2><span style="color: #22c55e;">03.</span> Built Responsibly</h2>
+        <p>This is just a tool to help - not the final decision. High-risk cases are always reviewed by a real person.
+            And we only use your data if you give us permission.</p>
+        <p style="margin-top: 1rem; color: var(--text-muted); font-size: 0.9rem;">
+            <em>Note: This is a demonstration project using the Home Credit Default Risk dataset for educational
+                purposes.</em>
+        </p>
+    </div>
+</div>
+{% endblock %}

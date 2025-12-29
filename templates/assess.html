@@ -1,0 +1,88 @@
+{% extends "base.html" %}
+
+{% block content %}
+<header style="text-align: center; margin-bottom: 2rem;">
+    <h1>Credit Assessment</h1>
+    <p style="color: var(--text-muted);">Fill in the details below to get an instant credit score</p>
+</header>
+
+<section class="demo-controls">
+    <span>Try a demo:</span>
+    <button onclick="fillDemo('stable')">Good Credit Example</button>
+    <button onclick="fillDemo('risky')">Poor Credit Example</button>
+</section>
+
+<main class="app-grid">
+    <!-- Input Form -->
+    <div class="card form-card">
+        <h2>Applicant Details</h2>
+        <form id="creditForm">
+            <div class="form-group">
+                <label>Total Annual Income (₹)</label>
+                <input type="number" id="income_total" required placeholder="e.g. 300000">
+            </div>
+
+            <div class="form-group">
+                <label>Years Employed</label>
+                <input type="number" id="years_employed" required placeholder="e.g. 5" step="0.5">
+            </div>
+
+            <div class="form-group">
+                <label>Income Type</label>
+                <select id="income_type">
+                    <option value="Working">Working</option>
+                    <option value="Commercial associate">Commercial associate</option>
+                    <option value="State servant">State servant</option>
+                    <option value="Student">Student</option>
+                    <option value="Pensioner">Pensioner</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label>Number of Children</label>
+                <input type="number" id="cnt_children" required placeholder="0" min="0">
+            </div>
+
+            <div class="form-group">
+                <label>Owns Car?</label>
+                <select id="flag_own_car">
+                    <option value="Y">Yes</option>
+                    <option value="N">No</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label>Owns Realty/House?</label>
+                <select id="flag_own_realty">
+                    <option value="Y">Yes</option>
+                    <option value="N">No</option>
+                </select>
+            </div>
+
+            <button type="submit" class="submit-btn" id="assessBtn">Assess Creditworthiness</button>
+        </form>
+    </div>
+
+    <!-- Dashboard Result -->
+    <div class="card result-card" id="resultCard" style="opacity: 0.5; pointer-events: none;">
+        <h2>Credit Assessment</h2>
+
+        <div class="score-circle-container">
+            <div class="score-circle" id="scoreCircle">
+                <span id="scoreValue">--</span>
+                <small>Credit Score</small>
+            </div>
+        </div>
+
+        <div class="decision-box" id="decisionBox">
+            <h3>Decision: <span id="decisionText">--</span></h3>
+            <p id="riskLevel">Risk Level: --</p>
+        </div>
+
+        <div class="explanation-box">
+            <h4>AI Explanation</h4>
+            <p id="explanationText">Await form submission...</p>
+        </div>
+    </div>
+</main>
+{% endblock %}

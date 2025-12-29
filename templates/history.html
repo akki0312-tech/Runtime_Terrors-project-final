@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+
+{% block content %}
+<header style="text-align: center; margin-bottom: 2rem;">
+    <h1>Application History</h1>
+    <p style="color: var(--text-muted);">View all processed credit applications and their AI decisions.</p>
+</header>
+
+<div class="card" style="overflow-x: auto;">
+    <table class="history-table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Date</th>
+                <th>Income (₹)</th>
+                <th>Income Type</th>
+                <th>Employed (Days)</th>
+                <th>Score</th>
+                <th>Risk</th>
+                <th>Decision</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for app in applications %}
+            <tr>
+                <td>{{ app['id'] }}</td>
+                <td>{{ app['created_at'] }}</td>
+                <td>{{ app['amt_income_total'] }}</td>
+                <td>{{ app['name_income_type'] }}</td>
+                <td>{{ app['days_employed'] }}</td>
+                <td><strong>{{ app['credit_score'] }}</strong></td>
+                <td>
+                    <span
+                        class="badge {{ 'badge-low' if app['risk_level'] == 'Low' else 'badge-med' if app['risk_level'] == 'Medium' else 'badge-high' }}">
+                        {{ app['risk_level'] }}
+                    </span>
+                </td>
+                <td>{{ app['decision'] }}</td>
+            </tr>
+            {% else %}
+            <tr>
+                <td colspan="8" style="text-align: center;">No applications found yet.</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endblock %}

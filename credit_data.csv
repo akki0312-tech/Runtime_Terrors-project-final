@@ -1,0 +1,5001 @@
+AMT_INCOME_TOTAL,DAYS_EMPLOYED,NAME_INCOME_TYPE,CNT_CHILDREN,FLAG_OWN_CAR,FLAG_OWN_REALTY,TARGET
+231932,-5110,Working,1,N,Y,1
+187498,-8395,Working,0,Y,N,1
+62955,0,Student,0,Y,Y,1
+458795,-8760,Commercial associate,0,N,Y,0
+59150,0,Student,2,N,Y,1
+289931,365243,Pensioner,2,N,Y,1
+254555,-2190,Working,1,N,Y,1
+300551,-1095,Working,0,N,Y,0
+302283,-12045,Working,0,N,N,1
+357750,-14235,Working,2,N,Y,0
+317851,-10220,Working,2,Y,N,0
+233767,-8395,Working,0,Y,N,1
+450804,-13870,State servant,1,N,N,0
+451279,-8030,Working,1,N,Y,0
+251664,365243,Pensioner,0,N,N,1
+473133,-13870,Working,0,N,Y,0
+345310,-11315,Working,1,N,Y,0
+302982,-5110,Working,1,Y,Y,0
+615515,-365,Commercial associate,1,Y,Y,0
+250235,365243,Pensioner,2,N,N,1
+487261,-11680,Working,0,N,Y,0
+286902,365243,Pensioner,1,N,Y,1
+265838,-11315,Working,1,N,Y,1
+314283,-13870,Working,0,N,Y,0
+325281,-365,Working,0,Y,Y,1
+318164,-9125,Working,3,Y,N,1
+387486,-13505,Working,0,N,N,1
+72671,365243,Pensioner,0,N,N,1
+518394,-12775,Commercial associate,0,N,Y,0
+184896,-14235,Working,0,N,Y,1
+524705,-8030,State servant,1,N,Y,0
+157512,365243,Pensioner,3,N,Y,1
+369544,-12410,Working,1,N,N,1
+424327,-3650,State servant,2,N,N,0
+233629,-8760,Working,1,Y,Y,1
+357186,-5475,Working,3,Y,Y,0
+235059,-2555,Working,2,N,Y,1
+638741,-7665,Commercial associate,0,N,Y,0
+80746,365243,Pensioner,0,N,N,1
+271836,-6570,Working,1,N,Y,1
+93484,365243,Pensioner,0,Y,N,1
+315294,-12410,Commercial associate,3,Y,Y,0
+316386,-6205,Working,1,N,N,1
+342289,-11315,Working,1,N,Y,1
+247392,365243,Pensioner,1,N,Y,1
+335362,-8760,Working,1,Y,Y,1
+414512,-2555,State servant,1,N,N,0
+132097,-365,Working,0,N,Y,1
+905660,-7665,Commercial associate,1,Y,Y,0
+213632,-2555,Working,1,Y,N,1
+239407,365243,Pensioner,1,N,N,1
+83613,0,Student,1,Y,Y,1
+132217,-8030,Working,0,N,Y,1
+277247,-8760,Working,1,Y,N,1
+741252,-7665,Commercial associate,1,Y,Y,0
+505612,-4745,State servant,0,Y,Y,0
+376507,-5475,State servant,0,N,Y,0
+388790,-3285,Working,2,N,Y,1
+471967,0,Commercial associate,1,N,N,1
+818992,-9855,Commercial associate,1,N,Y,0
+553824,-11680,Commercial associate,2,N,N,1
+69449,0,Student,0,Y,Y,1
+751638,-5840,Commercial associate,1,N,N,0
+288184,365243,Pensioner,0,N,N,1
+160692,-12775,Working,0,N,N,1
+167955,-6205,State servant,0,N,N,1
+251222,-4380,Working,1,Y,Y,1
+378031,-8760,Commercial associate,0,N,Y,0
+24466,0,Student,0,N,N,1
+205486,-5475,Commercial associate,0,Y,Y,0
+218324,-8030,Working,1,Y,N,1
+488318,-1460,Working,1,N,N,1
+254697,-5840,Working,0,Y,N,1
+319930,-365,Working,0,Y,N,1
+264357,365243,Pensioner,2,N,N,1
+577794,-13870,State servant,0,N,Y,0
+317841,-9855,Working,1,N,N,1
+189298,-4380,State servant,0,N,Y,0
+153333,365243,Pensioner,2,N,Y,1
+274117,365243,Pensioner,3,Y,Y,1
+433870,-4745,Working,0,N,N,1
+205576,365243,Pensioner,0,N,N,1
+481300,-2555,Working,0,N,Y,0
+620571,-13140,Commercial associate,3,N,N,0
+417428,-6935,Working,1,Y,Y,1
+186785,365243,Pensioner,1,N,N,1
+368964,-11680,Commercial associate,1,N,N,1
+335230,-8760,Commercial associate,3,N,N,1
+370846,0,Working,0,Y,N,1
+80642,0,Student,1,N,N,1
+483432,0,Working,3,N,Y,1
+242193,-9855,State servant,0,Y,Y,0
+244074,-4015,State servant,2,N,Y,0
+381342,-8030,Working,1,N,N,1
+115215,365243,Pensioner,0,N,Y,1
+437889,-13505,Working,0,N,Y,1
+297940,365243,Pensioner,0,N,Y,1
+464612,-12045,Working,1,N,Y,1
+347666,-8030,Working,0,Y,Y,0
+487971,-8760,Working,2,N,N,1
+617170,-7300,Commercial associate,0,Y,Y,0
+566824,-4015,Commercial associate,0,N,Y,0
+123321,-7665,Working,0,N,N,1
+164291,0,Working,0,N,N,1
+211317,-4745,Working,1,N,Y,1
+246106,-2190,Working,1,N,N,1
+205977,-13505,Working,1,Y,Y,1
+101062,-5840,Working,0,N,Y,1
+499384,-1095,Working,0,N,Y,1
+935265,-2555,Commercial associate,1,N,Y,1
+285625,-12045,Working,0,N,Y,1
+216421,-1825,Working,0,Y,Y,1
+266727,365243,Pensioner,0,N,Y,1
+16389,0,Student,1,N,Y,1
+375378,-365,Working,1,N,Y,1
+404245,-1095,Working,0,N,Y,1
+490621,-13505,State servant,1,Y,Y,0
+585925,-3285,Commercial associate,1,N,Y,0
+58512,365243,Pensioner,0,Y,Y,1
+142078,-1460,Working,2,N,Y,1
+65441,0,Student,0,N,N,1
+58007,365243,Pensioner,1,Y,Y,1
+255002,-4745,Working,1,N,N,1
+390279,-13870,Commercial associate,1,N,N,1
+299646,-11680,State servant,0,N,Y,1
+192263,-13870,Working,0,N,N,1
+543054,-10220,Commercial associate,0,N,Y,0
+428800,-13140,Working,1,Y,Y,1
+393322,-3285,State servant,0,N,Y,0
+426579,-5110,Working,1,Y,Y,0
+297550,-12775,State servant,1,Y,Y,1
+76325,0,Student,0,N,N,1
+123319,365243,Pensioner,1,Y,N,1
+311951,-1095,Working,1,Y,N,1
+309945,-2920,Commercial associate,0,N,N,0
+84560,365243,Pensioner,3,N,Y,1
+284245,-14235,Working,1,N,N,1
+283588,365243,Pensioner,0,N,Y,1
+58070,365243,Pensioner,0,N,Y,1
+346965,-8395,Working,1,Y,Y,1
+194270,-7665,Working,0,Y,Y,1
+49840,0,Student,0,Y,N,1
+101759,-4380,Working,0,N,N,1
+159676,-10220,Working,0,N,Y,1
+407009,-365,State servant,1,N,Y,1
+286240,-2555,Working,2,N,Y,1
+170993,365243,Pensioner,0,Y,N,1
+473048,-730,Working,0,N,Y,1
+434402,-11680,Working,1,N,N,1
+525597,-5475,State servant,0,N,Y,0
+56150,365243,Pensioner,0,Y,Y,1
+231532,365243,Pensioner,2,N,Y,1
+144914,365243,Pensioner,0,N,Y,1
+238155,-12410,Working,2,N,Y,1
+267642,-8030,Commercial associate,1,N,Y,1
+387804,-8760,State servant,0,Y,N,0
+356028,-12045,Working,0,Y,N,0
+238456,365243,Pensioner,0,N,Y,1
+140809,-7665,Working,0,N,N,1
+277900,-2190,Working,1,N,Y,1
+590719,-365,Commercial associate,0,N,Y,1
+203276,-7300,State servant,2,N,N,1
+478165,-12045,Working,0,N,Y,0
+337091,-6935,Working,0,N,N,0
+266017,-2920,Commercial associate,1,Y,Y,1
+493276,-14235,Working,0,Y,N,1
+306258,-10585,Working,0,Y,Y,0
+216844,365243,Pensioner,3,N,Y,1
+338,0,Student,1,N,N,1
+196968,365243,Pensioner,0,Y,N,1
+237641,-5475,Commercial associate,2,Y,Y,0
+268270,-2190,Working,0,N,N,1
+448206,-10585,State servant,0,N,Y,0
+437054,-8395,Working,0,Y,Y,0
+690457,-8030,Commercial associate,0,N,Y,0
+469708,-6205,Commercial associate,1,N,N,1
+225341,-4380,Working,1,N,N,1
+407228,-10220,Working,0,N,Y,0
+50072,0,Student,1,N,Y,1
+132413,-1095,Working,1,N,Y,1
+35400,0,Student,0,N,Y,1
+457172,-1825,State servant,3,N,N,0
+379352,-2190,Commercial associate,3,Y,N,0
+502186,-12045,Commercial associate,0,Y,N,0
+173781,-8030,Working,2,N,N,1
+356689,-6205,Working,1,Y,N,1
+495804,-8760,Commercial associate,1,N,Y,0
+143642,-9855,Working,0,Y,N,1
+177015,365243,Pensioner,1,Y,Y,1
+252826,-1460,Working,0,N,N,1
+286988,-5840,Commercial associate,0,N,Y,0
+182663,365243,Pensioner,1,N,Y,1
+219623,-9855,Commercial associate,2,N,N,1
+257364,-12775,Working,1,N,Y,1
+68344,0,Student,2,Y,Y,1
+142241,365243,Pensioner,1,N,Y,1
+175418,-5840,Working,0,N,Y,1
+352053,-6570,State servant,1,N,N,0
+815645,-13140,Commercial associate,0,N,N,0
+293903,365243,Pensioner,1,N,Y,1
+576826,-6205,Commercial associate,2,N,N,1
+876787,-4015,Commercial associate,0,Y,Y,0
+77082,365243,Pensioner,0,Y,N,1
+459912,-13870,Working,1,N,Y,1
+464451,-7665,State servant,0,N,N,0
+153268,-5475,Working,2,N,N,1
+7424,0,Student,0,Y,Y,1
+176385,-5110,State servant,0,N,Y,0
+249988,365243,Pensioner,1,N,N,1
+582043,-8395,State servant,2,N,N,0
+360550,-5840,Working,1,Y,Y,0
+229749,-365,Working,1,N,Y,1
+257661,-6205,Working,0,N,Y,1
+201195,-13505,State servant,2,N,N,1
+487960,-11315,Working,0,N,Y,1
+222431,-11680,Commercial associate,1,Y,Y,1
+106985,365243,Pensioner,0,N,Y,1
+118577,365243,Pensioner,1,N,Y,1
+849438,-11315,Commercial associate,0,N,N,0
+194701,365243,Pensioner,1,N,Y,1
+198818,-4745,Working,0,Y,Y,1
+183186,-6570,Working,3,N,Y,1
+454591,-6205,Working,0,N,Y,0
+60315,0,Student,0,Y,Y,1
+474484,-10950,Working,0,N,N,0
+461403,-8395,Working,1,N,Y,0
+565231,-12775,State servant,2,N,Y,0
+45241,0,Student,0,N,N,1
+119975,-12775,Working,2,Y,Y,1
+788612,-13505,Commercial associate,0,Y,N,0
+497190,-8760,Commercial associate,1,Y,N,0
+67649,0,Student,1,N,N,1
+483894,-10950,Working,0,Y,Y,0
+438763,-10585,Working,0,N,Y,0
+363567,-6935,State servant,0,N,Y,0
+332944,-9855,Working,2,N,Y,0
+443681,-2920,Working,1,N,Y,1
+438404,-1460,Working,0,N,N,1
+1239,0,Student,0,N,Y,1
+530929,-8030,Commercial associate,1,Y,Y,0
+101969,-2555,Working,3,Y,N,1
+160677,365243,Pensioner,1,N,Y,1
+312112,-9125,Working,2,N,Y,1
+573875,-11680,State servant,1,N,N,0
+834457,-9855,Commercial associate,0,N,Y,0
+211279,-4380,Working,1,N,N,1
+432549,-1095,Commercial associate,1,N,N,1
+117772,-3650,Working,0,Y,N,1
+127723,-2190,Working,1,N,Y,1
+455824,-12410,Working,0,Y,N,0
+487681,-2920,Commercial associate,0,N,Y,1
+245804,365243,Pensioner,0,Y,Y,1
+535914,-8030,Commercial associate,2,N,N,0
+114106,365243,Pensioner,1,N,Y,1
+145379,-7300,Working,0,Y,Y,1
+455891,-9490,Working,2,N,Y,1
+570321,-365,Commercial associate,0,N,Y,1
+275211,-3285,Working,1,Y,Y,1
+319735,-12775,Commercial associate,0,Y,N,0
+188204,-7665,Working,2,N,Y,1
+800441,-2555,Commercial associate,1,N,Y,1
+238299,-13870,Working,1,Y,N,1
+227556,-12410,Working,2,N,Y,1
+116014,-12410,Working,1,N,Y,1
+651000,-8760,Commercial associate,3,Y,N,0
+394054,-3650,Working,3,Y,Y,0
+131007,-13870,Working,1,Y,N,1
+131367,-11680,Working,0,N,Y,1
+251659,365243,Pensioner,0,N,Y,1
+699499,-730,Commercial associate,0,Y,Y,1
+980641,-8030,Commercial associate,0,Y,Y,0
+48604,0,Student,1,Y,Y,1
+356911,-4015,Working,0,N,N,1
+435126,-9855,Working,3,Y,N,0
+937565,-7300,Commercial associate,0,Y,N,0
+210699,-13505,Commercial associate,0,Y,Y,0
+224481,-7300,Working,0,Y,Y,1
+353334,-9125,Working,1,N,N,1
+926331,-13140,Commercial associate,0,N,Y,0
+84594,365243,Pensioner,2,N,N,1
+140461,-2920,Working,0,Y,Y,1
+204211,-6205,Working,1,N,Y,1
+304894,-4745,Working,0,N,N,1
+223429,-8760,Commercial associate,1,Y,Y,1
+140108,-4015,Working,3,N,Y,1
+233260,365243,Pensioner,0,Y,N,1
+402066,-1460,Working,1,N,Y,1
+532007,-5110,State servant,3,Y,Y,0
+178141,-2190,State servant,1,Y,Y,1
+299900,-12775,Working,1,N,Y,1
+199071,-12410,Working,0,N,N,1
+431396,-365,Working,0,N,N,1
+256297,-13870,State servant,1,N,N,1
+47076,0,Student,0,Y,Y,1
+79300,365243,Pensioner,0,N,Y,1
+245128,-10220,Working,0,N,N,1
+263856,-2920,Working,2,N,Y,1
+201353,365243,Pensioner,0,N,N,1
+254544,-5110,Working,2,N,N,1
+213936,-8030,State servant,1,Y,Y,1
+752370,-8395,Commercial associate,0,Y,Y,0
+215053,-12775,Working,0,N,N,1
+192601,-1460,Working,1,N,Y,1
+178815,-9855,Working,2,N,Y,1
+322146,-12775,Working,1,N,N,1
+369054,-3285,Working,1,Y,N,0
+139071,-10950,Working,1,N,Y,1
+189489,-2920,Working,0,N,Y,1
+495677,-6935,Working,0,Y,N,0
+30841,0,Student,0,N,Y,1
+259116,-7300,Working,3,N,Y,1
+984586,-7665,Commercial associate,1,Y,Y,0
+164028,-7300,Working,1,N,Y,1
+157804,-7665,Working,1,N,Y,1
+906972,-10585,Commercial associate,2,N,N,0
+353113,-5475,Working,2,N,N,1
+121727,-12045,Working,0,N,N,1
+801153,-4380,Commercial associate,1,N,N,0
+126832,-4745,Working,0,N,Y,1
+370894,-1825,State servant,2,N,Y,0
+742601,-8395,Commercial associate,0,Y,N,0
+390868,-3285,Commercial associate,1,N,N,0
+168099,-10220,Working,1,Y,Y,1
+448871,-8395,State servant,1,N,Y,0
+168926,-6570,Working,0,N,N,1
+346627,-6570,Working,0,Y,Y,0
+461278,-9855,Working,1,N,N,1
+396195,-6935,Working,1,Y,Y,0
+557688,-9125,State servant,1,Y,Y,0
+343306,-10585,Working,2,Y,Y,0
+233369,-12410,State servant,0,N,N,1
+344809,-1460,Working,1,N,Y,1
+456992,-8395,Working,1,N,Y,0
+238808,-10950,Working,2,N,Y,1
+454717,-7665,Working,0,Y,N,0
+93583,0,Student,0,N,Y,1
+276922,365243,Pensioner,1,N,Y,1
+328870,-1825,Working,2,Y,N,1
+338511,-2190,Working,0,N,N,1
+561961,-7300,State servant,0,N,Y,0
+450040,-7300,Working,1,N,Y,0
+241006,-2190,State servant,1,N,N,1
+204553,365243,Pensioner,1,N,Y,1
+229017,365243,Pensioner,0,N,Y,1
+196111,-13870,Working,1,Y,Y,0
+248066,-11315,Working,0,Y,Y,1
+155774,-14235,State servant,2,N,N,1
+56823,365243,Pensioner,1,Y,Y,1
+453323,-11680,Working,0,N,Y,0
+260097,365243,Pensioner,0,Y,Y,1
+133243,-12775,Working,0,N,N,1
+87991,365243,Pensioner,0,N,N,1
+473260,-730,Commercial associate,2,Y,Y,0
+189087,-2555,Working,2,N,Y,1
+598877,-6570,State servant,2,N,Y,0
+31852,0,Student,1,N,N,1
+108438,-9490,Working,1,Y,Y,1
+269780,365243,Pensioner,0,N,N,1
+361691,-3650,Working,2,N,Y,0
+109346,-4015,Working,0,Y,N,1
+457792,-7300,Working,0,N,N,1
+255400,-8030,State servant,1,N,N,1
+82602,365243,Pensioner,0,N,Y,1
+462299,-13870,Commercial associate,0,N,N,0
+356190,-730,Working,1,N,Y,1
+472013,-4745,Working,2,Y,N,0
+341521,-11680,Commercial associate,2,Y,Y,0
+233669,-4745,Working,2,N,Y,1
+72010,365243,Pensioner,0,N,Y,1
+380495,-6570,Working,3,N,N,0
+279526,-4745,Working,1,N,N,1
+780595,-4745,Commercial associate,0,Y,Y,0
+421855,-11680,Working,0,N,Y,1
+192493,-10585,Working,1,Y,N,1
+517013,-5475,Commercial associate,0,N,Y,0
+458142,-7300,Working,0,N,Y,1
+550584,-2920,State servant,1,N,N,1
+132174,-14235,Working,0,N,N,1
+227795,-10220,Working,0,N,Y,1
+178803,-2190,State servant,0,Y,N,1
+593409,-8395,Commercial associate,1,N,Y,0
+102261,-8760,Working,0,Y,N,1
+447515,0,Working,0,N,N,1
+911404,-6935,Commercial associate,0,N,Y,0
+379687,-6935,Working,0,N,N,1
+393481,-2920,Working,2,Y,N,1
+476742,-13870,Working,0,N,N,1
+233852,365243,Pensioner,0,N,N,1
+353196,-11680,State servant,2,N,N,1
+173053,365243,Pensioner,1,N,Y,1
+238211,-10585,Commercial associate,2,N,Y,1
+441075,-11680,Working,0,N,N,1
+644865,-3650,Commercial associate,1,N,Y,0
+901979,-730,Commercial associate,1,Y,N,1
+274605,365243,Pensioner,2,N,Y,1
+320972,-5110,Working,0,Y,Y,0
+450536,-13505,State servant,2,N,Y,0
+331496,-13505,Working,1,N,N,1
+283467,-5110,Working,1,Y,N,1
+428821,-12775,Working,0,N,Y,0
+168803,-13140,Working,2,N,Y,1
+217297,-9855,Commercial associate,0,N,N,1
+384996,-2555,Working,0,Y,N,1
+105744,-1460,Working,0,N,Y,1
+338746,-9490,Working,0,Y,N,0
+284233,-13140,Working,2,N,Y,1
+211475,365243,Pensioner,2,N,Y,1
+331312,-11315,Working,0,N,Y,0
+732844,-7665,Commercial associate,0,N,Y,0
+287954,-7300,Working,0,Y,N,1
+824219,-8395,Commercial associate,3,Y,N,0
+417712,-12410,Working,2,N,Y,0
+250023,-9855,Working,2,N,N,1
+205914,365243,Pensioner,0,N,Y,1
+196099,-4015,State servant,3,N,Y,1
+195071,-1825,Working,1,N,Y,1
+464598,-5110,Commercial associate,1,N,Y,0
+163613,365243,Pensioner,0,N,N,1
+234482,365243,Pensioner,0,Y,N,1
+130018,365243,Pensioner,0,Y,N,1
+101919,365243,Pensioner,2,Y,N,1
+440093,-7300,Working,0,N,Y,0
+977949,-12410,Commercial associate,3,N,N,1
+428768,-12775,Working,2,N,Y,1
+166923,365243,Pensioner,1,N,N,1
+121281,-4745,Working,0,N,Y,1
+241869,-4380,Commercial associate,2,Y,N,0
+251793,365243,Pensioner,0,N,Y,1
+211041,-9125,Working,0,Y,Y,1
+248694,-4745,Working,0,Y,Y,1
+430048,-5840,Working,1,N,N,1
+486328,-7665,Working,0,N,N,1
+320263,-6935,Commercial associate,1,Y,N,0
+328174,-7665,Working,1,Y,N,1
+335422,-4745,Working,2,N,N,1
+501822,-10950,State servant,0,N,N,0
+440134,-8395,State servant,2,Y,Y,0
+468266,0,Working,0,N,N,1
+263550,-4380,State servant,0,N,N,1
+132441,-8030,Working,0,N,N,1
+547860,-7300,Commercial associate,2,Y,Y,0
+54040,0,Student,0,N,N,1
+379652,-13870,Working,1,N,Y,0
+323106,-2190,Commercial associate,1,N,N,1
+120808,-13505,Working,0,N,Y,1
+364764,-12045,State servant,0,N,Y,0
+345739,-7300,Working,1,N,Y,0
+388816,-3285,Working,1,Y,N,1
+380343,-365,Working,0,Y,Y,0
+332885,-5840,State servant,2,Y,N,0
+85179,0,Student,1,N,N,1
+308475,-4015,Working,0,Y,N,0
+443173,-2190,Working,0,Y,N,0
+161240,-4015,Working,0,Y,N,1
+234626,365243,Pensioner,1,N,N,1
+340853,-1095,Working,2,N,N,1
+133870,-8030,Working,1,N,N,1
+486851,-3650,State servant,3,Y,Y,0
+389977,-9125,State servant,2,N,Y,0
+176311,365243,Pensioner,0,N,Y,1
+214055,365243,Pensioner,1,Y,Y,1
+213000,-3650,Working,0,N,Y,1
+335796,-1460,Working,1,N,N,1
+637470,-10585,Commercial associate,1,N,Y,0
+193344,-5840,Working,3,N,N,1
+228328,-5475,Commercial associate,1,N,Y,0
+89080,0,Student,0,N,Y,1
+487025,-9125,Working,0,N,N,0
+275898,365243,Pensioner,3,N,Y,1
+422355,-10585,State servant,1,N,Y,0
+598604,-7665,State servant,1,N,N,0
+217849,365243,Pensioner,0,N,N,1
+208485,365243,Pensioner,0,N,N,1
+385960,-9490,Working,3,N,Y,1
+109171,-6935,Working,1,N,N,1
+492208,-6205,Working,3,N,Y,0
+906673,0,Commercial associate,0,N,Y,1
+59256,365243,Pensioner,0,Y,N,1
+440676,-3650,Working,1,N,Y,0
+199003,-2190,Working,2,N,N,1
+324870,-6935,State servant,0,Y,Y,0
+325391,-13870,Working,0,N,Y,0
+150772,365243,Pensioner,0,N,N,1
+590284,-8395,State servant,0,N,Y,0
+207415,-8030,Commercial associate,2,N,Y,1
+365976,-1825,Working,0,N,Y,1
+400546,-7665,Working,1,N,Y,1
+307636,-4380,State servant,0,N,Y,0
+427602,-4745,Working,0,N,N,1
+27127,0,Student,0,N,N,1
+295497,-3285,Working,0,Y,Y,1
+12297,0,Student,0,N,Y,1
+242180,-13505,Working,1,N,Y,1
+276391,365243,Pensioner,1,N,Y,1
+113689,-13870,Working,2,N,Y,1
+121644,-1825,Working,0,N,N,1
+412318,0,State servant,0,N,Y,1
+301554,-12410,Working,0,N,N,0
+188791,-10220,Working,2,N,N,1
+401338,-5475,Working,2,Y,N,1
+52815,0,Student,2,N,N,1
+198338,365243,Pensioner,0,N,N,1
+136610,365243,Pensioner,0,Y,Y,1
+159722,-1460,Working,0,N,Y,1
+204692,365243,Pensioner,0,N,N,1
+439933,-13870,Working,2,N,N,1
+466389,-10220,Working,0,Y,Y,0
+75991,365243,Pensioner,0,N,Y,1
+256989,-1460,Working,0,N,Y,1
+159778,-3285,Working,1,N,N,1
+335189,-9125,Commercial associate,1,Y,Y,0
+430280,-6935,Working,1,N,N,0
+968917,-730,Commercial associate,0,N,Y,1
+721658,-12775,Commercial associate,0,Y,Y,0
+286633,-5110,Working,0,N,Y,1
+284381,-8760,Commercial associate,0,N,Y,1
+353091,-6570,Working,3,N,N,1
+443125,-13505,State servant,0,Y,Y,0
+100516,365243,Pensioner,0,Y,Y,1
+299570,-9855,Working,1,N,Y,1
+372422,-8030,Working,0,N,Y,1
+333540,-12045,Working,0,N,N,0
+529231,-6205,Commercial associate,0,N,N,0
+377068,-730,Working,1,N,N,1
+182409,-5840,Working,2,N,Y,1
+200368,365243,Pensioner,1,N,Y,1
+113610,365243,Pensioner,0,N,N,1
+485377,-12045,State servant,1,N,Y,0
+391071,-2190,Working,0,N,N,1
+397986,-4745,Working,0,N,N,1
+346404,-3285,Working,2,N,N,1
+544866,-1095,Commercial associate,0,N,Y,0
+626044,-8395,Commercial associate,1,N,N,1
+335497,-13870,Working,0,N,N,1
+256358,-7665,Commercial associate,1,N,N,1
+66322,365243,Pensioner,0,N,Y,1
+123199,-8030,Working,0,N,N,1
+325121,-10585,State servant,0,Y,Y,0
+453602,-4745,State servant,0,N,Y,0
+572251,-3650,Commercial associate,0,Y,Y,0
+103453,-9855,Working,1,N,Y,1
+149170,-730,Working,1,N,Y,1
+333612,0,Working,1,N,Y,1
+193500,-10220,Working,0,N,Y,1
+292816,-730,Working,0,N,Y,1
+763370,-8760,Commercial associate,1,N,N,1
+623291,-5475,Commercial associate,0,N,Y,0
+208117,-5475,Working,0,Y,Y,1
+497650,-6570,Working,2,N,Y,0
+397016,-14235,Working,0,Y,Y,0
+52763,365243,Pensioner,3,Y,N,1
+368620,-5110,Working,0,N,Y,1
+343381,-4745,Working,0,Y,Y,0
+233962,-10950,Working,1,Y,Y,0
+98008,365243,Pensioner,1,Y,Y,1
+252711,-2920,Working,1,N,N,1
+263972,-6570,Commercial associate,1,N,Y,1
+134693,-10220,Working,0,Y,N,1
+397097,-13140,Commercial associate,1,N,Y,0
+444965,-5475,State servant,0,N,Y,0
+257581,365243,Pensioner,1,N,Y,1
+249522,-9125,Commercial associate,0,N,Y,0
+826926,-730,Commercial associate,2,N,Y,1
+226020,365243,Pensioner,1,N,Y,1
+93395,365243,Pensioner,1,Y,Y,1
+559760,-9855,State servant,0,N,Y,0
+262642,365243,Pensioner,1,Y,N,1
+165901,-14235,Working,1,N,N,1
+248986,365243,Pensioner,1,Y,Y,1
+214796,365243,Pensioner,2,N,Y,1
+390446,-5475,Working,0,Y,Y,0
+75525,365243,Pensioner,0,Y,Y,1
+405613,-8395,Working,1,N,Y,1
+899746,-730,Commercial associate,1,N,Y,0
+171196,-6570,Working,0,N,Y,1
+211094,-8395,Commercial associate,0,N,N,0
+384308,-4015,Working,0,N,Y,1
+738314,-11315,Commercial associate,0,N,N,0
+322123,-1460,Working,0,N,N,1
+437746,0,Working,1,N,Y,1
+161169,-5840,Working,2,Y,Y,1
+303834,-5110,Working,2,N,N,1
+912793,-10585,Commercial associate,2,N,N,1
+158106,365243,Pensioner,0,N,N,1
+498237,-5840,Working,1,N,N,0
+676111,-9490,Commercial associate,1,Y,N,0
+273860,-5840,Working,1,N,Y,1
+417715,-13870,Working,0,N,N,1
+137954,365243,Pensioner,1,N,Y,1
+132101,-8395,Working,0,Y,Y,1
+26616,0,Student,0,Y,Y,1
+387623,-10220,Working,0,Y,Y,0
+378495,-12775,Working,0,N,Y,1
+127694,365243,Pensioner,0,N,N,1
+60692,365243,Pensioner,1,N,Y,1
+277597,-8030,Working,0,N,Y,1
+402084,-12045,State servant,0,N,Y,0
+73616,0,Student,0,Y,Y,1
+86055,0,Student,0,N,Y,1
+214091,-13505,Working,2,N,N,1
+290246,-1095,Working,0,N,N,1
+66788,0,Student,1,N,Y,1
+314566,-2555,Working,0,N,Y,1
+131972,365243,Pensioner,2,N,Y,1
+426053,-2555,Working,1,N,N,1
+64079,365243,Pensioner,1,N,N,1
+63400,0,Student,0,N,Y,1
+428060,-6935,State servant,0,Y,Y,0
+213936,-8395,Working,0,N,Y,1
+670489,-4380,Commercial associate,0,N,N,0
+931893,-6205,Commercial associate,1,N,N,0
+264957,-6205,Working,0,Y,Y,0
+967442,-5110,Commercial associate,2,N,Y,0
+846045,-11680,Commercial associate,2,N,N,0
+375553,-5475,Working,0,Y,N,0
+274135,365243,Pensioner,2,N,N,1
+259882,-13870,Working,0,N,Y,1
+238839,365243,Pensioner,2,N,Y,1
+120453,365243,Pensioner,1,Y,Y,1
+420961,-14235,Working,2,Y,N,0
+101051,-365,Working,1,N,Y,1
+308547,-4380,Working,0,N,N,0
+302834,-12410,Working,0,N,N,1
+356446,-4015,Working,0,N,N,1
+406063,-4015,Working,0,N,Y,1
+193079,-2920,Working,1,N,Y,1
+318306,-9490,Working,0,Y,Y,0
+441678,-12045,Working,2,N,N,1
+167766,0,Working,0,N,N,1
+171088,-7665,Working,0,N,Y,1
+165785,-5110,Working,0,Y,Y,1
+457226,-8030,Working,1,N,N,1
+649777,-3285,Commercial associate,0,Y,N,0
+598377,-13140,State servant,0,N,Y,0
+276817,365243,Pensioner,1,N,N,1
+265465,-4380,Working,1,Y,N,1
+217192,-13870,Working,3,N,Y,1
+221688,-4015,Working,1,Y,N,1
+279689,-7300,Working,1,Y,N,1
+316750,-5840,Working,0,Y,Y,0
+317516,-1825,Working,1,Y,Y,1
+172650,365243,Pensioner,0,N,N,1
+853881,-8030,Commercial associate,1,Y,Y,0
+261215,-6205,Working,0,N,N,1
+209430,-5110,Working,1,N,N,1
+349395,-12775,Commercial associate,1,N,Y,0
+916944,-2190,Commercial associate,0,Y,Y,0
+995775,-4745,Commercial associate,0,Y,Y,0
+235899,-5475,Working,0,N,Y,1
+261362,-2555,State servant,1,N,N,1
+236950,365243,Pensioner,1,N,Y,1
+459281,-1460,Working,1,N,Y,0
+288868,-10585,Working,1,N,Y,1
+453391,-6205,State servant,0,N,Y,0
+268207,-730,Commercial associate,2,N,N,1
+404082,-1460,Working,2,N,Y,1
+446870,-3650,Working,0,N,N,1
+445984,-6205,Commercial associate,0,N,Y,0
+259988,365243,Pensioner,0,Y,Y,1
+494825,-4745,Working,1,N,Y,1
+439298,-12045,Working,0,Y,N,0
+96758,0,Student,0,N,N,1
+110410,365243,Pensioner,0,Y,N,1
+509509,-4015,Commercial associate,0,N,Y,0
+479162,-5110,Working,0,N,Y,0
+342555,-4015,Working,0,Y,Y,0
+291444,-2555,Working,2,Y,Y,1
+323805,-8030,Commercial associate,0,N,Y,0
+367282,-5110,State servant,0,N,Y,0
+122692,-9490,Working,2,N,N,1
+431999,-5475,Working,0,N,Y,0
+526284,-10220,Commercial associate,0,N,Y,0
+310834,-13505,Working,0,N,N,1
+727409,-6205,Commercial associate,0,N,Y,0
+784668,-12045,Commercial associate,0,N,Y,0
+77986,0,Student,2,Y,Y,1
+232233,-365,Working,1,N,Y,1
+346686,-8395,Working,2,N,N,1
+913611,-10950,Commercial associate,0,N,Y,0
+450918,-365,Working,1,N,Y,1
+46250,0,Student,2,N,N,1
+139904,365243,Pensioner,0,Y,Y,1
+477036,-3285,State servant,1,Y,N,0
+644718,-13140,Commercial associate,1,Y,Y,0
+187592,-5475,Working,0,N,N,1
+151033,-2920,Working,1,N,N,1
+753280,-12775,Commercial associate,0,Y,N,0
+403630,-4015,Working,1,Y,Y,0
+242157,-13140,Working,1,N,N,1
+236645,-12775,Working,3,N,N,1
+118312,365243,Pensioner,1,N,N,1
+109615,-1460,Working,1,N,Y,1
+339327,-5840,State servant,1,N,Y,0
+368782,-12045,Working,0,N,N,0
+472778,-11680,Working,0,N,Y,0
+169590,-11315,Working,2,N,Y,1
+209726,-8760,Commercial associate,0,N,N,0
+387360,-6935,Working,0,Y,N,0
+149052,-9125,Working,0,N,Y,1
+386848,-5840,Working,0,N,Y,0
+409378,-12410,Working,1,Y,Y,0
+393459,-6570,State servant,1,N,Y,0
+298955,-7665,State servant,0,Y,Y,0
+156396,-9855,Working,1,N,N,1
+867614,-4745,Commercial associate,0,Y,N,0
+462355,-13505,Working,1,Y,N,1
+546030,-2190,Commercial associate,1,N,Y,0
+246907,-13140,State servant,0,N,Y,0
+217477,365243,Pensioner,0,N,Y,1
+343688,-8030,Working,1,N,Y,0
+207573,-10220,Working,0,N,Y,1
+160354,-5475,Working,0,N,N,1
+182018,365243,Pensioner,0,N,Y,1
+361439,-8030,Working,0,N,Y,0
+183384,-2190,Working,1,Y,N,1
+180820,-12045,Working,0,N,N,1
+263965,-2920,Commercial associate,0,Y,Y,1
+967610,-9490,Commercial associate,1,Y,Y,0
+436430,-10950,Working,1,Y,N,0
+312456,-1095,Working,0,N,N,1
+145761,365243,Pensioner,0,N,Y,1
+5209,0,Student,1,Y,Y,1
+239005,-13140,Working,0,N,Y,1
+8346,0,Student,3,Y,N,1
+880206,-365,Commercial associate,1,N,Y,1
+257419,-13505,Working,0,N,Y,1
+403994,-6205,Working,0,N,Y,1
+265173,365243,Pensioner,0,Y,Y,1
+468863,-9855,Working,0,N,Y,0
+196452,-11315,Working,2,N,Y,1
+257550,-730,Working,0,Y,Y,1
+398277,-4380,Working,3,N,Y,0
+450083,-7300,Working,0,N,Y,1
+103051,365243,Pensioner,3,Y,Y,1
+281189,365243,Pensioner,1,N,Y,1
+233223,365243,Pensioner,2,N,N,1
+454371,-8030,Commercial associate,3,N,N,0
+115066,365243,Pensioner,0,N,Y,1
+819674,-11315,Commercial associate,0,N,Y,0
+162712,-12045,Working,0,N,Y,1
+446717,-4380,Working,0,Y,N,0
+431414,-4015,Commercial associate,0,Y,Y,0
+190262,365243,Pensioner,2,N,Y,1
+977130,-7665,Commercial associate,0,N,Y,0
+314304,-6570,Working,1,Y,Y,1
+607137,-12410,Commercial associate,0,N,N,0
+88603,0,Student,0,Y,Y,1
+455719,-7300,Commercial associate,3,Y,Y,0
+334390,-11315,Working,0,N,Y,1
+559014,-8030,Commercial associate,0,Y,Y,0
+121638,-6935,Working,1,N,N,1
+321097,-14235,State servant,1,N,Y,0
+117163,365243,Pensioner,1,Y,Y,1
+205468,-13505,Working,0,N,Y,1
+494594,-11680,Working,0,N,Y,0
+412354,0,Working,0,Y,N,1
+885967,-12045,Commercial associate,1,N,N,0
+223696,365243,Pensioner,0,Y,N,1
+443932,-1825,Working,1,Y,N,1
+428681,-3285,Working,1,Y,Y,0
+392878,-1095,Working,1,N,N,1
+173870,-12410,Working,1,N,N,1
+678977,-10220,Commercial associate,2,N,N,1
+164159,365243,Pensioner,0,Y,N,1
+62940,365243,Pensioner,0,N,Y,1
+263639,-8030,Working,1,N,Y,1
+231250,-1460,Working,1,N,N,1
+465036,-365,Working,3,N,N,1
+964601,-12410,Commercial associate,0,N,N,0
+494109,-5475,Working,2,N,N,1
+285702,365243,Pensioner,0,N,Y,1
+364159,-14235,State servant,2,Y,Y,0
+209422,365243,Pensioner,2,N,Y,1
+447941,-10220,Commercial associate,0,Y,N,0
+543154,-12045,Commercial associate,0,Y,Y,0
+21045,0,Student,1,N,N,1
+196312,365243,Pensioner,1,Y,N,1
+201285,365243,Pensioner,2,N,Y,1
+382152,-3650,Working,1,N,Y,1
+478910,-5840,Commercial associate,0,N,N,0
+58802,365243,Pensioner,1,N,Y,1
+472339,-8030,Working,1,N,Y,1
+37425,0,Student,0,N,N,1
+318599,-11315,Working,1,N,N,1
+62699,0,Student,0,N,Y,1
+365919,-8760,Working,0,N,Y,0
+247032,-10585,Working,0,N,N,1
+187521,365243,Pensioner,0,Y,N,1
+307440,-13870,Working,2,Y,Y,0
+179335,-2920,Working,0,Y,Y,1
+814101,-7665,Commercial associate,2,N,N,1
+566704,-11680,State servant,1,N,Y,0
+372544,-9855,Working,0,N,N,0
+171537,-8395,Working,0,N,N,1
+363286,-5840,State servant,2,N,Y,0
+629763,-730,Commercial associate,2,N,Y,1
+378720,-1095,Working,3,N,Y,1
+710472,-4015,Commercial associate,3,Y,Y,0
+258805,365243,Pensioner,0,Y,Y,1
+334453,-12410,Working,0,N,N,0
+434248,-12045,Working,2,N,N,1
+481325,-8030,Working,0,N,Y,0
+126081,-12410,Working,1,Y,N,1
+116562,0,Working,0,N,Y,1
+123065,-5475,Working,0,N,Y,1
+83302,365243,Pensioner,0,Y,Y,1
+87245,0,Student,0,N,N,1
+311428,-4015,Working,1,N,N,1
+135897,-1825,Working,1,Y,Y,1
+456742,-5110,Working,3,N,Y,1
+219178,365243,Pensioner,0,N,Y,1
+578189,-10220,Commercial associate,0,N,Y,0
+292150,-2190,Working,2,N,N,1
+201100,365243,Pensioner,1,N,N,1
+951331,-7300,Commercial associate,0,Y,Y,0
+469359,-11315,Working,0,N,Y,0
+317726,-12775,Working,1,N,Y,0
+363136,-3650,Working,0,N,Y,1
+444407,-14235,Working,0,N,Y,0
+388763,-8395,Working,0,N,Y,0
+612601,-3650,Commercial associate,0,N,Y,0
+824913,-6935,Commercial associate,2,N,Y,0
+327459,-6205,Working,1,N,Y,1
+329530,-5110,Working,0,N,Y,0
+493369,-9855,Working,1,N,Y,1
+250976,365243,Pensioner,0,N,N,1
+200882,365243,Pensioner,1,N,N,1
+425687,0,Commercial associate,0,N,N,1
+597798,-9855,Commercial associate,1,N,N,0
+900614,-11680,Commercial associate,1,N,Y,0
+310489,-3650,Commercial associate,1,N,Y,0
+215116,-4745,Commercial associate,0,N,Y,0
+405063,-365,Working,0,N,Y,1
+55499,365243,Pensioner,0,N,N,1
+503791,-12775,State servant,0,N,N,0
+351071,-12775,Working,0,N,N,0
+468615,-2190,Working,1,N,Y,1
+379343,-2190,Working,2,Y,Y,0
+503972,-13140,State servant,0,Y,Y,0
+297780,-3650,Working,1,N,N,1
+29709,0,Student,2,N,Y,1
+51936,365243,Pensioner,1,N,Y,1
+848033,-7300,Commercial associate,1,N,N,1
+370665,-12045,Working,0,N,Y,0
+370824,-365,Commercial associate,1,N,Y,1
+190399,365243,Pensioner,1,N,Y,1
+189044,-7665,Working,1,N,N,1
+262696,0,Working,1,N,N,1
+115734,-1825,Working,1,N,Y,1
+666836,-1825,Commercial associate,1,Y,Y,0
+283851,-11315,State servant,2,Y,Y,0
+394255,-9125,State servant,0,N,Y,0
+275756,365243,Pensioner,0,N,N,1
+413572,-12045,Working,1,N,Y,0
+237799,-10585,Working,0,Y,N,1
+65577,365243,Pensioner,1,Y,Y,1
+557092,-10585,Commercial associate,0,N,Y,0
+395457,-2555,Working,0,N,Y,0
+159164,-730,Working,2,N,Y,1
+165819,365243,Pensioner,1,N,N,1
+244587,-5475,Working,0,N,N,1
+55636,365243,Pensioner,2,N,Y,1
+67143,365243,Pensioner,1,N,Y,1
+422245,0,Working,0,N,N,1
+319631,-9490,Working,2,Y,N,0
+539187,-14235,State servant,1,Y,Y,0
+321439,-11680,Working,0,N,N,0
+806306,-1460,Commercial associate,3,Y,Y,0
+726925,-3650,Commercial associate,2,Y,Y,0
+547236,-3285,Commercial associate,0,Y,Y,0
+317394,-3285,Working,0,N,N,1
+119403,-12045,Working,2,N,N,1
+548845,-12045,State servant,1,N,N,0
+389819,-5475,Working,0,Y,Y,0
+519248,-9490,Commercial associate,2,N,N,0
+225494,-7665,Commercial associate,0,Y,Y,0
+399479,-14235,Working,1,Y,Y,0
+466378,-12045,Working,2,N,Y,0
+501770,-1095,State servant,2,Y,Y,0
+696753,-4015,Commercial associate,1,N,N,0
+94980,365243,Pensioner,0,N,Y,1
+619876,-4380,Commercial associate,1,N,Y,0
+180691,-6570,Working,0,Y,Y,1
+139236,-3285,Working,0,N,Y,1
+429061,-9490,Working,3,Y,Y,0
+68685,0,Student,1,Y,Y,1
+397438,-14235,Working,0,Y,N,1
+137879,-11680,Working,1,N,N,1
+323032,0,Working,1,N,N,1
+74710,0,Student,1,N,Y,1
+541701,-10220,Commercial associate,2,N,Y,0
+426024,-14235,Commercial associate,0,N,Y,0
+127307,-12045,Working,0,N,N,1
+203920,-8030,Working,1,N,N,1
+403806,-6935,Working,1,Y,Y,0
+226128,-1460,Commercial associate,3,Y,Y,1
+285943,365243,Pensioner,3,N,Y,1
+348003,-8395,Working,1,N,N,1
+268733,-8395,Working,2,Y,N,1
+273979,-8395,Working,0,N,N,1
+86160,365243,Pensioner,0,N,Y,1
+341766,-7665,Working,0,N,Y,0
+692508,-6205,Commercial associate,2,N,N,1
+378011,-13505,Working,0,N,N,1
+35362,0,Student,0,N,N,1
+418667,-365,Working,1,N,Y,1
+480214,-1095,Working,2,Y,N,1
+219579,365243,Pensioner,1,N,N,1
+827907,-2190,Commercial associate,1,N,N,0
+427329,-1825,Working,0,N,Y,1
+133021,365243,Pensioner,2,N,Y,1
+736114,-730,Commercial associate,0,N,Y,1
+866627,-3285,Commercial associate,0,Y,Y,0
+440696,-9490,State servant,1,Y,N,0
+89080,0,Student,0,N,Y,1
+344172,-1095,Working,1,Y,N,1
+151024,-365,Working,0,N,Y,1
+183653,365243,Pensioner,0,N,N,1
+149340,365243,Pensioner,1,N,Y,1
+232940,-12410,Commercial associate,0,N,Y,1
+126505,-12045,Working,0,Y,Y,1
+103880,-11315,Working,1,Y,Y,1
+148784,-3650,Working,0,N,N,1
+64549,365243,Pensioner,0,N,N,1
+384784,-7665,State servant,2,Y,N,0
+435325,-10950,Working,0,Y,Y,0
+254672,-5475,State servant,0,Y,N,0
+432911,-1460,Commercial associate,1,N,N,0
+498845,-9490,Commercial associate,0,N,N,0
+205185,-5110,Working,0,N,Y,1
+83785,365243,Pensioner,3,Y,Y,1
+857253,-3650,Commercial associate,1,N,N,0
+366186,-6205,Working,2,N,Y,0
+61720,0,Student,1,Y,Y,1
+511417,-1460,State servant,2,N,N,1
+147779,-7300,Working,0,N,Y,1
+795644,-7300,Commercial associate,1,N,Y,0
+382894,-5475,Working,0,N,N,1
+422870,-7300,Working,2,N,Y,0
+269176,-3650,Working,0,N,N,1
+391829,-7300,Working,1,Y,N,0
+485007,-2920,Working,0,N,Y,1
+270524,365243,Pensioner,0,N,N,1
+698095,-13505,Commercial associate,0,N,Y,0
+384535,-4380,Commercial associate,0,N,N,0
+372428,-1460,State servant,2,N,Y,0
+307384,-2920,Working,2,N,N,1
+441116,-730,Working,1,N,N,1
+414395,-7665,State servant,1,N,Y,1
+466464,-10585,Working,0,N,N,0
+271929,-4380,Working,0,Y,N,1
+134831,-5840,Working,0,N,Y,1
+785842,-1095,Commercial associate,0,N,N,0
+41256,0,Student,2,N,Y,1
+137908,365243,Pensioner,0,N,Y,1
+256323,-11315,Working,1,N,Y,1
+265075,365243,Pensioner,1,N,Y,1
+101132,-13140,Working,0,Y,N,1
+353608,-6205,Working,1,N,N,1
+383445,-9125,Working,0,N,Y,1
+418000,-13140,Working,0,Y,Y,1
+11110,0,Student,0,Y,N,1
+186155,-10220,Working,0,N,Y,1
+339647,-3285,Working,2,N,Y,0
+202499,-6205,Working,0,N,N,1
+303141,-10220,Working,1,Y,Y,0
+247327,365243,Pensioner,1,N,Y,1
+179569,-6935,Working,2,N,Y,1
+333312,-9855,Working,0,Y,N,1
+191038,-2920,Working,0,N,Y,1
+262434,-9125,Working,0,Y,Y,0
+252131,-8760,Working,1,N,Y,1
+101468,-10950,Working,1,N,Y,1
+412425,-3285,Working,1,Y,Y,1
+742462,-1825,Commercial associate,1,Y,Y,0
+235541,365243,Pensioner,0,N,N,1
+364291,-14235,Working,0,N,Y,0
+415646,-10585,Working,1,Y,N,0
+290562,-1460,State servant,0,Y,N,0
+331449,-9490,Working,0,N,Y,1
+190736,-6570,State servant,2,Y,N,1
+499531,-2555,Commercial associate,0,N,N,0
+891150,-4380,Commercial associate,0,N,Y,0
+341356,-13870,Working,1,N,Y,1
+208253,365243,Pensioner,0,N,N,1
+396694,-10220,Working,0,N,Y,0
+728269,-7665,Commercial associate,2,N,Y,0
+615976,-3285,Commercial associate,1,Y,Y,0
+255025,365243,Pensioner,0,N,Y,1
+215791,-6570,Commercial associate,0,N,Y,1
+32888,0,Student,0,N,Y,1
+107676,365243,Pensioner,0,N,Y,1
+290790,-10220,State servant,0,Y,Y,0
+154143,365243,Pensioner,0,N,Y,1
+421701,-10950,Working,2,Y,Y,0
+231199,0,State servant,0,N,N,1
+244968,0,State servant,0,N,Y,1
+406604,-5840,Working,2,Y,N,1
+55057,365243,Pensioner,3,Y,N,1
+129680,-365,Working,1,N,N,1
+8123,0,Student,1,Y,N,1
+280246,365243,Pensioner,2,Y,Y,1
+280364,-13505,State servant,1,Y,N,0
+485016,-730,Working,1,Y,N,1
+417912,-12410,Commercial associate,1,Y,N,0
+375381,-730,Working,1,N,Y,1
+254647,-8395,State servant,1,N,Y,1
+173705,-13870,Working,3,N,N,1
+296408,365243,Pensioner,1,Y,N,1
+215390,365243,Pensioner,0,Y,Y,1
+186496,365243,Pensioner,2,N,Y,1
+270457,-6205,Working,0,N,Y,1
+74976,365243,Pensioner,1,N,Y,1
+469670,-4380,Commercial associate,2,N,Y,0
+305728,-11315,Working,0,N,Y,1
+948065,-6935,Commercial associate,1,N,N,1
+254841,-10585,Working,0,Y,Y,0
+233922,-7300,Working,3,N,Y,1
+400314,-6935,Working,1,Y,N,1
+440070,-11680,Working,1,N,N,1
+115385,-4745,Working,1,Y,N,1
+353724,-11315,Working,0,N,Y,0
+204126,-9490,Working,0,N,Y,1
+107480,365243,Pensioner,3,Y,N,1
+479739,-12410,Working,0,N,N,1
+278422,-6570,Commercial associate,0,Y,Y,0
+266682,365243,Pensioner,0,N,N,1
+103014,365243,Pensioner,1,N,N,1
+127028,365243,Pensioner,0,N,Y,1
+78218,0,Student,0,N,Y,1
+386740,-3285,Working,1,Y,N,0
+237871,365243,Pensioner,0,Y,Y,1
+177924,-7300,Working,0,Y,N,1
+207921,365243,Pensioner,1,N,Y,1
+248878,-8030,Working,1,N,Y,1
+465520,-11315,Working,1,Y,Y,0
+257541,-12045,Working,3,Y,N,1
+231627,-4015,Working,0,Y,N,1
+240346,365243,Pensioner,0,N,N,1
+266353,-9855,Working,0,N,Y,1
+179971,-1460,Working,0,Y,Y,1
+336836,-12045,Working,0,N,N,1
+240749,-13505,Working,3,N,Y,1
+330596,-730,Working,1,N,N,1
+584906,-14235,Commercial associate,2,N,N,0
+464946,-2920,Working,1,N,Y,1
+427275,-8760,Working,0,Y,Y,0
+448483,-6570,Working,1,N,N,1
+175266,365243,Pensioner,1,Y,Y,1
+334917,-14235,Commercial associate,2,N,N,0
+490857,-12045,Working,3,N,N,1
+297019,365243,Pensioner,2,N,Y,1
+474311,-11315,Working,2,N,N,1
+487158,-12410,Working,3,N,N,1
+169547,365243,Pensioner,0,Y,N,1
+432336,-13505,Working,1,N,Y,1
+564206,-5475,Commercial associate,0,N,Y,0
+264340,-1460,Commercial associate,0,N,Y,1
+221070,-2555,Working,0,N,Y,1
+177152,365243,Pensioner,1,N,Y,1
+201735,0,Working,0,N,Y,1
+197459,-10950,Working,1,N,N,1
+207338,-11680,Working,0,N,Y,1
+170198,-13870,Working,2,N,Y,1
+211100,365243,Pensioner,2,N,Y,1
+192091,-9490,Working,1,N,Y,1
+475478,-2555,Commercial associate,1,N,Y,0
+560654,-13140,State servant,3,N,N,0
+578226,-12410,Commercial associate,2,N,Y,0
+595988,-7665,State servant,0,N,N,0
+443243,-9490,Working,0,N,N,1
+814653,-10220,Commercial associate,1,N,N,0
+153413,-13505,Working,1,N,Y,1
+383126,-5840,Working,0,N,N,0
+560574,-11315,State servant,0,N,Y,0
+251733,-1460,Working,2,N,Y,1
+188478,-3285,Working,2,N,N,1
+251990,-2920,Commercial associate,3,N,N,1
+361498,-6935,Working,0,N,Y,1
+542176,-10950,Commercial associate,0,N,Y,0
+204470,-2190,Working,0,N,Y,1
+494283,-10585,Working,2,Y,N,0
+228394,365243,Pensioner,1,Y,Y,1
+82606,0,Student,1,N,Y,1
+470450,-730,Working,0,N,Y,1
+410511,-6205,Working,0,N,Y,0
+621001,-2190,Commercial associate,0,Y,N,1
+111750,365243,Pensioner,0,N,N,1
+477721,-8395,Working,0,Y,N,1
+407500,-8030,Commercial associate,0,N,Y,0
+92438,365243,Pensioner,1,Y,N,1
+327402,-12045,Working,0,Y,N,0
+354404,-5840,Commercial associate,1,N,Y,0
+286481,365243,Pensioner,2,Y,Y,1
+262330,365243,Pensioner,0,N,N,1
+234484,365243,Pensioner,1,N,N,1
+841553,-3285,Commercial associate,0,N,Y,0
+263522,-6205,Working,0,Y,Y,1
+566740,-9125,State servant,0,N,Y,0
+815429,-7300,Commercial associate,1,N,Y,0
+804429,-12775,Commercial associate,1,N,N,0
+134523,-2555,Working,1,N,N,1
+266265,365243,Pensioner,0,N,N,1
+309272,-4745,Working,0,N,N,0
+121182,-4745,Working,0,N,N,1
+748694,-6935,Commercial associate,0,N,Y,0
+376835,-8395,Working,1,Y,Y,0
+468773,0,Working,0,N,Y,1
+407143,-8395,Working,0,N,Y,1
+289565,-12775,State servant,0,Y,Y,0
+854986,-12775,Commercial associate,0,N,Y,0
+126751,-10950,Working,1,Y,Y,1
+326090,-10950,Working,1,Y,Y,0
+120793,365243,Pensioner,1,N,Y,1
+324872,-8395,Working,0,N,Y,1
+489929,-1460,Working,0,N,Y,1
+386268,-8030,Working,0,Y,N,0
+396221,-11680,Working,1,N,Y,0
+314223,-8395,Working,1,N,Y,1
+342832,-3650,Commercial associate,2,N,N,0
+229065,-9855,Working,1,Y,N,1
+254030,-10585,Working,0,N,N,1
+188697,-365,Working,0,Y,Y,1
+378637,0,Working,2,N,N,1
+227880,-7665,Working,0,Y,Y,1
+260381,-2190,Working,0,N,N,1
+293876,365243,Pensioner,1,N,Y,1
+45853,0,Student,0,Y,Y,1
+332067,-4380,Working,2,Y,Y,1
+492761,-6570,Working,1,N,N,1
+12884,0,Student,0,N,Y,1
+135135,-8030,Working,0,Y,Y,1
+125761,-2920,Working,0,Y,Y,1
+463581,-10220,Working,1,N,N,1
+304335,-7300,Working,2,N,Y,1
+294453,365243,Pensioner,0,N,Y,1
+423860,0,Working,1,Y,Y,1
+220363,365243,Pensioner,1,N,Y,1
+113444,-5475,Working,0,Y,N,1
+459792,-12045,Working,0,Y,Y,0
+498303,-10950,Commercial associate,2,N,N,0
+397668,-1825,Working,0,Y,N,1
+314560,-1095,Commercial associate,1,N,Y,0
+357481,-12045,Working,3,N,Y,1
+191679,-5475,Working,1,N,N,1
+418379,-2555,Working,2,N,Y,1
+290410,-6935,Commercial associate,1,N,N,1
+185192,-10950,Working,0,N,Y,1
+195006,365243,Pensioner,2,N,Y,1
+387805,-8760,Commercial associate,2,N,Y,0
+269294,365243,Pensioner,0,Y,N,1
+397103,-2920,Working,3,N,Y,1
+487527,-365,Working,0,N,N,1
+479704,-3285,State servant,0,N,N,0
+120027,365243,Pensioner,0,N,Y,1
+360115,-4745,Working,0,N,N,1
+190497,365243,Pensioner,0,N,N,1
+453890,-7665,Commercial associate,0,N,N,0
+262939,365243,Pensioner,0,N,N,1
+467619,-9490,Working,1,Y,N,1
+405364,-6935,Working,2,N,N,1
+511372,-9125,Commercial associate,0,Y,Y,0
+156176,-4380,Working,0,N,Y,1
+435417,-2920,Working,2,N,Y,1
+272013,-4380,State servant,1,N,N,1
+484755,-730,Working,0,N,N,1
+626941,-11680,Commercial associate,3,N,N,0
+208237,-10585,Working,0,N,Y,1
+261855,-13505,Working,1,N,Y,1
+339400,-8395,State servant,0,Y,Y,0
+179944,-12045,Working,0,N,Y,1
+367439,-5110,Working,0,N,Y,1
+391848,-6205,Commercial associate,2,N,N,0
+854282,-1460,Commercial associate,1,N,Y,1
+130758,365243,Pensioner,1,Y,Y,1
+189110,-8030,Working,0,Y,N,1
+170864,-13505,Working,1,N,N,1
+962476,-5110,Commercial associate,0,N,Y,0
+431368,-3285,Working,0,N,Y,1
+107745,365243,Pensioner,0,N,N,1
+876874,-2920,Commercial associate,0,N,Y,0
+244488,-2555,State servant,2,N,Y,1
+188207,-11680,Working,0,N,Y,1
+169641,365243,Pensioner,1,Y,N,1
+347066,-3285,Working,0,N,Y,1
+65908,0,Student,0,N,N,1
+887318,-11315,Commercial associate,0,N,Y,0
+372983,-3650,Working,1,N,Y,0
+197919,-9855,Working,0,Y,Y,1
+139297,365243,Pensioner,0,N,Y,1
+76853,0,Student,0,N,N,1
+136310,365243,Pensioner,1,N,Y,1
+440068,-4015,Working,2,Y,N,0
+329484,-14235,Working,1,N,Y,0
+568069,-6205,State servant,0,N,N,0
+467525,-2920,State servant,3,N,N,1
+163295,-10950,Working,0,N,N,1
+226637,365243,Pensioner,1,N,Y,1
+152591,365243,Pensioner,2,N,Y,1
+112755,-12045,Working,0,N,Y,1
+520298,-1825,State servant,1,Y,N,1
+271970,365243,Pensioner,1,Y,Y,1
+392593,-12775,Commercial associate,1,Y,Y,0
+203107,-3285,Working,0,N,Y,1
+589913,-2555,Commercial associate,1,N,Y,0
+130770,365243,Pensioner,0,N,N,1
+473502,-9125,State servant,2,Y,N,0
+444950,-10950,Working,0,N,N,0
+178022,365243,Pensioner,2,N,Y,1
+504547,-2190,State servant,2,N,Y,1
+481941,-9855,Commercial associate,3,N,Y,0
+361674,-5475,Working,0,N,Y,0
+298715,-730,Working,1,Y,N,1
+65167,365243,Pensioner,1,N,N,1
+461401,0,Commercial associate,2,N,N,1
+70874,365243,Pensioner,0,Y,N,1
+244348,-2920,State servant,0,Y,N,1
+211573,-13140,Working,0,N,Y,1
+283913,365243,Pensioner,0,Y,Y,1
+65261,365243,Pensioner,0,N,N,1
+403564,-9855,Working,1,Y,Y,0
+50432,365243,Pensioner,0,N,Y,1
+395583,-730,Working,0,N,Y,1
+249824,365243,Pensioner,0,N,Y,1
+154504,365243,Pensioner,0,Y,Y,1
+247702,-6935,Working,0,N,Y,1
+333559,-8395,Working,2,Y,N,0
+223309,-9490,State servant,1,N,Y,1
+869727,-11315,Commercial associate,2,N,Y,0
+62543,0,Student,2,Y,N,1
+209011,365243,Pensioner,1,Y,Y,1
+377946,-13140,Commercial associate,1,Y,Y,0
+480643,-6570,Working,3,N,Y,0
+459267,-13140,Working,0,N,Y,1
+684540,-5475,Commercial associate,2,N,N,1
+471024,-13870,Working,0,N,Y,1
+421516,-14235,Working,1,N,Y,0
+153024,-4745,Working,3,Y,Y,0
+324749,-4745,Working,0,Y,Y,0
+371978,-2920,Working,0,N,Y,0
+701994,-12775,Commercial associate,1,N,Y,0
+684441,-1095,Commercial associate,0,Y,N,0
+995818,-730,Commercial associate,0,Y,N,1
+217827,-9855,Working,0,N,Y,1
+390201,-8030,State servant,0,N,Y,0
+177442,-730,Working,0,Y,Y,1
+60073,365243,Pensioner,0,N,N,1
+372036,-8030,State servant,0,N,Y,0
+320386,-13505,Working,1,N,N,0
+91891,0,Student,3,N,N,1
+235311,-11680,Working,0,N,N,1
+867296,-10220,Commercial associate,0,N,Y,0
+345385,-8395,Working,0,N,Y,0
+160848,-9855,Working,0,N,Y,1
+385815,-730,Working,2,N,N,1
+204733,-6205,Working,0,N,Y,1
+323687,-5110,Working,1,N,Y,1
+236649,-9125,State servant,1,Y,N,1
+109155,365243,Pensioner,3,Y,Y,1
+412094,-4015,Working,1,N,Y,0
+397298,-5475,Commercial associate,1,N,N,1
+177256,-4380,Working,0,Y,Y,0
+425834,-11680,Working,2,N,N,1
+126772,365243,Pensioner,0,N,N,1
+88553,0,Student,0,N,Y,1
+374166,-6205,Commercial associate,0,N,Y,0
+244352,-9490,Working,1,N,N,1
+251328,-10950,Working,1,N,N,1
+216229,365243,Pensioner,0,N,Y,1
+185693,-1095,Working,1,N,N,1
+203010,-7300,State servant,1,N,N,1
+880143,-6205,Commercial associate,2,N,Y,0
+106911,365243,Pensioner,3,N,N,1
+392164,-14235,Working,0,N,Y,0
+477784,-13870,Working,0,N,Y,1
+923380,-8760,Commercial associate,2,N,Y,0
+248112,-13140,Working,3,N,N,1
+206242,-12410,Working,0,N,Y,1
+334417,-10220,Working,1,N,N,1
+237588,365243,Pensioner,2,N,Y,1
+445653,-3285,Working,0,N,Y,1
+342431,-5840,Working,1,Y,Y,1
+292513,-7665,State servant,1,N,N,1
+467388,-10950,State servant,0,N,Y,0
+56212,365243,Pensioner,0,N,Y,1
+706767,-13140,Commercial associate,0,N,Y,0
+209,0,Student,1,N,N,1
+367751,-730,Working,0,N,Y,1
+198662,-6205,Working,1,N,Y,1
+500763,-10950,Commercial associate,0,N,N,0
+379916,-9125,Working,2,Y,N,1
+436298,-8030,State servant,0,Y,Y,0
+216189,-6570,Working,0,Y,Y,0
+131541,-3285,Working,0,N,Y,1
+120156,-4380,Working,0,N,Y,1
+685825,-14235,Commercial associate,0,N,N,0
+684103,-7665,Commercial associate,0,Y,N,0
+154180,365243,Pensioner,1,N,Y,1
+686884,-9125,Commercial associate,2,N,Y,0
+360587,-365,Working,2,Y,Y,1
+372859,-13505,Working,0,N,Y,0
+840337,-5475,Commercial associate,1,Y,Y,0
+200214,365243,Pensioner,1,N,N,1
+599341,-10220,State servant,2,Y,N,0
+383748,-2190,Working,1,N,N,1
+331704,-14235,Working,0,N,N,1
+117152,-6570,Working,0,N,N,1
+337163,-1825,State servant,2,N,Y,1
+122551,-1460,Working,3,N,Y,1
+66333,0,Student,0,Y,Y,1
+679456,-8760,Commercial associate,0,N,Y,0
+438826,-11315,Commercial associate,3,N,N,0
+273917,-4015,Working,2,N,Y,1
+254195,-10950,Working,0,N,Y,1
+479989,-5840,Working,0,N,Y,0
+485921,-4380,Working,1,N,Y,1
+114680,365243,Pensioner,1,Y,N,1
+395145,-4380,Working,1,N,Y,1
+142679,-1825,Working,0,Y,Y,1
+223014,-2555,Working,1,N,Y,1
+795053,-10220,Commercial associate,1,N,N,0
+481977,-3650,Working,0,N,Y,0
+158943,365243,Pensioner,0,N,Y,1
+172778,365243,Pensioner,0,N,N,1
+1995,0,Student,0,N,Y,1
+239596,0,Working,3,Y,N,1
+148591,-13505,Working,1,N,N,1
+276540,-9125,Working,0,Y,Y,1
+216062,-11315,Working,0,N,Y,1
+166378,365243,Pensioner,0,N,N,1
+33440,0,Student,1,N,Y,1
+200591,-3285,Working,1,Y,Y,1
+382781,-3285,Working,2,Y,N,1
+358414,-13505,Working,2,N,N,0
+64170,0,Student,1,Y,N,1
+251606,-10220,Working,1,N,N,1
+71325,0,Student,2,N,Y,1
+362440,-4380,Working,1,Y,Y,0
+258239,-6935,Working,0,N,N,1
+233038,-10585,State servant,0,Y,Y,0
+69506,0,Student,0,Y,N,1
+266585,-3650,State servant,0,N,Y,0
+243635,-365,Working,1,Y,N,1
+126515,365243,Pensioner,1,N,Y,1
+316361,-7300,Commercial associate,0,Y,Y,0
+218642,-12045,Working,2,Y,Y,1
+390667,-6205,Working,0,N,N,1
+182001,-8395,Working,2,N,N,1
+182681,-9125,Working,1,N,Y,1
+318816,-2555,Working,1,N,Y,1
+81214,0,Student,1,N,Y,1
+404603,-13870,Working,1,Y,N,0
+155576,365243,Pensioner,0,N,Y,1
+168682,-12045,Working,1,Y,Y,1
+235009,-5110,Working,1,N,N,1
+340904,-12775,Working,2,N,Y,0
+338489,-5475,State servant,2,N,Y,0
+534154,-8395,Commercial associate,2,Y,Y,0
+125395,-9125,Working,3,N,Y,1
+137945,365243,Pensioner,1,N,Y,1
+289728,-7665,State servant,0,N,Y,0
+309304,-6205,Working,3,N,N,1
+379965,-9125,Working,2,Y,Y,0
+502788,-7665,Commercial associate,0,N,N,0
+121711,-3285,Working,0,N,Y,1
+104078,365243,Pensioner,0,N,Y,1
+174279,365243,Pensioner,1,N,Y,1
+671058,-12045,Commercial associate,0,N,N,0
+196950,-10950,Working,1,N,Y,1
+892505,-14235,Commercial associate,0,N,N,1
+297170,-7300,Working,0,N,Y,1
+421396,-3285,Working,0,Y,Y,0
+409257,-10950,Working,2,N,Y,0
+225813,-5475,Working,1,N,N,1
+121381,-12410,Working,2,Y,Y,1
+445535,0,Working,0,N,Y,1
+15439,0,Student,2,N,Y,1
+780985,-4015,Commercial associate,1,N,N,1
+489666,-5110,Working,0,N,Y,0
+351466,-1825,State servant,0,N,Y,0
+792735,-11315,Commercial associate,0,N,Y,0
+487664,-8395,Working,1,N,N,1
+321668,-730,Working,2,N,N,1
+214377,-12775,State servant,0,N,Y,1
+178343,-10950,Working,0,N,Y,1
+161606,-4015,Working,0,N,N,1
+64026,365243,Pensioner,0,N,N,1
+554398,-5840,Commercial associate,0,Y,Y,0
+230066,-13870,Working,2,N,Y,1
+304300,-4015,Working,1,N,N,0
+100036,-4015,Working,2,N,N,1
+76470,365243,Pensioner,1,Y,Y,1
+271813,-6570,Working,1,N,N,1
+202201,-6205,Working,2,N,Y,1
+577499,-9490,State servant,0,Y,Y,0
+355069,-6570,Working,1,N,Y,1
+359013,-1460,Working,2,N,N,1
+238874,365243,Pensioner,0,N,N,1
+381039,-9125,Working,3,N,N,1
+201969,365243,Pensioner,3,N,Y,1
+119346,-10220,Working,0,Y,N,1
+493807,-1825,Working,1,N,N,1
+408445,-2190,State servant,0,Y,Y,0
+419601,-12410,Commercial associate,0,Y,Y,0
+625031,-6205,Commercial associate,0,N,Y,0
+354043,-7665,Working,3,N,Y,0
+52076,0,Student,3,N,Y,1
+181589,-14235,State servant,0,N,N,1
+151574,-9125,Working,0,N,N,1
+441974,-13505,Working,1,N,N,1
+498139,-9125,Working,0,N,Y,0
+579791,-1460,State servant,0,N,N,1
+374915,-14235,Working,0,N,Y,1
+343722,-2555,Working,0,N,Y,1
+270623,-9490,Working,1,Y,N,1
+427561,-11680,Commercial associate,1,N,Y,0
+188919,-4380,Working,2,Y,N,1
+224735,365243,Pensioner,1,N,N,1
+101444,365243,Pensioner,0,N,N,1
+256640,-6205,Working,0,Y,N,1
+442192,-13870,State servant,3,Y,Y,0
+123052,-9490,Working,1,Y,Y,1
+52419,365243,Pensioner,2,N,N,1
+6487,0,Student,0,Y,N,1
+365161,-10220,Working,1,N,Y,0
+184268,365243,Pensioner,0,N,N,1
+443275,-7300,Working,2,N,N,1
+186134,-7300,Working,1,Y,Y,1
+417972,-10950,Working,1,N,Y,1
+470628,-9855,Commercial associate,0,N,Y,0
+471251,-1460,Commercial associate,0,N,Y,1
+487795,-5110,Commercial associate,0,N,Y,0
+74090,0,Student,0,N,Y,1
+453978,-8030,Commercial associate,2,Y,N,0
+425075,-2190,Commercial associate,0,N,Y,0
+79400,0,Student,0,Y,N,1
+385428,-6205,Working,1,Y,Y,0
+173880,-12775,State servant,0,N,Y,0
+395352,-1460,State servant,1,N,Y,1
+171326,-3650,Working,1,N,Y,1
+181588,-10950,Working,1,N,N,1
+473134,-3285,Working,2,N,N,1
+391634,-4745,Commercial associate,3,N,Y,0
+944700,0,Commercial associate,2,N,N,1
+444159,-10220,Working,0,Y,Y,0
+449109,-10220,Commercial associate,0,N,Y,0
+280722,-3285,Commercial associate,1,N,Y,0
+340740,-1095,Working,0,N,Y,1
+153424,365243,Pensioner,1,N,N,1
+738785,-8760,Commercial associate,0,N,Y,0
+33826,0,Student,0,Y,Y,1
+64450,0,Student,0,N,Y,1
+82009,365243,Pensioner,1,Y,Y,1
+346075,-6570,Commercial associate,0,Y,N,0
+79072,365243,Pensioner,0,N,Y,1
+275403,-14235,Working,1,Y,Y,1
+939782,-2555,Commercial associate,0,N,N,1
+983573,-13140,Commercial associate,2,N,N,1
+415953,-12045,State servant,1,N,N,1
+116427,-9855,Working,2,N,Y,1
+594128,-10585,State servant,2,N,Y,0
+496281,-3650,Working,0,N,Y,0
+193254,-4745,Working,0,Y,Y,1
+281026,-8030,Working,0,Y,N,1
+780915,-12775,Commercial associate,0,Y,Y,0
+296367,-5840,State servant,0,N,N,1
+331832,-7665,Working,0,Y,N,0
+218643,-9125,Working,1,Y,Y,1
+201422,-7300,Working,2,N,Y,1
+378495,-9125,State servant,0,Y,N,0
+60355,365243,Pensioner,0,N,Y,1
+358466,-10950,Working,0,N,N,1
+692281,-11315,Commercial associate,0,N,Y,0
+545600,-10220,Commercial associate,1,N,Y,0
+21101,0,Student,2,N,N,1
+390604,-2190,Working,0,N,Y,1
+185779,-12775,Working,0,N,Y,1
+67439,0,Student,0,N,Y,1
+389596,-1825,Working,2,N,Y,1
+414509,-6205,State servant,2,Y,Y,0
+199396,-4380,State servant,2,Y,N,1
+183298,-6205,State servant,3,N,Y,1
+383830,-5840,Working,1,N,Y,0
+304222,-9855,Working,0,N,Y,0
+152261,365243,Pensioner,1,N,Y,1
+996561,-12410,Commercial associate,1,Y,Y,0
+120202,365243,Pensioner,0,N,Y,1
+234681,365243,Pensioner,0,N,N,1
+125816,-5110,Working,0,Y,Y,0
+49695,0,Student,1,N,Y,1
+295457,-4380,Working,0,Y,Y,1
+473949,-10220,Commercial associate,1,N,N,1
+176215,-4745,Working,2,Y,N,1
+544543,-4015,Commercial associate,0,N,Y,0
+897615,-13505,Commercial associate,1,Y,Y,0
+407003,-4015,Working,0,N,Y,1
+512499,-14235,Commercial associate,0,N,Y,0
+320859,-12410,Working,0,N,Y,0
+242510,-4380,State servant,0,N,Y,0
+299521,-2190,Working,1,N,Y,1
+65025,365243,Pensioner,1,Y,N,1
+312376,-8760,Working,1,N,N,1
+319478,-1095,Working,1,Y,Y,0
+145667,-7665,Working,1,N,Y,1
+414601,-3650,Commercial associate,1,N,N,0
+276097,365243,Pensioner,0,N,N,1
+293295,-4015,Working,3,N,Y,1
+66292,365243,Pensioner,0,N,N,1
+149648,-6935,Working,0,Y,N,1
+253144,-6570,Working,0,Y,Y,0
+218781,-12410,Commercial associate,1,Y,N,0
+461161,-9490,Commercial associate,0,N,Y,0
+469841,-9125,Working,0,N,Y,1
+284607,-5840,State servant,1,N,N,1
+211889,-365,Working,0,N,Y,1
+201049,-12045,Commercial associate,2,N,Y,0
+127278,-5840,Working,0,N,N,1
+158150,-5110,Working,2,N,Y,1
+199468,-2920,Working,2,Y,Y,1
+740479,-8395,Commercial associate,1,N,N,1
+440822,-13505,Working,0,N,N,0
+265064,-4380,State servant,2,N,Y,0
+203700,-3285,Working,1,N,N,1
+182991,365243,Pensioner,1,N,Y,1
+159030,-1825,Working,0,N,N,1
+362390,-10220,Working,2,Y,Y,0
+204509,-6570,Working,1,N,Y,1
+302668,-11315,Working,0,N,Y,0
+820086,-6935,Commercial associate,0,N,N,0
+364603,-11680,Working,1,N,N,0
+739707,-3285,Commercial associate,0,N,Y,0
+849822,-13140,Commercial associate,0,N,Y,0
+881132,-3650,Commercial associate,1,Y,Y,0
+294760,-1825,Working,1,N,Y,1
+187081,-5840,Working,1,N,Y,1
+364068,-8395,Working,0,Y,Y,0
+593522,-2555,Commercial associate,0,Y,Y,0
+395863,-12045,Working,0,N,Y,1
+6655,0,Student,0,N,N,1
+423831,-4015,Working,1,Y,Y,0
+71446,365243,Pensioner,1,N,N,1
+152802,-7665,Working,1,N,N,1
+265042,-11315,State servant,1,N,Y,1
+107771,365243,Pensioner,0,Y,N,1
+151131,365243,Pensioner,2,N,N,1
+169715,-9855,Working,0,Y,N,1
+385578,-11315,Working,0,N,Y,0
+89470,365243,Pensioner,0,Y,Y,1
+271796,-4745,Working,0,Y,N,1
+368718,-10585,Working,0,Y,Y,0
+282643,-8030,Working,1,N,Y,1
+104399,365243,Pensioner,0,Y,Y,1
+245476,-2190,Working,1,N,N,1
+81455,0,Student,0,Y,Y,1
+155789,365243,Pensioner,2,N,N,1
+381315,-4380,Working,1,N,Y,1
+361860,-1825,Commercial associate,2,N,Y,1
+574986,-9490,State servant,1,N,Y,0
+328629,-5840,Working,0,Y,Y,0
+794729,-8395,Commercial associate,0,N,Y,0
+384305,-9490,Working,2,N,Y,0
+418415,-1825,Working,2,Y,N,1
+884143,-11680,Commercial associate,0,N,Y,0
+415332,-1825,State servant,0,N,N,0
+92120,365243,Pensioner,0,N,N,1
+460591,-3650,Working,0,N,Y,0
+288056,-7665,State servant,2,N,Y,1
+494740,-8395,Commercial associate,0,Y,N,0
+187119,365243,Pensioner,0,N,N,1
+281943,365243,Pensioner,0,N,Y,1
+346590,-9490,Working,3,N,N,1
+90647,365243,Pensioner,0,N,Y,1
+439190,-9490,Commercial associate,1,Y,N,0
+330487,-8030,Working,0,N,Y,0
+186153,-7665,Working,0,Y,Y,0
+852632,-6935,Commercial associate,1,Y,Y,0
+680001,-5475,Commercial associate,0,N,Y,0
+209759,-4380,Commercial associate,2,N,Y,0
+431329,-1460,Commercial associate,2,Y,N,1
+35183,0,Student,1,Y,Y,1
+402085,-12045,Working,1,Y,N,1
+145215,-9125,Working,0,Y,N,1
+770517,-5475,Commercial associate,0,N,Y,0
+87594,365243,Pensioner,3,Y,N,1
+483123,-9125,State servant,2,N,N,1
+249014,-5475,Working,0,N,N,1
+107274,-5475,Working,1,N,Y,1
+351054,-730,Working,0,N,N,1
+416782,-5840,Working,0,N,Y,1
+991511,-1460,Commercial associate,0,N,Y,0
+441377,-13870,Working,0,N,Y,0
+482635,-5840,Commercial associate,0,N,Y,0
+231940,-10950,Working,3,Y,Y,1
+425226,-6935,Commercial associate,0,N,Y,0
+301484,-13870,Working,2,Y,Y,0
+226283,365243,Pensioner,3,N,Y,1
+465212,-12410,Working,0,Y,N,0
+569814,-730,State servant,0,Y,Y,0
+228721,-1460,Working,0,Y,Y,1
+463584,-730,Working,0,N,N,1
+253177,365243,Pensioner,1,N,Y,1
+167744,365243,Pensioner,0,N,N,1
+742169,-12775,Commercial associate,0,N,Y,0
+204512,-10950,Working,1,N,N,1
+462329,-12410,State servant,0,Y,Y,0
+371889,-8395,Working,1,N,N,1
+905191,-1825,Commercial associate,1,N,Y,0
+105956,365243,Pensioner,0,N,Y,1
+407653,-12045,State servant,0,N,N,1
+297241,-13870,Working,1,N,Y,1
+103098,0,Working,2,N,Y,1
+267286,-7300,State servant,0,N,N,1
+180781,-7665,Working,0,N,N,1
+255114,-8030,Commercial associate,0,N,N,1
+188241,-12410,Working,0,N,Y,1
+741889,-7300,Commercial associate,0,N,N,0
+390144,-2555,Working,3,N,N,1
+729129,-13870,Commercial associate,1,N,Y,0
+182994,365243,Pensioner,0,N,Y,1
+719637,-10220,Commercial associate,1,N,N,0
+435892,-12775,Working,1,N,Y,1
+201982,-8030,Working,1,Y,N,1
+814361,-9125,Commercial associate,0,Y,Y,0
+207042,-4745,Working,1,N,N,1
+338691,-12775,Commercial associate,0,N,Y,0
+355027,-3650,Working,2,N,N,1
+167593,-8395,Working,1,Y,N,1
+414041,-4380,Working,0,Y,N,1
+428074,-4745,Working,0,N,N,1
+216475,-8395,Working,1,N,Y,1
+313739,-13140,Working,1,N,N,1
+598722,-2555,Commercial associate,0,N,Y,0
+268767,-4745,Working,0,Y,N,1
+877090,-730,Commercial associate,0,Y,Y,1
+167592,-2920,Working,0,N,N,1
+127066,365243,Pensioner,1,N,N,1
+119056,-12045,Working,0,N,N,1
+381350,-12775,Commercial associate,0,N,N,0
+464593,-6935,Working,1,N,Y,1
+303400,-6935,Working,1,Y,Y,0
+385835,0,State servant,2,N,Y,1
+398029,-8395,State servant,0,N,Y,0
+176422,-4380,Working,3,N,Y,1
+408959,-9490,Working,0,N,N,0
+228771,-12775,Working,1,N,N,1
+489522,-10220,Working,1,N,Y,1
+270881,-5110,Working,2,Y,N,1
+113580,0,Working,1,N,Y,1
+123401,365243,Pensioner,1,N,Y,1
+678193,-9855,Commercial associate,1,N,Y,0
+57758,365243,Pensioner,2,N,Y,1
+252420,-11680,Working,1,N,N,1
+482605,-13140,Working,0,N,Y,0
+228824,-6570,Working,1,Y,Y,1
+327257,-3650,Working,1,N,Y,1
+345109,-1460,Commercial associate,0,N,Y,0
+156879,-8030,Working,0,Y,N,1
+242943,-4380,State servant,1,N,N,1
+157176,-4745,State servant,0,N,N,1
+78653,0,Student,0,Y,Y,1
+543288,-12045,Commercial associate,0,N,Y,0
+103743,-4380,Working,2,N,N,1
+442543,-9855,Working,1,N,N,1
+111600,365243,Pensioner,0,Y,Y,1
+256968,-5475,State servant,2,N,N,1
+457491,-4380,Working,0,Y,Y,0
+84609,365243,Pensioner,1,N,Y,1
+369915,-6935,Working,0,N,N,1
+415884,-6205,Working,1,N,Y,1
+333076,-13870,Working,0,N,Y,1
+92545,0,Student,0,N,Y,1
+135797,-10950,Working,1,Y,Y,1
+244294,-5840,Working,2,N,Y,1
+813311,-13870,Commercial associate,0,N,Y,0
+56928,365243,Pensioner,0,N,Y,1
+213187,-13140,Working,2,N,N,1
+396784,-6570,Working,1,N,N,1
+834157,-12045,Commercial associate,1,Y,Y,0
+441597,-3285,Working,0,Y,N,1
+307358,-5475,Working,2,N,N,1
+110236,-9490,Working,2,N,N,1
+256228,-11680,Working,1,N,Y,1
+285922,-9125,Working,1,N,Y,1
+402811,-1095,Working,2,N,N,1
+236343,-12775,Working,0,N,N,1
+299220,365243,Pensioner,1,Y,N,1
+191788,-5475,Working,1,N,Y,1
+127228,365243,Pensioner,0,Y,Y,1
+186755,-12045,Working,0,Y,N,1
+248430,-8395,Working,0,Y,N,1
+656979,-5840,Commercial associate,1,N,Y,0
+183997,365243,Pensioner,0,Y,Y,1
+315155,-8030,Working,1,N,Y,0
+264334,-8030,Working,1,N,Y,1
+534678,-5110,Commercial associate,0,Y,Y,0
+296874,-11315,State servant,3,Y,N,1
+159367,365243,Pensioner,0,N,Y,1
+600966,-6205,Commercial associate,0,N,Y,0
+477757,-8395,Working,1,N,Y,0
+367446,-1460,Working,0,N,N,1
+92103,365243,Pensioner,2,N,Y,1
+186067,-8395,Working,1,N,Y,1
+175976,-12410,Working,1,N,Y,1
+734398,-5110,Commercial associate,0,N,Y,0
+417384,-2920,Working,0,N,N,1
+466793,-3650,State servant,1,N,N,1
+999093,-14235,Commercial associate,0,Y,Y,0
+228145,-7300,Working,0,Y,N,1
+216916,-7300,Working,1,Y,N,1
+150547,-1460,Working,3,N,N,1
+454260,-8030,Working,2,N,N,0
+67878,365243,Pensioner,1,N,Y,1
+128004,-10220,Working,0,Y,Y,1
+422129,0,Commercial associate,0,N,Y,0
+550434,-1825,Commercial associate,3,Y,Y,0
+205418,365243,Pensioner,1,Y,Y,1
+342408,-10950,State servant,0,N,Y,0
+326801,-7300,Working,0,Y,Y,0
+407606,-10585,Commercial associate,1,N,Y,0
+423599,-11680,Working,1,N,Y,1
+116488,-9125,Working,0,N,Y,1
+318377,-1460,State servant,0,Y,Y,0
+266576,365243,Pensioner,1,N,Y,1
+274332,365243,Pensioner,0,N,Y,1
+251798,-3650,Commercial associate,1,N,Y,0
+277398,-12775,Working,1,Y,Y,1
+91751,365243,Pensioner,0,Y,N,1
+180475,365243,Pensioner,2,N,N,1
+280959,365243,Pensioner,1,N,Y,1
+407248,-4745,Working,3,Y,Y,0
+436064,-11315,Working,0,N,Y,0
+784087,-10585,Commercial associate,1,Y,N,0
+12875,0,Student,0,N,N,1
+460441,-12775,Working,2,N,Y,0
+169918,-365,Working,1,Y,Y,1
+132427,365243,Pensioner,0,N,Y,1
+367014,-10585,Working,1,Y,N,1
+431145,-9855,Working,0,N,N,0
+5,0,Student,0,N,N,1
+422873,-4015,Commercial associate,0,N,N,0
+96612,365243,Pensioner,0,Y,N,1
+814134,-1460,Commercial associate,0,N,Y,0
+184553,-8395,Working,0,N,Y,1
+268439,-12045,Working,0,N,Y,1
+910958,-13870,Commercial associate,1,Y,Y,0
+131276,-365,Working,0,Y,N,1
+250434,-12775,Working,1,Y,Y,0
+246474,-13870,Working,0,N,Y,1
+19405,0,Student,3,N,N,1
+782570,-12775,Commercial associate,0,N,N,1
+83805,0,Student,0,N,N,1
+87185,0,Student,3,N,N,1
+441324,-10220,Working,1,Y,Y,1
+862600,-2555,Commercial associate,2,Y,Y,0
+246246,-6570,Working,1,N,N,1
+667453,-9125,Commercial associate,0,Y,Y,0
+406480,-2190,State servant,1,Y,Y,0
+342217,-4380,Working,0,Y,Y,0
+653885,-9490,Commercial associate,0,N,Y,0
+962301,-1095,Commercial associate,0,N,Y,0
+559044,-5475,State servant,0,Y,N,0
+244608,0,Working,0,N,N,1
+193815,-5110,State servant,1,N,Y,0
+297330,-4015,State servant,1,N,Y,0
+509313,-10220,State servant,1,N,Y,0
+90998,0,Student,2,N,Y,1
+578416,-730,State servant,1,N,Y,1
+472222,-6570,Working,1,N,N,1
+393805,-12045,Working,0,N,Y,1
+36025,0,Student,0,Y,N,1
+437439,-7665,Commercial associate,1,N,N,1
+192643,-7300,Working,0,N,N,1
+153790,-11680,Working,0,N,Y,1
+876651,-5840,Commercial associate,0,Y,N,0
+406356,-12410,State servant,1,N,Y,0
+207425,-12775,Commercial associate,1,Y,N,1
+88862,365243,Pensioner,0,N,N,1
+337366,-10220,Working,2,Y,N,1
+380371,-8395,Working,0,N,N,1
+279289,-2555,Working,1,Y,Y,1
+289317,365243,Pensioner,1,N,N,1
+159263,-9855,Working,1,N,N,1
+496608,-10220,Working,0,Y,Y,0
+416235,-6570,Working,0,N,Y,1
+71230,365243,Pensioner,0,N,Y,1
+498009,-9125,Commercial associate,2,N,N,0
+428396,-9490,Working,0,Y,Y,0
+417679,-2920,Working,0,Y,Y,1
+298306,-6935,State servant,1,N,Y,1
+27494,0,Student,1,N,Y,1
+281676,-6205,Working,0,N,Y,1
+93709,0,Student,2,Y,Y,1
+424947,-9125,State servant,0,Y,Y,0
+148786,-13870,Working,0,N,Y,1
+643226,-13505,Commercial associate,0,N,Y,0
+298382,-5110,Working,0,N,Y,1
+97289,0,Student,0,N,Y,1
+797640,-5475,Commercial associate,2,N,N,0
+212572,365243,Pensioner,0,Y,Y,1
+387232,-11315,Commercial associate,1,N,Y,0
+123071,365243,Pensioner,0,N,N,1
+498623,0,State servant,1,Y,Y,0
+342960,-14235,Working,2,N,N,1
+332214,-5840,State servant,1,N,Y,0
+26863,0,Student,0,Y,Y,1
+794191,-6935,Commercial associate,1,Y,N,0
+218394,365243,Pensioner,1,Y,Y,1
+293145,365243,Pensioner,1,N,Y,1
+243092,0,Working,1,Y,Y,1
+189049,-1825,Working,1,N,Y,1
+154795,-5475,Working,1,N,N,1
+303426,-7665,Working,0,N,N,1
+567983,-6935,State servant,1,Y,Y,0
+415983,-9125,Working,1,Y,N,1
+110002,-4745,Working,0,Y,N,1
+632525,-2920,Commercial associate,1,N,N,1
+440327,0,Working,1,N,Y,1
+105046,365243,Pensioner,2,N,Y,1
+220333,-1460,Working,0,N,Y,1
+286031,-12775,State servant,2,N,N,1
+384599,-5840,Working,0,N,Y,0
+484925,-5475,State servant,0,N,N,0
+381097,-1460,Working,0,N,Y,1
+29164,0,Student,0,N,N,1
+451442,-6570,Commercial associate,1,Y,N,0
+213997,365243,Pensioner,2,N,N,1
+207345,-6570,Working,3,N,N,1
+176883,-13505,State servant,0,Y,N,0
+135834,365243,Pensioner,0,N,Y,1
+76539,365243,Pensioner,0,Y,N,1
+439437,-10585,State servant,0,Y,N,0
+109321,-11680,Working,1,N,N,1
+217159,-11315,Working,3,Y,Y,1
+170047,-2920,Working,0,N,Y,1
+153930,365243,Pensioner,2,N,Y,1
+252552,-6935,State servant,0,N,N,0
+209097,-12045,Working,2,N,Y,1
+96666,365243,Pensioner,0,Y,Y,1
+547046,-5840,State servant,2,Y,N,0
+211597,-12775,Working,0,N,N,1
+958603,-10585,Commercial associate,1,N,Y,0
+257940,365243,Pensioner,1,N,N,1
+500767,-2555,Commercial associate,2,N,Y,1
+361080,-9855,Commercial associate,1,N,Y,0
+96698,365243,Pensioner,2,N,Y,1
+458229,-5110,Working,0,N,Y,0
+270937,365243,Pensioner,3,N,Y,1
+255586,-7300,Working,0,N,Y,1
+224226,365243,Pensioner,0,N,N,1
+474557,-6935,Working,0,N,N,0
+529553,-13870,State servant,1,Y,Y,0
+270848,-6205,Working,1,N,N,1
+83785,0,Student,0,Y,Y,1
+336085,-7665,State servant,0,N,Y,0
+150021,-365,Working,1,Y,N,1
+86753,0,Student,1,Y,Y,1
+412282,-12410,Working,0,N,N,0
+186388,-14235,Working,1,Y,N,1
+7883,0,Student,0,N,Y,1
+461188,-1095,Commercial associate,0,N,N,0
+45538,0,Student,0,N,Y,1
+279183,-3285,Commercial associate,2,N,Y,1
+286971,365243,Pensioner,2,N,Y,1
+499666,-7300,Working,1,Y,N,1
+528779,-4745,Commercial associate,2,N,Y,0
+164693,365243,Pensioner,0,Y,N,1
+539957,-8030,State servant,0,Y,Y,0
+388961,-7665,Commercial associate,1,N,Y,0
+149777,-6570,Working,2,N,N,1
+205155,-12775,Working,0,N,N,1
+190197,-4745,Working,0,Y,Y,0
+263335,365243,Pensioner,1,N,Y,1
+37756,0,Student,0,N,N,1
+287897,-2555,Commercial associate,0,Y,Y,0
+425320,-1095,Working,1,Y,Y,1
+446196,-8395,State servant,2,Y,Y,0
+408897,-1460,State servant,2,N,Y,0
+397908,-4015,Working,1,N,Y,0
+171792,-5840,Working,0,N,N,1
+427985,-9125,Working,0,N,Y,0
+248706,-13505,State servant,0,N,N,1
+402682,-730,Commercial associate,0,N,Y,0
+200834,-1825,Working,0,N,Y,1
+845836,-13505,Commercial associate,0,N,Y,0
+320522,-5840,Commercial associate,2,N,N,1
+301464,-2555,Working,0,Y,Y,0
+262717,-5110,Working,1,Y,Y,1
+168301,365243,Pensioner,0,Y,Y,1
+483898,-12410,Working,1,N,N,1
+155597,-6935,Working,2,N,Y,1
+145057,365243,Pensioner,1,Y,N,1
+706705,-8030,Commercial associate,0,N,N,0
+995712,-365,Commercial associate,0,Y,Y,0
+799181,-6935,Commercial associate,0,N,N,0
+126015,-2555,Working,1,N,N,1
+104306,365243,Pensioner,0,N,N,1
+839679,-13140,Commercial associate,0,N,N,0
+144109,-4745,Working,0,N,Y,1
+240304,365243,Pensioner,1,N,Y,1
+133098,365243,Pensioner,0,Y,Y,1
+133634,365243,Pensioner,0,N,N,1
+163065,365243,Pensioner,0,N,N,1
+322682,-10950,Working,3,N,Y,1
+241294,-7665,Working,1,N,Y,1
+90352,0,Student,0,N,Y,1
+290091,-6935,Working,0,N,Y,1
+221713,365243,Pensioner,0,N,Y,1
+492508,-12775,Working,1,N,N,1
+124009,-10950,Working,3,N,N,1
+343366,-6935,State servant,0,N,N,0
+259605,365243,Pensioner,2,N,Y,1
+51320,365243,Pensioner,0,N,Y,1
+198704,-8395,Working,1,N,Y,1
+560532,-3285,Commercial associate,0,N,N,0
+189788,-1095,Working,1,N,Y,1
+938006,-6205,Commercial associate,3,N,N,1
+491029,-13140,Working,0,Y,Y,0
+453085,-8395,Working,2,N,Y,1
+397393,-10220,Working,0,Y,Y,0
+69187,0,Student,0,N,Y,1
+147387,-8760,Working,0,Y,N,1
+499158,-3285,Working,0,N,Y,1
+217928,-5110,Working,1,Y,Y,1
+250965,-4380,State servant,2,N,Y,1
+487127,-10950,Working,2,N,Y,0
+212969,-10220,State servant,0,N,N,1
+326845,-11680,Working,0,N,N,1
+158411,365243,Pensioner,0,N,N,1
+211017,365243,Pensioner,1,Y,N,1
+296339,-730,Working,0,Y,N,1
+341452,-5475,Working,0,Y,Y,0
+104522,-5110,Working,3,Y,Y,1
+67441,365243,Pensioner,0,N,N,1
+799255,-9125,Commercial associate,0,Y,Y,0
+407633,-8760,Working,1,N,Y,0
+803318,-13870,Commercial associate,2,N,N,1
+589297,-6935,Commercial associate,0,N,Y,0
+305662,-1825,Working,2,Y,Y,1
+398030,-7300,Working,2,N,N,1
+254525,-12410,Working,0,N,Y,1
+152555,365243,Pensioner,0,N,N,1
+792947,-4745,Commercial associate,0,N,N,0
+84117,0,Student,0,N,N,1
+713264,-10585,Commercial associate,0,N,Y,0
+350138,-4380,Working,2,N,N,1
+245250,-1825,Working,2,N,N,1
+499782,-10585,Working,0,N,Y,1
+131139,-8395,Working,0,Y,Y,0
+448000,-12775,Working,0,N,Y,0
+316730,-1825,State servant,0,N,N,1
+351657,-5840,State servant,0,N,Y,0
+84889,365243,Pensioner,0,N,Y,1
+272370,-5110,Working,3,N,Y,1
+5385,0,Student,0,Y,N,1
+217225,365243,Pensioner,0,N,N,1
+253520,-4380,Working,0,Y,N,1
+403349,-5840,Working,1,N,Y,1
+478888,-10585,Working,0,N,Y,0
+564088,-13870,State servant,0,N,Y,0
+279817,-6935,State servant,0,N,Y,0
+248317,-7300,Working,0,N,Y,1
+332033,-4380,Working,2,N,Y,1
+204162,-5840,Working,1,N,Y,1
+239830,-365,Working,1,Y,Y,1
+374731,-730,State servant,0,Y,N,0
+166846,-9490,Working,0,Y,N,1
+244084,-7300,Working,2,N,Y,1
+978060,-9490,Commercial associate,1,N,Y,0
+234144,365243,Pensioner,0,Y,Y,1
+565356,-11315,Commercial associate,1,Y,Y,0
+75909,365243,Pensioner,2,N,Y,1
+872818,-2555,Commercial associate,0,N,Y,0
+269643,365243,Pensioner,1,N,N,1
+389006,-3285,Working,0,Y,Y,0
+988797,-4380,Commercial associate,1,N,N,0
+283403,-11680,Working,1,N,Y,1
+208352,365243,Pensioner,3,Y,Y,1
+385018,-365,State servant,0,N,Y,0
+128887,-10220,Working,3,Y,N,1
+270738,-1825,State servant,3,N,Y,1
+404470,-365,Commercial associate,0,N,N,1
+152335,-13505,Working,1,N,Y,1
+306823,-2190,Working,0,N,Y,0
+52665,365243,Pensioner,2,N,Y,1
+828781,-6205,Commercial associate,0,Y,N,0
+88734,365243,Pensioner,1,Y,N,1
+18910,0,Student,3,N,N,1
+658715,-3650,Commercial associate,1,N,N,0
+208528,-11315,State servant,3,N,N,1
+345949,-9125,Commercial associate,3,N,Y,0
+127371,0,Working,2,Y,Y,1
+150859,-1095,Working,0,Y,N,1
+61779,0,Student,0,N,Y,1
+262495,-8760,Working,0,N,Y,1
+283786,-9855,Working,2,N,N,1
+857129,-13870,Commercial associate,3,N,N,0
+279357,-4015,Working,2,N,N,1
+257979,365243,Pensioner,0,N,Y,1
+240550,365243,Pensioner,0,Y,N,1
+467790,-2555,Working,1,N,N,1
+478796,-9490,Commercial associate,0,N,Y,0
+176757,-4015,Working,0,Y,N,1
+312328,-14235,Working,0,N,Y,0
+40540,0,Student,0,N,N,1
+880243,-10220,Commercial associate,1,N,N,1
+121536,-1095,Working,2,N,Y,1
+313168,-3285,Working,0,N,N,0
+945866,-5840,Commercial associate,2,N,N,0
+237867,365243,Pensioner,0,N,Y,1
+419589,-730,Commercial associate,0,N,N,1
+596302,-12045,Commercial associate,0,N,Y,0
+75697,0,Student,0,N,N,1
+138233,-730,Working,0,Y,N,1
+101010,-4380,Working,3,N,N,1
+114512,365243,Pensioner,0,N,Y,1
+176625,-5475,Working,2,N,Y,1
+774529,-11315,Commercial associate,0,N,Y,0
+331296,-5110,Working,0,Y,Y,0
+175023,365243,Pensioner,0,N,Y,1
+103970,-11315,Working,1,N,N,1
+332302,-14235,Working,0,N,N,1
+307437,-3650,Commercial associate,0,Y,Y,0
+59810,0,Student,0,Y,Y,1
+395121,-13505,Working,1,N,Y,0
+339026,-2920,Working,0,N,Y,1
+495084,-14235,Working,0,N,Y,0
+359554,-9855,Working,1,N,N,1
+299477,-1825,State servant,1,N,N,1
+466616,-3650,Working,2,N,N,1
+314417,0,Working,0,N,N,1
+508528,-7300,State servant,3,N,N,1
+423733,-3285,Working,0,N,N,0
+251290,365243,Pensioner,2,Y,Y,1
+87693,365243,Pensioner,1,Y,N,1
+116905,-365,Working,0,Y,Y,1
+483276,0,Working,1,Y,Y,1
+741332,-7300,Commercial associate,0,N,Y,0
+270648,-11315,State servant,1,N,N,1
+822087,-2920,Commercial associate,0,N,N,0
+449553,-11680,Working,2,Y,N,1
+265231,-1460,Commercial associate,0,Y,Y,1
+98503,365243,Pensioner,0,N,Y,1
+383527,-1095,Working,2,N,N,1
+143794,0,Working,1,N,Y,1
+141320,365243,Pensioner,2,N,Y,1
+257012,365243,Pensioner,0,N,N,1
+503884,-1460,State servant,1,Y,Y,0
+184718,365243,Pensioner,1,N,Y,1
+2802,0,Student,0,Y,Y,1
+230085,-5110,Working,0,Y,Y,1
+282639,-2555,Working,0,Y,N,1
+788248,-12775,Commercial associate,0,Y,Y,0
+303893,-5840,State servant,1,Y,N,0
+130664,365243,Pensioner,2,N,Y,1
+191070,-730,Working,1,N,Y,1
+599325,-1095,Commercial associate,1,N,N,1
+144258,-10220,Working,0,Y,Y,1
+205397,-7665,Commercial associate,0,N,N,1
+447661,-11680,Working,2,N,N,1
+119874,-12775,Working,1,N,Y,1
+542949,-12410,State servant,2,N,N,1
+382487,-9125,Working,1,N,Y,1
+142135,-9490,Working,1,N,N,1
+395103,-11315,Working,0,N,N,1
+147069,365243,Pensioner,0,N,Y,1
+117412,-8030,Working,3,N,N,1
+298879,-2555,Working,1,N,Y,1
+991894,-11680,Commercial associate,3,N,N,1
+314688,-13870,Commercial associate,1,Y,N,0
+166770,0,Working,1,N,N,1
+262808,-4015,State servant,0,N,N,1
+248838,-10950,Commercial associate,0,N,N,1
+420217,-10585,Working,0,Y,Y,0
+479566,-12045,Commercial associate,2,N,Y,0
+90884,0,Student,0,Y,N,1
+477250,-1825,Working,1,N,Y,1
+353189,-365,Working,0,Y,N,1
+261375,365243,Pensioner,1,N,Y,1
+167446,365243,Pensioner,1,Y,Y,1
+882192,-12410,Commercial associate,1,N,Y,0
+211145,-1460,Working,1,Y,Y,1
+193907,365243,Pensioner,0,Y,Y,1
+536684,-10220,State servant,0,Y,Y,0
+997705,-13140,Commercial associate,1,N,N,0
+50801,0,Student,2,N,Y,1
+208263,-14235,Working,0,Y,N,1
+671820,-5840,Commercial associate,1,Y,Y,0
+81526,0,Student,2,N,Y,1
+433962,-6935,State servant,0,Y,N,0
+470266,-1460,Working,1,N,N,1
+162325,0,Working,0,N,N,1
+245468,-10220,Working,2,N,Y,1
+394542,-2555,Working,0,N,N,1
+407475,-5475,Working,0,N,Y,0
+338788,-365,Working,2,Y,Y,1
+725587,-8760,Commercial associate,1,N,N,0
+567725,-13870,State servant,0,N,N,0
+72618,0,Student,0,N,Y,1
+358750,-13870,Working,3,N,Y,0
+392867,-11680,Working,0,N,N,1
+136523,-10950,Working,3,N,Y,1
+414920,-3285,Working,1,N,Y,1
+367596,-5110,Commercial associate,0,N,N,0
+121455,365243,Pensioner,0,Y,N,1
+298675,-2555,Working,0,N,Y,1
+642762,-13140,Commercial associate,1,N,Y,0
+220918,0,Working,2,N,N,1
+475438,-13505,Working,0,N,N,1
+229692,-3650,Working,0,N,Y,1
+175503,-2920,Working,0,N,N,1
+235047,-4745,Working,1,N,N,1
+128830,-9125,Working,1,N,Y,1
+491030,-11680,Working,0,N,Y,1
+102056,-14235,Working,1,N,N,1
+249722,365243,Pensioner,0,Y,Y,1
+86951,0,Student,0,Y,N,1
+978504,-6935,Commercial associate,1,N,Y,0
+307940,-2920,Working,0,Y,Y,0
+390090,-13140,Working,0,N,N,1
+535352,-365,State servant,0,Y,Y,0
+498231,-6205,Working,0,N,Y,0
+380567,-11680,Working,2,N,N,1
+297385,-12045,Working,0,N,N,1
+187507,-1825,Working,2,N,Y,1
+281921,-13505,Working,0,N,N,1
+110349,-2555,Working,1,Y,N,1
+159790,-1825,Working,1,N,N,1
+196350,-7665,State servant,1,N,N,1
+295982,-6935,Working,0,Y,N,1
+128807,-11680,Working,1,Y,N,1
+340346,-9855,Working,0,Y,Y,0
+159612,-5840,Working,1,Y,Y,1
+212748,365243,Pensioner,2,N,N,1
+353441,-5840,State servant,1,N,Y,0
+725270,-12045,Commercial associate,3,N,Y,0
+544994,-1460,Commercial associate,1,N,Y,0
+190880,-5840,State servant,1,N,Y,1
+399904,-5110,Working,0,Y,Y,0
+579283,-5840,State servant,1,N,N,1
+498243,-13140,Working,0,N,N,0
+36992,0,Student,0,N,N,1
+220501,-13505,Commercial associate,0,Y,Y,0
+267750,365243,Pensioner,0,Y,N,1
+214944,-5110,Working,1,N,Y,1
+111628,-1825,Working,1,N,Y,1
+554138,-9490,State servant,1,N,Y,0
+448109,-13140,Working,1,Y,Y,0
+158650,-13505,Working,1,N,Y,1
+469956,-730,Working,0,N,N,1
+300073,-11315,Working,1,Y,N,1
+29369,0,Student,0,N,Y,1
+250146,365243,Pensioner,0,N,Y,1
+453970,-3285,Working,0,N,N,1
+313104,0,Working,0,N,Y,1
+145038,-2190,Working,2,N,Y,1
+77050,365243,Pensioner,0,Y,Y,1
+83481,0,Student,1,N,Y,1
+908854,-9490,Commercial associate,1,N,Y,0
+68906,0,Student,1,N,N,1
+169123,-2555,Working,2,N,Y,1
+166686,-3285,Working,0,N,Y,1
+500489,-9855,Commercial associate,3,N,Y,0
+148818,365243,Pensioner,0,N,Y,1
+151319,-2920,Working,2,N,Y,1
+356359,-7665,Commercial associate,0,N,Y,0
+342493,-9125,Working,0,N,N,1
+231468,365243,Pensioner,0,N,Y,1
+162167,-6935,Working,0,N,Y,1
+175662,365243,Pensioner,0,N,N,1
+905479,-13505,Commercial associate,0,N,Y,0
+143755,-12045,Working,0,N,Y,1
+377983,-7300,Working,0,N,Y,0
+48425,0,Student,0,N,Y,1
+465860,-6205,Working,1,Y,Y,1
+48750,0,Student,0,N,Y,1
+9605,0,Student,1,Y,Y,1
+462710,-14235,Working,2,Y,Y,1
+202478,-12410,Working,2,N,Y,1
+205904,365243,Pensioner,0,Y,N,1
+419846,-5475,Working,0,N,Y,0
+108469,-730,Working,3,Y,Y,1
+471266,-1095,Working,0,Y,Y,0
+164479,365243,Pensioner,0,N,Y,1
+246102,-6935,State servant,1,Y,Y,0
+327894,-3285,Working,0,N,Y,1
+325075,-6205,Working,1,N,Y,0
+51431,0,Student,2,Y,N,1
+19629,0,Student,2,N,Y,1
+464523,-13870,Working,0,N,Y,0
+377143,-9125,Working,0,N,Y,0
+923920,-8395,Commercial associate,2,Y,Y,0
+296121,365243,Pensioner,2,N,Y,1
+133197,365243,Pensioner,0,N,Y,1
+90933,0,Student,0,Y,Y,1
+242866,365243,Pensioner,0,Y,Y,1
+353297,-365,Working,2,N,Y,1
+246526,-13505,Commercial associate,2,N,Y,1
+235673,-730,Working,0,N,N,1
+475395,-3285,Working,3,Y,N,1
+415886,-2920,Commercial associate,1,N,Y,0
+533963,-8030,Commercial associate,2,N,Y,0
+391040,-1095,Working,2,Y,N,1
+475360,-1825,Working,0,Y,Y,0
+699961,-8030,Commercial associate,1,N,N,0
+372094,-13505,Working,0,Y,Y,0
+454318,-1095,Working,1,Y,N,1
+412564,-9125,Working,2,Y,Y,0
+864266,-4380,Commercial associate,0,N,Y,0
+392002,-6570,Working,1,N,Y,0
+232848,-14235,Working,0,N,N,1
+344955,-13505,Working,3,N,Y,1
+130844,-1825,Working,0,N,N,1
+401776,-13505,Working,0,N,Y,0
+218077,-4745,Commercial associate,2,N,Y,1
+610761,-1825,Commercial associate,0,Y,Y,0
+164064,365243,Pensioner,0,N,N,1
+249911,-6570,Working,0,N,Y,1
+121637,-12045,Working,0,N,Y,1
+266560,365243,Pensioner,1,N,N,1
+583021,-5840,Commercial associate,0,N,Y,0
+411888,-9490,Working,1,N,N,1
+291269,-4015,Working,2,Y,N,1
+370445,-6570,Working,0,Y,Y,0
+70994,0,Student,1,N,Y,1
+480360,-8395,Working,0,N,N,1
+648381,-10220,Commercial associate,0,N,Y,0
+199405,-4745,Working,1,Y,Y,1
+289681,-14235,Working,2,N,Y,1
+217616,-5475,Working,0,N,N,1
+875516,-1095,Commercial associate,1,N,N,1
+157467,-7300,Working,0,N,Y,1
+174888,-6205,Working,1,N,Y,1
+270089,365243,Pensioner,0,N,Y,1
+486503,-5110,Working,1,N,Y,1
+490265,-4380,Working,2,N,Y,1
+198120,-13505,Working,0,N,N,1
+234162,-12045,Working,0,N,Y,1
+231642,-5840,Working,0,N,Y,1
+362810,-11315,State servant,0,N,Y,0
+268515,-4380,Working,1,N,Y,1
+395644,-12775,Working,1,N,N,1
+927952,-8030,Commercial associate,3,N,N,1
+316937,-3285,Working,0,N,Y,0
+199929,365243,Pensioner,1,N,Y,1
+424768,-4015,Working,0,Y,Y,0
+315945,-4015,Working,3,N,Y,0
+405131,-12045,Working,1,N,Y,1
+50457,0,Student,0,Y,N,1
+434922,-1460,State servant,2,N,N,1
+350506,-1095,State servant,1,N,N,1
+172030,-3285,State servant,0,N,Y,0
+174861,-11680,Working,0,N,Y,1
+176497,-1460,Working,2,N,Y,1
+447117,-5110,Commercial associate,2,Y,N,0
+250348,-5110,Working,0,N,Y,1
+21383,0,Student,0,N,N,1
+148017,-12045,Working,0,Y,Y,1
+254014,-8760,Working,0,N,Y,1
+59297,365243,Pensioner,0,N,Y,1
+413058,0,Commercial associate,3,N,N,1
+169702,-13140,Working,1,N,N,1
+388389,-6205,Working,2,N,N,1
+863399,-1095,Commercial associate,1,N,N,0
+205413,-13870,State servant,1,N,N,1
+396854,-10585,Working,1,Y,N,1
+349407,-1095,Working,0,Y,Y,1
+450278,-12775,Commercial associate,0,N,Y,0
+489772,-8760,Working,0,N,Y,1
+347888,-6205,Working,0,N,Y,0
+273873,-5475,Working,0,N,Y,1
+413215,-8030,State servant,2,N,Y,0
+241041,-11680,Commercial associate,0,N,Y,0
+487563,-9855,State servant,1,Y,Y,0
+172043,-3650,Working,2,N,Y,1
+209467,365243,Pensioner,0,N,Y,1
+878731,-14235,Commercial associate,0,N,N,0
+91581,365243,Pensioner,1,N,Y,1
+203256,365243,Pensioner,0,N,N,1
+198310,365243,Pensioner,0,N,Y,1
+316585,-10220,Working,0,Y,Y,0
+123694,-10950,Working,1,Y,Y,0
+907628,-7300,Commercial associate,3,N,N,1
+464859,-13870,Working,0,Y,N,0
+163286,365243,Pensioner,1,N,Y,1
+12552,0,Student,0,N,N,1
+292110,365243,Pensioner,0,N,N,1
+454373,-5110,Working,1,N,N,1
+482945,-4745,Working,3,Y,N,0
+539528,-8395,Commercial associate,3,N,Y,0
+320638,-2190,Working,0,N,N,1
+967915,-12045,Commercial associate,0,Y,N,0
+452646,-2920,Working,0,Y,N,1
+289932,-4745,Working,0,N,N,1
+121633,365243,Pensioner,1,Y,Y,1
+275257,-5110,Working,0,Y,N,1
+570334,-1825,Commercial associate,2,N,Y,0
+267796,365243,Pensioner,1,N,Y,1
+587926,-7665,Commercial associate,3,N,Y,0
+93677,365243,Pensioner,0,Y,Y,1
+208554,365243,Pensioner,0,Y,N,1
+458499,-7300,Working,3,N,N,0
+424376,-8395,Commercial associate,2,N,Y,0
+365340,-1095,State servant,0,N,Y,0
+354268,-10950,Working,1,N,Y,1
+174155,-4380,Working,1,Y,Y,1
+506405,0,Commercial associate,0,Y,N,0
+258271,365243,Pensioner,2,N,N,1
+16119,0,Student,2,N,Y,1
+499884,-1095,Working,2,Y,Y,1
+65376,365243,Pensioner,1,N,N,1
+215095,-6205,Working,0,Y,Y,0
+352138,0,State servant,1,Y,N,0
+300726,-5110,Commercial associate,2,N,Y,0
+29473,0,Student,2,Y,Y,1
+179433,-10950,State servant,0,Y,Y,0
+304463,-730,Working,0,N,N,1
+133459,365243,Pensioner,0,N,N,1
+348155,-7300,Working,1,Y,Y,0
+356411,-12775,Working,0,Y,N,0
+408320,-8030,Commercial associate,3,N,Y,0
+181122,-5110,Working,0,Y,Y,1
+996116,-2190,Commercial associate,1,Y,Y,0
+419328,-6935,Working,0,N,Y,0
+133652,365243,Pensioner,0,N,N,1
+676665,-4015,Commercial associate,0,N,Y,0
+768357,0,Commercial associate,2,Y,Y,1
+115915,-1825,Working,1,Y,Y,1
+153520,-13505,Working,0,Y,Y,0
+56490,365243,Pensioner,2,N,N,1
+418393,-6205,Working,0,Y,N,1
+178380,-9125,State servant,0,N,Y,1
+345824,-9490,Working,0,N,N,1
+662757,-1095,Commercial associate,0,N,N,1
+213057,-5110,Working,0,N,Y,1
+553051,-9855,State servant,1,Y,N,0
+474440,-13870,Working,2,N,N,1
+359153,-4380,Working,0,Y,Y,0
+962129,-4745,Commercial associate,0,N,Y,0
+116794,365243,Pensioner,1,N,N,1
+362781,-6570,Working,0,N,Y,0
+191411,-8760,Working,3,N,Y,1
+71474,0,Student,1,N,Y,1
+207966,-1095,Working,1,N,Y,1
+316426,-4745,Working,0,Y,N,0
+90478,365243,Pensioner,1,N,N,1
+208924,-4380,Working,0,N,Y,1
+193375,-1095,Working,2,N,Y,1
+89673,365243,Pensioner,1,N,N,1
+106220,-4015,Working,3,N,N,1
+973416,-2920,Commercial associate,1,N,N,0
+183557,-1460,Working,0,N,Y,1
+290742,-10585,Working,0,Y,Y,0
+356697,0,Working,1,Y,Y,1
+178944,-8760,Working,0,N,N,1
+466478,-1095,Working,0,Y,N,0
+765156,-11680,Commercial associate,1,Y,N,0
+128688,-2190,Working,1,N,Y,1
+616428,-8395,Commercial associate,0,N,Y,0
+206446,-7300,Working,0,N,Y,1
+320370,-6205,Working,1,Y,N,1
+96857,0,Student,1,Y,Y,1
+245919,-8395,Working,1,N,Y,1
+493307,-4380,State servant,3,N,N,0
+184225,-1095,Working,0,N,N,1
+563906,-3285,Commercial associate,2,Y,N,0
+401335,-13505,Working,0,N,Y,0
+273889,-11680,Working,1,N,N,1
+209987,-14235,Working,0,N,Y,1
+253552,-4745,Working,0,N,N,1
+123119,-13505,Working,1,N,Y,1
+457636,-9490,Commercial associate,1,N,Y,0
+177160,-10950,Working,0,Y,Y,0
+545198,-2920,State servant,2,N,N,1
+398179,-7300,State servant,1,Y,Y,0
+186504,365243,Pensioner,0,Y,Y,1
+307397,-2920,Working,2,N,Y,0
+239702,365243,Pensioner,0,N,Y,1
+570515,-12410,State servant,0,N,N,0
+114425,-9125,Working,0,N,Y,1
+252748,-8395,Working,0,N,N,1
+172843,-1095,Working,0,N,N,1
+113162,-9855,Working,0,N,Y,1
+454306,-6570,Working,1,N,Y,0
+38384,0,Student,1,N,Y,1
+168008,-7665,Working,0,Y,N,1
+174990,-2920,Working,3,N,Y,1
+117238,365243,Pensioner,0,N,N,1
+343222,-1095,State servant,0,N,Y,0
+307074,-8760,Working,1,N,Y,1
+496539,-3285,Working,0,Y,Y,0
+225225,365243,Pensioner,1,Y,Y,1
+470866,-5840,Working,0,N,Y,0
+154448,365243,Pensioner,1,N,Y,1
+151320,-5840,State servant,2,N,N,1
+379809,-8395,Commercial associate,1,N,N,1
+478466,-8030,Working,0,Y,Y,0
+260585,0,Working,0,N,N,1
+182488,-7665,Working,0,N,Y,1
+283239,-3285,Working,2,N,N,1
+386845,-11315,Commercial associate,1,N,Y,0
+367161,-8395,State servant,0,N,N,0
+574770,-10585,Commercial associate,2,N,Y,0
+817465,-9490,Commercial associate,1,N,Y,1
+233637,-4745,Working,1,N,Y,1
+137919,365243,Pensioner,3,N,N,1
+432083,-12045,Working,0,N,N,1
+478709,-11315,Working,0,Y,Y,0
+661003,-7300,Commercial associate,0,Y,N,0
+797539,-11315,Commercial associate,1,N,Y,0
+134074,365243,Pensioner,1,N,N,1
+212355,-13140,State servant,0,N,Y,1
+337911,-2190,Working,2,N,Y,1
+508959,-2190,State servant,0,N,Y,0
+50051,365243,Pensioner,0,Y,Y,1
+294841,-3650,Commercial associate,0,Y,N,0
+984446,-4015,Commercial associate,0,N,Y,0
+374380,-9125,Commercial associate,2,N,Y,0
+548492,-9125,Commercial associate,0,N,N,0
+191724,-14235,Working,3,N,Y,1
+940456,-6570,Commercial associate,0,N,Y,0
+99635,365243,Pensioner,3,N,N,1
+32799,0,Student,1,Y,N,1
+460513,-1460,Working,0,N,N,1
+182504,-2190,Working,2,N,N,1
+406734,-13140,Working,1,Y,N,1
+221403,-1825,Working,1,N,Y,1
+76942,0,Student,2,N,Y,1
+184834,-13140,Working,0,Y,N,1
+449780,-13505,Working,0,Y,N,1
+783058,-10585,Commercial associate,1,N,N,0
+151150,365243,Pensioner,1,Y,Y,1
+1159,0,Student,3,N,N,1
+410385,-365,Working,2,Y,Y,1
+51827,0,Student,1,N,N,1
+242412,-730,Working,0,N,Y,1
+130480,-4745,Working,0,N,Y,1
+174525,-13140,Working,1,Y,Y,1
+314514,-13140,Working,1,N,Y,1
+458400,-12045,Working,1,N,Y,0
+416925,-8030,Working,1,Y,N,1
+297816,-10585,State servant,0,N,N,1
+204021,0,State servant,0,N,Y,1
+407455,-7665,Working,0,Y,Y,0
+145900,-7665,Working,0,N,Y,1
+90626,365243,Pensioner,0,N,Y,1
+161628,-14235,State servant,2,N,Y,1
+330842,-7300,Working,0,Y,Y,1
+215407,-2920,Working,0,N,N,1
+316886,-2190,Working,1,N,N,1
+222027,365243,Pensioner,3,Y,N,1
+156555,365243,Pensioner,0,N,Y,1
+373896,-14235,Working,1,N,Y,1
+315692,-7300,Working,1,Y,Y,0
+253947,-4745,Working,1,Y,Y,1
+736201,-2555,Commercial associate,1,N,N,0
+958175,-5475,Commercial associate,1,N,N,1
+359229,-5475,State servant,0,N,Y,0
+64656,365243,Pensioner,0,N,Y,1
+354799,-12775,Working,1,N,Y,0
+449948,0,Working,0,N,Y,1
+565651,0,State servant,2,N,Y,1
+396649,-4745,Working,2,N,Y,1
+19329,0,Student,2,Y,N,1
+221140,365243,Pensioner,0,Y,Y,1
+716857,-4015,Commercial associate,0,N,Y,0
+690424,-6935,Commercial associate,0,Y,Y,0
+710252,-3650,Commercial associate,1,N,N,0
+269167,365243,Pensioner,0,N,N,1
+314241,-5475,Working,1,Y,N,0
+465121,-730,Commercial associate,2,N,Y,0
+870392,-13870,Commercial associate,0,N,Y,0
+188093,365243,Pensioner,2,N,N,1
+140058,-2555,Working,2,N,N,1
+965064,-10585,Commercial associate,0,N,Y,0
+376941,-5475,State servant,1,N,Y,0
+285189,365243,Pensioner,0,N,Y,1
+651436,-365,Commercial associate,0,N,N,1
+424379,-8760,Working,1,Y,Y,0
+201628,365243,Pensioner,3,N,Y,1
+398784,-4015,Working,1,N,Y,1
+272296,-4380,Working,1,N,Y,1
+136314,365243,Pensioner,0,N,N,1
+442898,0,Working,1,N,Y,1
+323524,-11315,Working,1,N,Y,1
+188918,-12045,Working,3,N,N,1
+459282,-9855,Working,0,N,N,1
+166723,-6935,Working,0,N,N,1
+234496,365243,Pensioner,1,N,Y,1
+372621,-3650,State servant,2,N,Y,0
+220883,-2190,Working,1,N,N,1
+235362,-7300,Working,0,N,N,1
+285128,-9855,Working,2,Y,Y,1
+293545,-6205,Working,0,N,N,1
+294262,-2555,Working,1,Y,Y,1
+558274,-10220,State servant,0,N,N,0
+963416,-8760,Commercial associate,0,Y,N,0
+240683,365243,Pensioner,0,N,N,1
+551671,-11680,Commercial associate,2,Y,Y,0
+271100,-8395,Working,0,Y,Y,1
+276438,-14235,Working,0,Y,Y,1
+479245,-6935,Working,2,Y,N,0
+262958,-11680,Working,1,N,N,1
+265781,-13140,Commercial associate,0,Y,Y,0
+193573,365243,Pensioner,0,N,Y,1
+242077,365243,Pensioner,2,N,N,1
+252322,365243,Pensioner,1,N,Y,1
+35983,0,Student,3,Y,Y,1
+244875,-12775,Working,0,N,N,1
+236478,365243,Pensioner,2,N,Y,1
+647246,-6570,Commercial associate,0,N,N,0
+260080,365243,Pensioner,0,N,N,1
+464315,-12045,Working,1,N,Y,0
+429190,-7665,State servant,0,N,Y,0
+296088,365243,Pensioner,0,N,Y,1
+167095,365243,Pensioner,0,N,N,1
+410121,-12045,Commercial associate,0,N,N,0
+153229,365243,Pensioner,0,Y,Y,1
+60848,0,Student,1,N,Y,1
+288615,365243,Pensioner,2,N,N,1
+232508,-10950,Working,0,N,Y,1
+326345,-10585,Working,1,Y,N,1
+92850,365243,Pensioner,2,N,N,1
+296582,-11680,Working,2,N,Y,1
+464860,-730,Working,1,N,Y,1
+582378,-1825,Commercial associate,2,N,Y,0
+526817,-1095,State servant,0,N,Y,1
+150054,-8395,Working,1,Y,N,1
+909192,-11680,Commercial associate,2,N,Y,0
+211030,-3285,Working,1,Y,Y,1
+119198,-8760,Working,0,N,Y,1
+118243,-12775,Working,0,N,Y,1
+279077,-9125,Working,0,N,Y,1
+479103,-2190,Commercial associate,0,N,Y,0
+486582,-4380,Working,0,N,Y,0
+617669,-3650,Commercial associate,1,N,N,0
+498620,-10220,Working,2,Y,Y,0
+328357,-3650,Commercial associate,1,N,Y,0
+368482,-13870,Commercial associate,2,N,Y,0
+137777,365243,Pensioner,0,N,N,1
+352409,-4745,Working,2,N,N,1
+264319,365243,Pensioner,1,Y,Y,1
+416964,-1825,Working,1,N,Y,1
+779502,-4745,Commercial associate,0,N,Y,0
+304381,-2555,Commercial associate,1,N,Y,1
+339939,-6570,Working,1,N,Y,1
+295110,-2190,Working,2,Y,Y,1
+385123,-11315,Commercial associate,0,Y,N,0
+433776,-365,Working,0,Y,N,1
+841406,-7300,Commercial associate,0,Y,Y,0
+584050,-10585,State servant,1,N,N,1
+625027,-13870,Commercial associate,0,Y,Y,0
+384324,-730,State servant,1,Y,N,1
+246092,365243,Pensioner,1,N,N,1
+215475,-2920,Working,3,N,Y,1
+221359,-10220,Working,1,N,Y,1
+254658,365243,Pensioner,0,N,Y,1
+429567,-1460,State servant,2,N,N,1
+30477,0,Student,0,N,Y,1
+317267,-5475,Working,0,N,Y,0
+280225,-12045,Commercial associate,1,Y,N,1
+442020,-6935,Working,1,N,N,1
+145909,-9855,Working,1,N,Y,1
+333336,-8395,Working,0,N,N,0
+386881,-10950,Working,0,N,Y,0
+583792,-7300,State servant,2,N,N,1
+931573,-1095,Commercial associate,2,N,Y,1
+232957,365243,Pensioner,1,N,N,1
+293120,-1460,Commercial associate,1,Y,N,1
+300065,-5475,Working,3,N,Y,1
+282403,-1095,Working,0,Y,N,1
+382224,-12775,Working,0,Y,N,0
+204486,-13505,Commercial associate,0,N,Y,1
+381172,-11680,Commercial associate,2,N,Y,0
+391288,-8395,Working,0,Y,N,1
+172131,-4745,Working,3,Y,Y,1
+122593,0,Working,0,N,Y,1
+329701,-13505,Working,1,N,Y,1
+541910,-12775,Commercial associate,0,Y,N,0
+308366,-1825,Working,0,N,Y,1
+885359,-10585,Commercial associate,0,Y,N,0
+478865,-730,Working,0,N,N,1
+359610,-1825,State servant,1,Y,Y,0
+330804,-11680,Working,1,N,Y,0
+65628,365243,Pensioner,0,N,Y,1
+451554,-11680,Working,0,N,N,0
+124718,-9125,Working,0,N,Y,1
+801108,-5110,Commercial associate,0,N,N,0
+334501,-6205,Working,1,N,Y,1
+101425,365243,Pensioner,0,N,N,1
+664962,-13505,Commercial associate,1,N,Y,0
+412570,-9855,Working,3,N,Y,1
+211151,-12045,Working,0,N,Y,1
+139177,-14235,Working,3,N,Y,1
+411111,-8760,Working,0,N,N,1
+261190,365243,Pensioner,1,N,N,1
+275535,-13140,Commercial associate,0,N,N,1
+984609,-1825,Commercial associate,1,N,Y,0
+320408,-365,Working,0,Y,Y,1
+287522,-2920,Working,1,N,N,1
+363431,-10950,Working,0,N,Y,0
+420437,-6570,Working,1,N,Y,1
+151046,-3650,State servant,0,Y,N,0
+435787,-3650,Commercial associate,1,N,Y,0
+452362,-2920,Working,2,N,Y,1
+493603,-9855,Commercial associate,0,Y,N,0
+474635,-2920,Working,0,Y,Y,0
+155871,-2190,Working,1,N,Y,1
+915475,-9855,Commercial associate,1,N,N,0
+126049,-5475,Working,2,N,Y,1
+147481,365243,Pensioner,1,N,Y,1
+95099,365243,Pensioner,1,Y,N,1
+158763,365243,Pensioner,1,N,Y,1
+301015,-13140,State servant,0,N,N,0
+170408,-9855,Working,1,N,N,1
+458121,-8760,Working,2,N,Y,1
+145200,-3285,Working,0,N,N,1
+258337,-6570,Working,0,Y,N,1
+963129,-10585,Commercial associate,2,Y,Y,0
+495063,-2555,Working,1,N,N,1
+22966,0,Student,0,N,Y,1
+438374,-3285,Working,0,N,Y,1
+298308,365243,Pensioner,0,N,N,1
+545445,-1095,Commercial associate,0,N,N,1
+270667,365243,Pensioner,1,Y,Y,1
+149647,-1095,Working,2,Y,Y,1
+496145,-1825,Commercial associate,0,Y,Y,0
+422166,-6205,State servant,0,Y,N,0
+219645,0,Working,0,N,Y,1
+299502,365243,Pensioner,0,N,Y,1
+344776,-5840,Commercial associate,1,N,N,1
+286849,-3285,Commercial associate,0,N,Y,1
+558223,-13870,State servant,1,N,Y,0
+991376,-730,Commercial associate,0,N,Y,1
+437079,-6205,Commercial associate,1,N,Y,0
+538551,-11680,Commercial associate,2,N,N,0
+384501,-2555,Working,0,N,Y,1
+222231,-2555,Commercial associate,0,N,Y,1
+200697,-10585,State servant,0,N,Y,1
+431694,-6935,Working,1,N,Y,0
+283501,-2555,Working,0,N,N,1
+342225,-10950,Working,2,N,Y,0
+84407,365243,Pensioner,0,N,N,1
+241902,-8395,Working,0,N,N,1
+328845,-730,Working,3,N,Y,1
+431061,-5840,Working,0,N,Y,0
+273117,365243,Pensioner,1,N,Y,1
+143086,-9125,Working,0,N,N,1
+425987,-2190,Working,0,N,Y,1
+968454,-8760,Commercial associate,0,N,Y,0
+115330,-5840,Working,2,N,Y,1
+122799,365243,Pensioner,0,N,N,1
+291635,-10220,Working,1,N,Y,1
+248157,-4015,Working,3,Y,Y,1
+409009,-5475,Working,1,N,N,1
+324864,-9490,Working,0,Y,Y,0
+395301,-8030,State servant,0,Y,Y,0
+510300,-12775,State servant,1,Y,Y,0
+326530,-10950,Commercial associate,2,N,N,0
+106125,-4380,Working,0,N,Y,1
+138634,-3285,Working,0,N,Y,1
+605096,-10950,Commercial associate,0,Y,N,0
+85469,0,Student,2,N,Y,1
+367779,-13505,Working,3,N,Y,1
+106005,365243,Pensioner,1,N,Y,1
+197561,-2555,Working,0,Y,Y,1
+370970,-10220,Working,0,N,Y,0
+246468,-13870,Working,1,N,Y,1
+165121,-10950,Working,2,Y,Y,0
+18961,0,Student,1,N,Y,1
+154913,365243,Pensioner,0,Y,N,1
+194200,-10950,Working,2,N,Y,1
+183299,0,Working,1,Y,Y,1
+284348,-13140,Working,0,N,Y,1
+399615,-4015,Working,0,Y,Y,0
+417032,-6935,Working,1,N,N,1
+243842,-11315,Working,0,Y,Y,0
+170509,-13870,Working,0,Y,Y,0
+101745,-9125,Working,1,N,Y,1
+126524,365243,Pensioner,1,Y,N,1
+498128,-365,State servant,0,N,N,1
+385381,-8030,Working,2,Y,Y,0
+102853,-5840,Working,2,N,N,1
+677781,-2190,Commercial associate,0,N,Y,1
+216189,-11315,Working,1,N,N,1
+80384,365243,Pensioner,0,N,Y,1
+227390,-7665,Working,0,N,N,1
+329052,0,Working,1,N,N,1
+498565,-13870,Working,0,N,Y,1
+158497,365243,Pensioner,0,Y,Y,1
+355270,-8395,Working,2,N,N,1
+152769,365243,Pensioner,0,Y,Y,1
+209832,365243,Pensioner,1,N,Y,1
+211265,-4745,State servant,1,N,N,1
+193090,365243,Pensioner,0,N,Y,1
+260975,365243,Pensioner,2,N,Y,1
+261282,-12045,Commercial associate,0,Y,Y,0
+449899,-365,Working,2,N,Y,1
+211466,-7300,Working,0,N,Y,1
+187284,365243,Pensioner,0,Y,Y,1
+753119,-10950,Commercial associate,2,N,Y,0
+17178,0,Student,1,N,Y,1
+801076,-10585,Commercial associate,0,N,Y,0
+421593,-12410,State servant,0,N,N,0
+364656,-8030,Working,0,N,N,1
+152067,365243,Pensioner,1,N,N,1
+249385,-8030,Working,2,N,Y,1
+203722,-3285,Working,0,Y,Y,1
+221232,-7300,Working,2,N,Y,1
+80365,365243,Pensioner,0,N,N,1
+432273,-13140,Commercial associate,0,N,Y,0
+333420,-8030,Working,1,N,N,1
+961177,-3650,Commercial associate,2,N,N,0
+66767,365243,Pensioner,1,N,N,1
+942126,-8030,Commercial associate,2,N,Y,0
+148995,365243,Pensioner,1,N,N,1
+375337,-2920,Working,0,N,N,1
+844052,0,Commercial associate,0,N,N,0
+158686,365243,Pensioner,3,N,Y,1
+125634,-7300,Working,1,Y,N,1
+212446,-8030,Working,0,N,N,1
+307127,-1825,Commercial associate,1,Y,Y,0
+253489,365243,Pensioner,2,Y,N,1
+30192,0,Student,0,N,Y,1
+237545,365243,Pensioner,1,N,N,1
+476772,-14235,Commercial associate,3,N,Y,0
+292862,-9855,Commercial associate,0,N,N,1
+212885,-2190,Working,1,Y,Y,1
+213174,-10950,Working,1,N,N,1
+155149,-14235,State servant,2,N,Y,0
+180366,365243,Pensioner,1,Y,Y,1
+279933,-14235,Working,2,N,N,1
+299460,-12045,Working,1,N,Y,1
+370244,-11315,Working,2,Y,Y,0
+355855,-2920,Working,1,N,N,1
+136392,-12410,Working,0,Y,N,1
+195446,-13870,Working,2,Y,Y,0
+257172,-9125,Commercial associate,1,Y,Y,1
+340563,-1095,State servant,1,N,Y,0
+453277,-7300,Working,2,Y,N,1
+222420,365243,Pensioner,0,N,N,1
+200330,0,Working,1,N,Y,1
+673457,-3285,Commercial associate,0,Y,N,0
+133275,365243,Pensioner,0,N,Y,1
+171622,-10585,Working,2,N,Y,1
+473985,-5475,Working,0,Y,Y,0
+311168,-9125,Working,0,Y,N,1
+371966,-6205,Commercial associate,0,N,Y,0
+192145,365243,Pensioner,0,N,Y,1
+440681,-10950,Commercial associate,2,N,Y,0
+138131,-10585,Working,3,Y,N,1
+557036,-14235,State servant,2,N,Y,0
+339248,-13505,Working,0,Y,Y,0
+500816,-13140,State servant,1,N,N,1
+587232,-6205,State servant,0,N,Y,0
+569322,0,Commercial associate,1,Y,N,1
+154476,-8395,Working,1,N,N,1
+965604,-13870,Commercial associate,0,Y,N,0
+473134,-1825,Working,0,N,N,1
+251822,-12775,Working,1,Y,N,1
+477795,-10585,State servant,1,Y,N,0
+164875,-4745,Working,2,N,Y,1
+223086,-9855,State servant,0,Y,N,1
+95635,365243,Pensioner,1,N,Y,1
+249029,-3650,Working,0,Y,Y,0
+46266,0,Student,0,Y,N,1
+313598,-8760,Working,0,N,Y,0
+340377,-13870,Working,0,N,N,1
+151372,-1095,Working,0,N,Y,1
+155595,-11680,Working,1,Y,Y,1
+597774,-1825,Commercial associate,2,N,Y,0
+231692,-1095,Working,1,N,N,1
+555698,-10950,Commercial associate,0,N,N,0
+433801,-10585,Working,1,N,N,1
+437660,-13870,Working,0,N,N,1
+953020,-8760,Commercial associate,1,N,Y,0
+196696,-13140,Working,2,N,Y,1
+875581,-7665,Commercial associate,0,N,Y,0
+573413,0,Commercial associate,2,N,N,1
+238655,-13505,Working,3,Y,Y,1
+20077,0,Student,2,Y,Y,1
+52598,365243,Pensioner,0,N,Y,1
+151656,-1825,Working,1,N,N,1
+323675,-5475,Commercial associate,1,N,N,0
+840416,-8030,Commercial associate,0,Y,Y,0
+288218,-8760,Working,1,N,Y,1
+237991,365243,Pensioner,0,N,Y,1
+343244,-9855,Working,0,Y,N,0
+146626,365243,Pensioner,2,N,Y,1
+332645,-12775,Commercial associate,0,N,Y,0
+222082,-12775,Working,1,Y,N,1
+253864,365243,Pensioner,2,N,Y,1
+282627,365243,Pensioner,0,Y,N,1
+161516,-14235,Working,2,N,Y,1
+926376,-12775,Commercial associate,0,N,Y,0
+932842,-8395,Commercial associate,0,N,N,0
+259435,-5840,Working,1,N,Y,1
+492353,-12045,Working,1,Y,N,1
+496518,-6205,Commercial associate,0,N,Y,0
+244494,-5840,Commercial associate,1,N,N,1
+309754,-7665,Working,0,Y,N,1
+320696,-12775,Working,0,N,Y,0
+361085,-4015,Working,1,N,Y,1
+157251,-10585,Working,3,N,Y,1
+351231,-5475,Working,2,N,Y,0
+513230,-10220,State servant,2,Y,Y,0
+760520,-6935,Commercial associate,0,Y,N,0
+357075,-4380,Working,0,N,Y,0
+117562,365243,Pensioner,2,Y,Y,1
+166572,-2920,Working,2,N,Y,1
+476137,-8030,Working,1,N,Y,1
+128082,-11315,Working,1,N,Y,1
+140577,365243,Pensioner,1,N,Y,1
+164883,365243,Pensioner,0,N,N,1
+567209,-12775,Commercial associate,0,N,N,0
+321435,-1825,Working,0,N,N,1
+831395,-8395,Commercial associate,1,N,Y,0
+273083,-6205,Working,2,N,N,1
+656237,-2920,Commercial associate,3,N,N,1
+812026,-1825,Commercial associate,1,N,N,1
+459083,-11315,Working,1,N,Y,1
+456477,-12045,Working,1,Y,Y,0
+185470,-1095,State servant,2,Y,N,1
+162259,365243,Pensioner,1,Y,Y,1
+124745,365243,Pensioner,0,N,Y,1
+148215,365243,Pensioner,0,N,N,1
+242127,-8760,Working,1,N,N,1
+383886,-3285,State servant,0,N,N,0
+483703,-9490,Working,1,Y,Y,0
+235183,-5110,Commercial associate,2,N,N,1
+132143,-11680,Working,0,N,N,1
+276848,-730,Commercial associate,0,Y,N,1
+211689,-1460,Working,1,N,N,1
+519898,-2555,State servant,0,N,N,0
+428391,-3650,Working,0,N,N,0
+296322,-10220,Working,2,Y,N,1
+102703,365243,Pensioner,0,N,Y,1
+329338,-12410,State servant,1,Y,N,0
+211361,365243,Pensioner,0,Y,Y,1
+496770,-5840,Working,0,N,Y,0
+409113,-365,Working,2,N,N,1
+464822,-8760,Working,1,N,N,1
+184564,-2190,Working,2,N,Y,1
+226187,-12410,Working,0,N,N,1
+575950,-13870,Commercial associate,0,Y,Y,0
+801109,-11315,Commercial associate,1,N,Y,0
+559511,-9490,Commercial associate,2,N,Y,0
+501065,-6935,Commercial associate,0,N,N,0
+247905,365243,Pensioner,0,Y,N,1
+140883,-13870,Working,0,N,Y,1
+4849,0,Student,1,N,Y,1
+490566,-4015,Working,2,N,Y,1
+282730,-4745,Working,1,N,Y,1
+813710,-5475,Commercial associate,0,N,N,0
+377264,-12045,Working,0,N,Y,0
+127795,365243,Pensioner,1,N,Y,1
+142523,-4380,Working,0,N,Y,1
+310476,-1460,State servant,1,Y,N,1
+454572,-11680,Commercial associate,0,Y,Y,0
+281823,-10585,Commercial associate,0,Y,Y,1
+559512,-14235,Commercial associate,1,Y,Y,0
+138623,365243,Pensioner,2,N,Y,1
+223189,-12045,Working,0,Y,N,1
+556979,-4015,Commercial associate,0,N,N,0
+106088,-3285,Working,2,N,N,1
+336004,-4380,Working,0,N,Y,0
+386584,-8030,Working,0,N,Y,0
+238896,-10950,Working,0,Y,N,1
+170914,-6935,State servant,1,N,N,1
+417649,-2920,Working,1,Y,Y,0
+202594,-730,Commercial associate,0,N,Y,1
+423941,-12045,Working,1,N,Y,0
+126990,365243,Pensioner,0,N,Y,1
+87459,365243,Pensioner,1,N,N,1
+204405,365243,Pensioner,0,N,Y,1
+312480,-7300,State servant,0,Y,Y,0
+11137,0,Student,1,N,N,1
+248893,-2190,State servant,0,N,Y,1
+128488,365243,Pensioner,3,N,N,1
+279350,-9490,State servant,0,N,Y,1
+230305,-6570,Working,1,N,Y,1
+65689,0,Student,0,N,Y,1
+474261,-8395,Working,0,Y,Y,0
+485756,-5475,Working,0,N,Y,0
+590523,-6205,Commercial associate,0,N,Y,0
+255812,-7300,Working,2,N,Y,1
+262814,-2190,Working,1,Y,Y,1
+488034,-9855,Working,0,Y,N,1
+30178,0,Student,2,N,N,1
+911423,-4380,Commercial associate,1,N,N,0
+335221,-8030,Working,1,N,Y,0
+295672,-10585,Commercial associate,0,N,Y,1
+398706,-8760,State servant,3,Y,Y,0
+291157,-365,Working,1,Y,Y,1
+286529,365243,Pensioner,2,N,N,1
+210302,365243,Pensioner,0,N,Y,1
+354055,-730,Working,2,N,Y,1
+360603,-5110,Working,3,N,N,1
+205035,-10585,Working,1,N,Y,1
+124838,-14235,Working,3,Y,N,1
+158308,-10950,Working,0,Y,N,1
+544929,-4380,State servant,1,Y,Y,0
+388874,-12410,Working,1,N,N,1
+679221,-4015,Commercial associate,1,N,N,0
+592838,-730,Commercial associate,0,Y,N,1
+248455,-1825,Working,1,N,Y,1
+274403,-8030,State servant,0,N,Y,1
+586196,0,State servant,0,Y,N,0
+692356,-4015,Commercial associate,1,N,Y,0
+826414,-3285,Commercial associate,1,N,N,0
+193196,-1825,Working,0,Y,N,1
+102420,-11680,Working,2,Y,N,1
+327676,-12775,Working,1,Y,Y,1
+193747,365243,Pensioner,2,N,Y,1
+379729,-5475,Working,0,Y,Y,0
+647814,-5840,Commercial associate,0,N,Y,0
+451496,-9490,Working,2,N,N,1
+107344,-365,Working,0,Y,Y,1
+500678,-12045,State servant,1,N,N,0
+104696,-9855,Working,0,N,Y,1
+417402,-13505,Working,0,N,N,1
+422047,-6205,Commercial associate,2,N,Y,0
+129948,-1460,Working,0,N,N,1
+309002,-9855,Working,0,N,N,0
+61463,0,Student,1,N,Y,1
+374879,-5475,Working,1,N,Y,0
+43232,0,Student,0,N,Y,1
+263380,-3285,Working,0,Y,N,1
+443802,-14235,Working,0,N,Y,0
+154716,-3285,Working,0,N,Y,1
+252834,-365,Working,2,N,Y,1
+390862,-6935,Commercial associate,1,N,N,1
+184661,-11680,Working,2,N,N,1
+109275,-12775,Working,0,N,Y,1
+412637,-5840,Commercial associate,0,N,Y,0
+766713,-5110,Commercial associate,1,Y,N,0
+55391,365243,Pensioner,1,N,N,1
+389112,-4745,Working,1,N,Y,1
+451707,-3285,Commercial associate,0,N,N,0
+349336,-5840,State servant,2,N,N,0
+722040,-5110,Commercial associate,0,N,N,0
+59301,0,Student,1,Y,Y,1
+327558,-6205,Commercial associate,1,N,Y,0
+146873,-7300,Working,0,N,N,1
+418265,-1460,State servant,2,N,Y,0
+755976,-730,Commercial associate,1,N,N,1
+406688,-12410,Working,0,N,Y,0
+438141,-5110,Working,1,N,Y,0
+235380,-2190,State servant,1,N,N,1
+203467,-4380,Working,0,N,N,1
+249519,-13140,Working,2,N,Y,1
+231468,-6205,State servant,1,Y,N,1
+318123,-3650,Working,0,Y,Y,0
+100969,-5840,Working,1,N,Y,1
+18223,0,Student,0,N,N,1
+375055,-8760,Working,1,N,N,1
+410748,-1825,Working,1,N,Y,1
+403019,-365,Working,0,N,N,1
+444734,-4745,Commercial associate,0,N,N,0
+277866,365243,Pensioner,3,N,Y,1
+110064,365243,Pensioner,1,Y,N,1
+133033,-12410,Working,2,Y,N,1
+913695,-6935,Commercial associate,2,Y,N,0
+373808,-10950,Commercial associate,1,N,Y,0
+365189,-10220,Commercial associate,3,N,Y,0
+310670,-6935,Working,3,N,Y,1
+570825,-5475,State servant,0,N,Y,0
+465446,-13505,Commercial associate,1,N,N,0
+323811,-3285,Commercial associate,0,N,Y,0
+447428,0,State servant,0,Y,N,1
+194797,365243,Pensioner,0,Y,N,1
+116705,-9855,Working,0,N,Y,1
+368598,-7300,State servant,0,Y,Y,0
+485198,-11680,Working,0,N,N,0
+283335,-12775,Commercial associate,2,N,N,1
+779565,-5840,Commercial associate,2,N,N,0
+106575,-1460,Working,1,N,Y,1
+354686,-7665,Working,1,Y,N,1
+257115,365243,Pensioner,1,Y,Y,1
+37982,0,Student,0,Y,Y,1
+143408,-8395,Working,2,Y,Y,1
+934330,0,Commercial associate,0,N,Y,0
+286983,-14235,Working,1,Y,Y,0
+203669,365243,Pensioner,3,Y,Y,1
+373076,-12045,Working,0,N,Y,1
+185549,-365,Working,3,N,Y,1
+118409,-4015,Working,2,N,N,1
+376031,-11680,Commercial associate,1,N,Y,0
+819883,-12775,Commercial associate,0,Y,N,0
+140470,365243,Pensioner,0,N,N,1
+467129,-4745,Working,0,Y,Y,0
+483887,-4380,Working,1,N,Y,0
+277628,-2555,Working,0,N,N,1
+135968,365243,Pensioner,2,N,Y,1
+363277,-8760,Commercial associate,0,N,N,0
+453004,-4015,Working,1,Y,Y,0
+306500,-4015,Commercial associate,0,N,N,1
+461634,-3285,Working,0,Y,Y,0
+170775,-10950,Working,2,Y,Y,0
+299387,-3650,Working,1,N,Y,1
+205806,-13870,Working,2,N,N,1
+179326,365243,Pensioner,1,N,N,1
+266561,-7300,Working,2,N,Y,1
+482788,-7665,Working,0,N,N,1
+293191,-2920,Working,0,N,N,1
+265992,-12410,Working,1,N,Y,1
+459510,0,Working,2,N,Y,1
+289037,-2555,Commercial associate,0,N,N,1
+15684,0,Student,1,N,N,1
+157826,-13870,State servant,1,N,N,1
+106508,-11680,Working,2,N,Y,1
+169734,-365,State servant,0,Y,Y,1
+459536,-12775,Working,0,Y,Y,0
+473705,-9490,Working,0,Y,N,1
+615126,-13870,Commercial associate,1,Y,Y,0
+136593,-8395,Working,1,Y,Y,0
+127546,-11315,Working,2,N,Y,1
+630818,-3650,Commercial associate,1,N,N,0
+164284,-11315,State servant,2,N,Y,0
+976827,-8030,Commercial associate,0,N,Y,0
+228941,-8395,Commercial associate,1,N,N,1
+444157,-13140,Working,1,N,Y,1
+276087,-365,Working,0,Y,N,1
+140534,365243,Pensioner,1,N,N,1
+737831,-365,Commercial associate,0,N,N,0
+299783,365243,Pensioner,1,Y,N,1
+391199,-13140,Working,2,N,N,1
+174115,365243,Pensioner,2,N,N,1
+932581,-730,Commercial associate,0,N,Y,1
+281410,-14235,Working,2,N,N,1
+520602,-12775,Commercial associate,2,N,N,0
+312632,-6570,State servant,0,Y,N,0
+364016,-10950,Working,1,N,N,1
+194499,365243,Pensioner,0,N,N,1
+197932,-1095,Working,1,N,Y,1
+331602,-10220,Working,0,N,Y,0
+202721,365243,Pensioner,0,N,N,1
+497084,-12045,Working,0,N,Y,0
+187702,365243,Pensioner,2,N,Y,1
+8360,0,Student,3,N,Y,1
+53651,0,Student,1,N,Y,1
+193758,-7300,Working,0,Y,Y,1
+250821,-12410,Working,0,N,N,1
+297292,-10220,Working,1,N,Y,1
+601295,-8395,Commercial associate,2,N,Y,0
+204319,-730,Working,0,N,N,1
+242326,-1460,State servant,1,N,N,1
+769027,-12410,Commercial associate,0,N,N,1
+776253,-7665,Commercial associate,0,N,N,0
+612453,-11680,Commercial associate,2,Y,Y,0
+49615,0,Student,0,N,Y,1
+416062,-11680,Working,1,N,Y,0
+153468,-6570,State servant,0,Y,Y,1
+102136,365243,Pensioner,2,N,Y,1
+420072,-12775,State servant,0,N,N,0
+359525,-2190,Working,0,N,Y,0
+441355,-7300,Working,0,Y,N,0
+184422,-9855,State servant,0,Y,Y,0
+438144,-1095,Working,0,Y,Y,0
+487451,-10220,Working,0,Y,Y,1
+140257,365243,Pensioner,1,Y,Y,1
+63654,0,Student,2,Y,N,1
+363051,-11315,Working,1,N,Y,1
+271614,-10220,Working,0,Y,Y,1
+537774,-2555,Commercial associate,0,Y,Y,0
+401818,-5475,State servant,1,N,Y,0
+456377,-6935,State servant,0,Y,Y,0
+426243,-4380,Working,2,N,Y,0
+70180,365243,Pensioner,0,N,N,1
+909830,-9490,Commercial associate,1,N,N,0
+479397,-3285,Working,0,N,Y,0
+583043,-12045,Commercial associate,0,N,Y,0
+121483,-11680,Working,0,N,N,1
+401362,-13140,State servant,0,Y,Y,0
+347647,-12045,Working,0,N,N,1
+905829,-5840,Commercial associate,0,N,N,0
+494689,-10220,Working,1,N,N,1
+203015,365243,Pensioner,0,N,N,1
+255673,-6570,Working,1,N,Y,1
+540492,-4380,Commercial associate,0,Y,Y,0
+265392,-2920,Working,1,Y,Y,1
+491801,-4745,Working,2,N,N,1
+493640,-730,Working,3,N,Y,1
+399302,-4015,Commercial associate,1,Y,N,0
+424597,-10585,Working,1,Y,N,0
+177568,-7300,Working,0,N,Y,1
+324478,-12045,Working,0,N,Y,0
+155450,-8395,Working,0,N,N,1
+334494,-365,Working,3,N,N,1
+284781,365243,Pensioner,2,N,N,1
+550607,-8395,State servant,0,N,N,0
+399739,-5840,Working,0,N,N,0
+273396,-13870,Commercial associate,0,Y,Y,0
+335941,-2555,State servant,0,N,Y,0
+190254,-12410,Working,1,N,N,1
+300043,-1095,Working,1,Y,N,0
+14610,0,Student,0,N,N,1
+750343,-6570,Commercial associate,0,N,Y,0
+261057,-2920,Working,1,N,N,1
+432705,-2190,Working,1,N,Y,0
+277507,-6570,Working,1,N,N,1
+825921,-10220,Commercial associate,0,N,N,0
+450156,-11315,Commercial associate,1,Y,Y,0
+51265,365243,Pensioner,0,Y,Y,1
+264451,-13870,Working,2,Y,Y,1
+627612,-4380,Commercial associate,0,N,N,0
+127179,365243,Pensioner,0,N,Y,1
+269565,-11680,Working,2,N,Y,1
+138930,-7300,Working,0,N,N,1
+12992,0,Student,0,N,Y,1
+341359,-2555,Working,0,N,N,1
+398800,-12045,Working,0,N,N,0
+250601,365243,Pensioner,0,N,Y,1
+242432,-6570,Working,0,N,N,1
+52703,365243,Pensioner,1,N,Y,1
+257884,365243,Pensioner,1,N,Y,1
+109867,365243,Pensioner,0,N,Y,1
+206276,-12045,Working,0,N,Y,1
+306899,-14235,Working,1,N,Y,0
+70350,0,Student,1,N,Y,1
+450763,-12410,Working,0,Y,Y,0
+253488,-1460,Working,0,Y,Y,1
+527282,-3650,Commercial associate,0,N,Y,0
+761327,-12775,Commercial associate,2,N,Y,0
+406511,-10585,Commercial associate,0,N,Y,0
+196342,-13505,Working,0,Y,N,1
+207773,-9125,State servant,0,N,N,0
+240413,365243,Pensioner,0,Y,Y,1
+170779,365243,Pensioner,1,Y,N,1
+435954,-10220,State servant,0,N,N,1
+230846,-13870,State servant,0,N,Y,0
+247712,-3285,Working,3,N,N,1
+195227,365243,Pensioner,1,Y,N,1
+892908,-7300,Commercial associate,0,N,Y,0
+294042,-6935,Working,0,Y,N,1
+139906,-7665,Working,0,N,N,1
+897946,-365,Commercial associate,1,N,N,1
+429449,-12410,State servant,0,N,N,0
+183394,-11680,Working,0,Y,Y,1
+206898,-13140,Working,0,N,Y,1
+145933,365243,Pensioner,3,N,Y,1
+389192,-1460,Working,0,N,N,1
+687377,-12775,Commercial associate,2,N,Y,0
+191633,-12045,State servant,1,N,N,1
+390898,-730,Working,0,N,Y,1
+177952,-12775,Working,1,Y,Y,1
+315080,-7665,Working,1,N,Y,0
+166064,-7665,Working,1,N,Y,1
+233718,365243,Pensioner,3,N,Y,1
+398055,-13870,Working,0,N,Y,0
+137983,365243,Pensioner,0,N,N,1
+484971,-9490,Working,0,N,Y,0
+358456,-6205,Commercial associate,2,N,N,1
+415754,-4745,Commercial associate,0,Y,N,0
+3573,0,Student,0,Y,Y,1
+155421,-12775,Working,0,Y,Y,0
+407584,-2555,Working,1,N,Y,1
+447368,-9125,Commercial associate,0,Y,Y,0
+774172,-8760,Commercial associate,0,N,Y,0
+319526,-3285,Working,0,N,N,1
+481672,-5840,Working,2,N,N,1
+221886,-2555,Working,1,N,Y,1
+185898,-10585,Working,0,N,Y,1
+986228,-4015,Commercial associate,0,N,N,0
+275326,-1095,Working,1,Y,Y,1
+129152,-1825,Working,0,N,N,1
+206609,-6205,Commercial associate,1,Y,Y,0
+835665,-2190,Commercial associate,2,N,Y,0
+323573,-7665,Working,0,N,Y,0
+300131,-10950,Commercial associate,1,N,Y,0
+735506,-6205,Commercial associate,2,N,Y,0
+54286,365243,Pensioner,2,Y,Y,1
+696405,-3650,Commercial associate,1,N,Y,0
+254886,-2555,Working,0,N,N,1
+245485,-13505,Commercial associate,0,N,N,1
+152290,-10220,Working,0,N,Y,1
+172944,-2190,Working,2,N,N,1
+436109,-8760,Working,0,Y,Y,0
+169222,-12775,Working,1,Y,Y,1
+112268,-10220,Working,1,Y,N,1
+894873,-3285,Commercial associate,2,N,Y,0
+346501,-5110,Working,0,Y,Y,0
+234048,-730,Working,1,Y,N,1
+385950,-7665,Working,1,N,Y,0
+122474,-4015,Working,0,N,Y,1
+715182,-12045,Commercial associate,3,Y,Y,0
+442318,-13140,Working,1,N,Y,0
+139860,365243,Pensioner,2,N,Y,1
+112410,-12410,Working,0,N,Y,1
+382031,-9490,Working,1,N,Y,0
+380257,-8395,Working,0,Y,Y,0
+202255,-1095,Working,1,N,Y,1
+414627,-6935,Working,1,Y,N,1
+985338,-12775,Commercial associate,0,N,Y,0
+546260,-11680,State servant,0,N,Y,0
+352982,-5475,Working,0,Y,Y,0
+4125,0,Student,1,Y,N,1
+343251,0,Working,1,Y,Y,0
+305237,-10950,Working,1,N,Y,0
+287370,-5840,Working,0,N,Y,1
+479863,-5110,State servant,0,N,Y,0
+115355,365243,Pensioner,0,N,Y,1
+122129,-9125,Working,2,N,N,1
+250022,0,State servant,0,N,Y,1
+273196,-12775,Working,1,N,Y,1
+213765,365243,Pensioner,1,N,Y,1
+2700,0,Student,3,N,Y,1
+398074,-10950,Working,0,N,Y,0
+707619,-6570,Commercial associate,1,N,N,0
+225460,365243,Pensioner,2,N,N,1
+205858,-2555,Working,0,N,Y,1
+723492,-8760,Commercial associate,0,N,N,0
+909453,-9855,Commercial associate,0,Y,Y,0
+292814,-10585,Commercial associate,1,N,N,1
+155535,-5110,Working,0,Y,N,1
+292848,-11680,Working,0,N,N,1
+150631,365243,Pensioner,0,N,N,1
+270236,-9490,Working,0,N,Y,1
+636330,-5840,Commercial associate,2,N,N,0
+250244,-5110,State servant,1,N,Y,0
+47369,0,Student,0,N,N,1
+146557,-12045,Working,0,Y,Y,1
+173141,365243,Pensioner,1,N,N,1
+279837,-13505,Commercial associate,1,N,Y,0
+990404,-5475,Commercial associate,0,N,Y,0
+398271,-8760,State servant,0,Y,Y,0
+16587,0,Student,1,N,N,1
+855291,-8030,Commercial associate,0,N,Y,0
+251163,-6570,State servant,0,N,Y,0
+15993,0,Student,0,N,N,1
+590925,0,State servant,0,N,Y,1
+254694,365243,Pensioner,0,Y,Y,1
+512279,-11315,Commercial associate,1,Y,Y,0
+451499,-13140,State servant,1,N,N,0
+253079,-5475,Working,0,N,Y,1
+463195,-3650,Working,2,Y,Y,0
+234984,-5110,State servant,2,N,Y,1
+24833,0,Student,2,N,Y,1
+920570,-3285,Commercial associate,0,N,Y,0
+53574,0,Student,1,N,Y,1
+232248,365243,Pensioner,0,N,N,1
+396857,-9490,Working,3,Y,N,1
+173247,-8395,Working,1,Y,Y,0
+437740,-7300,Working,1,Y,Y,0
+140615,-10585,Working,0,N,N,1
+788160,-5475,Commercial associate,0,N,N,0
+232894,-13870,Commercial associate,0,Y,Y,0
+907647,-1460,Commercial associate,0,Y,Y,0
+193953,-5110,State servant,1,N,Y,0
+217183,-2190,Working,1,N,Y,1
+256319,-13140,Working,0,Y,Y,1
+204890,-2555,State servant,1,N,Y,1
+418629,-7665,Working,0,N,Y,1
+209429,-5840,Working,0,N,N,1
+55383,365243,Pensioner,1,Y,Y,1
+199354,-2190,Working,0,N,Y,1
+288333,-10950,State servant,0,Y,Y,0
+410573,-3650,Working,0,Y,Y,0
+336932,-2920,Working,0,N,N,1
+482907,-4745,Working,2,N,N,1
+499138,-8395,Working,3,N,Y,1
+255846,-11680,Working,0,N,N,1
+169879,365243,Pensioner,1,N,Y,1
+291575,365243,Pensioner,0,N,N,1
+241257,-13140,Working,1,N,N,1
+268774,-9125,Working,0,N,N,1
+914473,0,Commercial associate,2,N,Y,1
+869312,-365,Commercial associate,0,Y,Y,1
+265127,-12045,Working,0,Y,N,1
+724204,-11315,Commercial associate,0,Y,Y,0
+107943,-9490,Working,2,N,Y,1
+293684,-12045,Working,0,N,N,1
+310947,-3650,Commercial associate,0,N,Y,0
+82401,365243,Pensioner,0,Y,Y,1
+2846,0,Student,1,N,N,1
+299939,-12410,Working,0,Y,N,1
+264919,-7300,State servant,1,N,N,1
+471567,-10585,State servant,3,N,N,0
+140765,-13870,Working,0,Y,N,1
+581522,-3650,Commercial associate,3,Y,N,0
+254534,-9125,Working,1,Y,N,1
+353831,-13505,Working,0,N,Y,1
+52545,0,Student,1,N,N,1
+109185,-1095,Working,0,N,N,1
+326236,-1095,Working,2,N,N,1
+158527,-3285,Working,0,Y,N,1
+454349,-8760,Working,2,N,Y,1
+185278,365243,Pensioner,1,N,Y,1
+584062,-4380,Commercial associate,2,N,Y,0
+785162,-8030,Commercial associate,0,N,N,0
+170400,-4380,Working,3,N,Y,1
+182844,-7300,Working,0,N,N,1
+466393,-4015,Working,0,Y,Y,1
+813687,-3650,Commercial associate,1,N,Y,0
+283956,-10950,Commercial associate,1,N,N,1
+339352,-10220,Commercial associate,0,Y,Y,0
+328749,-4380,Working,0,N,Y,0
+68495,0,Student,0,N,Y,1
+953222,-10220,Commercial associate,1,N,Y,0
+524151,-4015,State servant,0,N,N,0
+255573,365243,Pensioner,0,N,Y,1
+90273,365243,Pensioner,1,N,Y,1
+158565,-365,Working,0,N,N,1
+183135,365243,Pensioner,0,N,Y,1
+174398,-14235,Working,0,Y,Y,0
+37214,0,Student,0,N,Y,1
+394481,-4745,Working,1,N,N,1
+96913,0,Student,1,N,N,1
+461770,-4015,Working,0,Y,Y,0
+190236,-2190,Working,2,Y,Y,1
+269461,-6935,Working,3,Y,Y,1
+759070,-5840,Commercial associate,0,Y,Y,0
+412630,-5840,Working,1,N,Y,0
+257855,-9855,Working,0,N,N,1
+456335,-8760,Working,0,N,Y,1
+201471,-1460,Working,3,N,Y,1
+395613,-7300,Working,0,N,N,1
+372849,-8030,Working,0,N,Y,0
+145318,-8395,Working,0,N,N,1
+177841,-365,State servant,0,N,Y,1
+658696,-11315,Commercial associate,1,Y,N,0
+437648,-5475,Commercial associate,0,N,N,0
+394411,-8760,Working,1,N,N,0
+530322,-9490,State servant,0,Y,Y,0
+437066,-10585,Working,0,N,N,0
+309796,-12775,Commercial associate,3,Y,N,0
+337497,-6570,Working,0,N,Y,1
+288365,365243,Pensioner,0,N,Y,1
+203245,-3650,Working,2,Y,Y,1
+284632,365243,Pensioner,1,N,Y,1
+143654,-2190,Working,2,N,Y,1
+383103,-5110,State servant,0,Y,Y,0
+246540,-9490,Working,1,Y,N,1
+490414,-4015,Commercial associate,1,N,N,1
+298772,365243,Pensioner,0,N,N,1
+393478,-10220,Working,0,N,Y,0
+316402,-13505,Working,0,Y,N,1
+167278,-8760,Working,2,Y,N,1
+486234,-6205,State servant,2,Y,Y,0
+119400,365243,Pensioner,0,N,N,1
+523904,-730,Commercial associate,0,N,N,1
+376022,-4015,Working,2,N,Y,0
+481640,-4380,Working,0,Y,N,1
+144863,0,Working,0,Y,N,1
+987443,-1095,Commercial associate,0,N,N,0
+256374,-730,Working,1,N,Y,1
+584509,-13505,Commercial associate,0,Y,Y,0
+313423,-730,Working,0,N,N,1
+102539,-365,Working,1,N,N,1
+734234,-11680,Commercial associate,1,N,N,1
+677388,-13505,Commercial associate,0,N,N,0
+45474,0,Student,0,Y,N,1
+448401,-730,Working,1,N,N,1
+133737,365243,Pensioner,0,N,Y,1
+497439,-10220,Working,2,N,N,1
+140023,-5840,Working,2,Y,N,1
+155109,365243,Pensioner,0,N,Y,1
+33025,0,Student,2,Y,Y,1
+262784,-1825,State servant,0,N,Y,1
+289471,-4745,Commercial associate,0,Y,N,0
+214430,-1825,State servant,1,Y,Y,0
+79952,0,Student,0,Y,Y,1
+463688,-14235,Working,1,Y,N,1
+498952,-365,Working,1,Y,N,1
+260567,0,Working,1,N,Y,1
+280760,365243,Pensioner,0,N,Y,1
+344867,-4015,Working,1,N,N,0
+238770,365243,Pensioner,3,N,Y,1
+236241,-9855,Commercial associate,2,N,Y,1
+584571,-3650,Commercial associate,0,Y,Y,0
+444450,-9855,Working,0,Y,Y,0
+149504,-13140,Working,0,N,Y,1
+310575,-10220,Working,1,N,N,1
+178595,365243,Pensioner,1,Y,N,1
+547328,-4380,Commercial associate,0,N,N,0
+195909,-6935,Working,0,N,N,1
+245462,365243,Pensioner,0,Y,N,1
+421692,-5110,Commercial associate,0,N,N,0
+590958,-9125,Commercial associate,3,N,N,1
+638746,-2555,Commercial associate,1,N,Y,1
+236949,-11680,Working,2,N,N,1
+273574,-1460,State servant,2,Y,Y,1
+107805,365243,Pensioner,2,Y,Y,1
+794191,-2555,Commercial associate,0,N,N,1
+366634,-7665,Working,1,Y,Y,0
+274830,365243,Pensioner,1,N,Y,1
+296382,-3285,Working,3,Y,Y,1
+311978,-13870,Working,1,Y,Y,0
+189217,-7665,Working,1,N,N,1
+262738,365243,Pensioner,1,Y,Y,1
+341198,-10585,Working,0,N,N,0
+487194,-9490,Working,2,N,Y,1
+242463,-12410,Working,1,Y,N,1
+101722,-7300,Working,0,Y,Y,1
+561610,-8030,State servant,1,N,Y,0
+252517,365243,Pensioner,2,N,N,1
+175592,-4015,Working,0,Y,N,1
+234114,-9125,State servant,0,Y,N,1
+257051,365243,Pensioner,0,Y,N,1
+685959,-13505,Commercial associate,0,N,Y,0
+70707,365243,Pensioner,0,N,Y,1
+574884,-10950,Commercial associate,1,N,Y,0
+223933,365243,Pensioner,1,N,Y,1
+367235,-2190,Working,2,N,N,1
+370132,-6570,Working,1,N,Y,0
+66560,365243,Pensioner,0,Y,N,1
+307987,-6935,Working,1,N,Y,0
+331512,-13140,Working,2,N,Y,1
+376927,-10950,Working,0,N,Y,0
+204718,-14235,Commercial associate,3,N,N,1
+219804,-9855,Working,2,N,Y,1
+271246,0,State servant,3,N,Y,1
+487762,-4380,Commercial associate,1,N,Y,0
+795002,-6570,Commercial associate,1,N,N,1
+450850,-9490,Working,0,N,Y,0
+419080,-10950,Working,2,N,Y,1
+492978,-1825,Working,1,Y,Y,1
+457978,-12775,Working,0,Y,N,0
+285656,365243,Pensioner,0,N,N,1
+545123,-13505,Commercial associate,0,Y,Y,0
+273329,-8030,Working,1,N,N,1
+121637,-12045,Working,2,N,Y,1
+624521,-13870,Commercial associate,2,N,N,0
+546482,-7665,Commercial associate,0,Y,Y,0
+157407,-4015,Working,0,N,Y,1
+365232,-2555,Working,1,Y,Y,0
+545231,-730,Commercial associate,0,N,Y,1
+344458,-14235,Commercial associate,1,N,N,0
+326286,-6205,Working,1,N,N,1
+213388,-5475,Working,0,N,Y,1
+314885,-730,Working,1,N,Y,1
+225298,-12775,Working,1,N,Y,1
+419683,-8395,Commercial associate,1,Y,Y,0
+452871,-12045,State servant,3,N,N,1
+834328,-1460,Commercial associate,0,N,Y,1
+230996,-6935,Working,1,N,Y,1
+173392,-1095,Working,0,Y,Y,1
+248732,365243,Pensioner,1,Y,Y,1
+168043,-11315,State servant,0,Y,Y,0
+511035,-7300,State servant,2,N,N,0
+562986,-2920,Commercial associate,3,N,Y,1
+199587,365243,Pensioner,3,Y,Y,1
+185263,-8030,Working,0,Y,Y,1
+907596,-5475,Commercial associate,1,N,Y,0
+25490,0,Student,3,N,N,1
+335479,-8760,Working,1,Y,Y,0
+251377,-12775,Commercial associate,0,N,N,1
+482935,-13140,Working,1,Y,N,0
+469871,-9125,Working,2,Y,Y,0
+264925,365243,Pensioner,0,Y,Y,1
+422035,-9490,Working,1,N,N,1
+169214,-3285,Working,0,N,Y,1
+167002,-11315,Working,0,N,Y,1
+260252,-10950,Commercial associate,0,N,Y,0
+860,0,Student,0,Y,Y,1
+252088,-11680,Working,0,N,Y,1
+267401,-8760,Working,0,Y,Y,1
+303439,-1095,Working,2,Y,N,1
+706218,-5110,Commercial associate,1,Y,Y,0
+977508,-1825,Commercial associate,1,N,N,1
+104616,-4380,Working,0,Y,N,1
+151209,-8760,Working,0,N,N,1
+183142,365243,Pensioner,2,N,N,1
+120936,-12410,Working,1,Y,Y,1
+229100,-6935,Working,0,N,Y,1
+378615,-6570,Working,2,Y,Y,0
+269917,-10220,State servant,1,N,Y,1
+155918,-2920,Working,0,N,Y,1
+211477,-1460,Working,3,N,Y,1
+423227,-4745,Working,1,Y,N,1
+471488,-5840,Working,0,Y,Y,0
+168483,-4015,Working,1,Y,Y,1
+282213,365243,Pensioner,0,N,N,1
+238387,365243,Pensioner,1,N,Y,1
+58000,365243,Pensioner,0,N,N,1
+248694,-10950,Working,1,N,Y,1
+185702,-1460,Working,3,N,Y,1
+344886,-12775,Working,0,N,Y,0
+965378,-7665,Commercial associate,2,N,Y,0
+403478,-4380,Working,1,Y,N,0
+143347,-1825,Working,0,Y,Y,1
+148215,-2555,Working,3,N,N,1
+227048,-4380,Working,2,N,Y,1
+196931,-10950,Working,1,N,N,1
+217367,-9855,Working,0,N,Y,1
+183870,-11680,Working,1,N,N,1
+468205,-4015,Working,0,N,N,1
+457646,-12775,Working,2,Y,Y,0
+422316,-12410,Commercial associate,0,N,Y,0
+197391,-5110,Working,0,N,Y,1
+431642,-13140,Working,1,N,Y,0
+159079,365243,Pensioner,0,N,Y,1
+133717,365243,Pensioner,1,Y,Y,1
+143059,365243,Pensioner,0,N,N,1
+315139,0,Working,0,N,Y,1
+90740,0,Student,2,Y,Y,1
+63908,0,Student,0,N,Y,1
+261313,-2920,Working,1,Y,N,1
+89452,0,Student,2,Y,Y,1
+41971,0,Student,0,N,Y,1
+278615,-2190,Working,0,N,N,1
+469019,-6935,State servant,1,N,Y,0
+129504,365243,Pensioner,2,N,N,1
+403491,-7300,Working,0,N,N,1
+131391,-4015,Working,0,N,N,1
+409750,-11315,Working,2,Y,N,1
+474399,-10585,Working,0,Y,Y,1
+495051,-13505,Working,2,N,Y,1
+361208,-10950,Working,1,N,N,1
+971831,-2190,Commercial associate,1,Y,Y,0
+404185,-2190,State servant,1,N,Y,0
+836260,-1825,Commercial associate,0,N,N,1
+196081,365243,Pensioner,0,Y,Y,1
+298024,365243,Pensioner,1,N,N,1
+138779,-12410,Working,0,N,N,1
+37429,0,Student,1,N,Y,1
+170148,-3650,Working,3,N,N,1
+521265,-4015,Commercial associate,1,Y,Y,0
+279348,-6935,Working,3,N,N,1
+170953,-2190,Working,0,N,Y,1
+278706,365243,Pensioner,3,N,Y,1
+375634,-10220,Working,0,Y,N,0
+440776,-2920,Working,2,Y,N,1
+217060,-4745,Commercial associate,1,N,Y,1
+469750,-5840,Working,0,N,N,1
+430278,-8395,State servant,1,Y,Y,0
+268247,365243,Pensioner,0,Y,N,1
+294909,-5840,State servant,0,N,Y,0
+439832,-1825,Working,3,Y,Y,0
+53135,365243,Pensioner,0,N,Y,1
+477236,-1095,Working,0,Y,Y,0
+419832,-1460,Commercial associate,3,N,N,1
+912384,-14235,Commercial associate,0,N,Y,0
+195110,-8760,State servant,0,N,Y,1
+292534,-365,Commercial associate,2,N,Y,1
+295270,365243,Pensioner,0,N,N,1
+670908,-7665,Commercial associate,1,N,Y,0
+574041,-5475,Commercial associate,2,Y,N,0
+311591,-2920,Working,1,Y,Y,0
+266070,-8395,State servant,2,N,Y,1
+391211,-5110,Working,1,N,Y,1
+396202,-12410,Working,1,N,N,1
+338147,-6205,Working,1,Y,Y,0
+550363,-10220,Commercial associate,0,N,Y,0
+606798,-2920,Commercial associate,0,Y,N,1
+336515,-6935,Working,2,Y,N,1
+261376,-2190,State servant,0,N,Y,1
+236995,-1460,State servant,3,Y,Y,0
+417868,-5110,State servant,3,N,Y,0
+55817,365243,Pensioner,0,N,N,1
+332359,-10950,Working,3,Y,N,0
+197491,-12775,Working,1,Y,Y,1
+302345,-9855,Working,0,N,Y,0
+291405,-12775,Working,0,N,Y,1
+305729,-1460,Working,0,N,N,1
+296087,-14235,Working,0,N,Y,1
+274130,-12045,Working,2,N,Y,1
+253306,-2555,Working,0,N,Y,1
+923138,-2190,Commercial associate,0,Y,Y,0
+247089,-4380,Working,1,N,Y,1
+234706,-8030,Working,0,N,N,1
+431149,-8395,Working,1,N,N,0
+294286,-730,Working,3,N,Y,1
+275513,-4015,State servant,0,N,Y,1
+257540,-2920,Working,1,N,Y,1
+594843,-365,State servant,0,N,Y,1
+113409,-13870,Working,1,N,N,1
+287514,365243,Pensioner,0,Y,Y,1
+114927,-2920,Working,0,Y,Y,1
+349307,-3650,Working,2,N,Y,1
+290588,-6570,Working,3,N,Y,1
+652044,-7300,Commercial associate,1,Y,Y,0
+259306,-3650,Working,1,Y,Y,1
+68340,365243,Pensioner,2,N,Y,1
+335997,-5110,Working,0,Y,Y,0
+90653,365243,Pensioner,0,N,Y,1
+291599,-4745,Working,0,N,Y,1
+203756,-1095,State servant,0,N,N,1
+246681,365243,Pensioner,2,N,N,1
+354536,-10585,Working,0,N,Y,1
+283068,-8030,Working,2,N,Y,1
+83430,365243,Pensioner,0,Y,N,1
+274430,-6205,Working,0,N,Y,1
+211683,-10585,Working,0,N,N,1
+19099,0,Student,2,N,Y,1
+160891,-8030,Working,0,N,Y,1
+139513,-730,Working,0,N,Y,1
+123848,-6205,Working,1,N,N,1
+116552,-730,Working,0,N,Y,1
+618144,-5110,Commercial associate,0,Y,N,0
+257046,-7665,State servant,2,N,Y,1
+262348,-2920,Working,0,N,Y,1
+46312,0,Student,0,N,Y,1
+274022,-10585,Working,3,Y,N,1
+466292,0,Working,2,N,N,1
+191066,-8395,Working,1,N,N,1
+200904,-10950,Working,3,Y,Y,1
+389136,-7300,Working,1,Y,N,1
+423724,-8030,Working,0,N,N,0
+125122,365243,Pensioner,0,N,N,1
+70729,365243,Pensioner,0,N,N,1
+230317,-3650,Working,2,Y,N,1
+373217,-14235,Working,0,N,N,1
+320354,-730,Working,1,N,N,1
+51885,365243,Pensioner,2,Y,Y,1
+237521,-1095,Working,0,Y,N,1
+913037,-1460,Commercial associate,0,Y,Y,0
+416992,-7300,Working,1,N,N,1
+176872,-9490,Working,0,N,N,1
+118141,-11680,Working,1,Y,N,1
+273854,-5840,Working,0,N,Y,1
+920290,-13505,Commercial associate,1,Y,Y,0
+120521,-8030,Working,0,N,Y,1
+498599,-6205,Working,1,Y,N,1
+670864,-8030,Commercial associate,1,N,Y,0
+93163,365243,Pensioner,2,N,Y,1
+20074,0,Student,0,N,N,1
+160888,365243,Pensioner,0,N,N,1
+633647,-7665,Commercial associate,0,N,Y,0
+192076,365243,Pensioner,1,Y,Y,1
+452919,-730,Working,0,Y,Y,1
+207014,-10585,Working,0,Y,N,1
+54902,365243,Pensioner,1,N,N,1
+186207,365243,Pensioner,0,N,Y,1
+80993,365243,Pensioner,1,Y,N,1
+340021,-5475,Working,1,Y,N,0
+48707,0,Student,1,N,Y,1
+422777,-13505,Working,0,N,Y,0
+708180,-13870,Commercial associate,0,N,Y,0
+421070,-730,Working,1,Y,N,1
+575876,-11680,Commercial associate,0,N,N,0
+638345,-8395,Commercial associate,1,N,Y,0
+217352,-9125,Commercial associate,0,N,Y,0
+4121,0,Student,0,N,Y,1
+195011,-13140,Working,1,Y,N,1
+826701,-2190,Commercial associate,0,N,Y,1
+292582,-1095,State servant,1,N,Y,1
+420480,-10585,Working,0,N,Y,0
+403166,-9855,Working,0,N,Y,0
+210230,-2555,Working,2,Y,N,1
+457832,-9125,Working,0,Y,N,0
+581087,-1825,State servant,2,N,Y,1
+86679,0,Student,1,Y,Y,1
+71050,0,Student,0,N,N,1
+383052,-2555,Working,2,N,Y,1
+139871,-2555,Working,0,N,Y,1
+343148,-2555,Working,1,N,Y,1
+239091,-7665,State servant,2,N,Y,0
+261039,-1095,Working,1,N,Y,1
+166247,-4745,Working,0,N,Y,1
+119944,-12775,Working,1,N,Y,1
+359381,-1460,Working,0,N,Y,1
+64020,365243,Pensioner,0,N,N,1
+278372,-2190,Commercial associate,1,N,N,1
+303737,-4015,Working,0,N,N,1
+805452,-4380,Commercial associate,3,N,Y,0
+941207,-13140,Commercial associate,0,Y,N,0
+672320,-10585,Commercial associate,1,N,Y,0
+401970,-10585,Working,2,N,Y,0
+508357,-7300,Commercial associate,0,N,Y,0
+465695,-8760,State servant,0,Y,Y,0
+267065,365243,Pensioner,1,N,N,1
+586651,-365,Commercial associate,1,N,N,1
+498815,-10220,Commercial associate,1,N,Y,0
+236091,-5840,Commercial associate,0,N,N,1
+196726,-6570,Working,1,Y,N,1
+141087,365243,Pensioner,0,N,N,1
+366028,-10950,State servant,0,N,Y,0
+168879,-9490,Working,1,N,N,1
+252627,-12045,Working,0,Y,Y,1
+714406,-1825,Commercial associate,2,N,Y,0
+434091,-8395,Working,1,N,Y,0
+588580,-12775,State servant,3,N,N,0
+863819,-11315,Commercial associate,0,N,Y,0
+582762,-730,Commercial associate,2,Y,N,1
+328934,-8760,Commercial associate,0,N,Y,0
+448886,-10220,Working,1,Y,N,1
+276375,-6205,Working,0,Y,Y,1
+718372,-10950,Commercial associate,2,Y,N,0
+328081,-6935,Commercial associate,1,N,N,0
+363088,-5840,Working,0,Y,N,1
+93499,0,Student,0,N,N,1
+530366,-2920,State servant,0,N,N,1
+331948,-10220,Working,0,Y,Y,0
+666568,-11315,Commercial associate,1,N,N,1
+632233,-6205,Commercial associate,1,Y,Y,0
+116035,-8030,Working,0,N,Y,1
+466867,-6205,Working,1,Y,N,0
+100617,-4380,Working,0,N,Y,1
+51467,0,Student,0,N,Y,1
+317188,0,Working,0,N,Y,1
+980638,-13870,Commercial associate,0,Y,Y,0
+479403,-5110,Commercial associate,0,N,Y,0
+372202,-365,State servant,2,N,Y,0
+760483,-3650,Commercial associate,0,Y,Y,0
+156057,-5475,Working,2,N,Y,1
+519798,-13505,State servant,2,Y,Y,0
+995795,-11680,Commercial associate,3,Y,Y,0
+250320,-10585,Working,3,N,Y,1
+268879,-12045,Working,1,N,N,1
+427003,-14235,State servant,0,N,Y,0
+266424,365243,Pensioner,0,Y,N,1
+256627,-4745,Working,0,N,Y,1
+247227,-365,Working,2,N,N,1
+129741,365243,Pensioner,0,N,Y,1
+449132,-4015,State servant,0,Y,N,0
+391955,-12775,Working,0,Y,Y,0
+701706,-4380,Commercial associate,2,N,Y,0
+1071,0,Student,2,Y,Y,1
+482098,-6935,Commercial associate,0,N,Y,0
+373592,-10585,Working,0,N,N,1
+530516,-4015,State servant,3,Y,Y,0
+28304,0,Student,0,N,N,1
+215416,0,State servant,1,N,Y,1
+213102,-12775,Working,0,Y,Y,1
+488370,-13505,Working,0,N,Y,0
+130569,-11315,Working,1,N,Y,1
+292706,365243,Pensioner,0,Y,N,1
+438371,-8395,Working,1,N,Y,0
+24802,0,Student,1,N,Y,1
+48742,0,Student,0,N,Y,1
+342217,-13140,Working,2,N,Y,1
+132400,-3285,Working,0,N,N,1
+319798,0,Working,0,N,N,1
+358810,-9125,Working,2,N,Y,1
+495935,-8395,Working,0,Y,Y,0
+226223,-5840,Working,0,N,N,1
+218501,-9125,Working,1,Y,Y,1
+27775,0,Student,1,N,N,1
+562421,-12775,State servant,2,Y,N,0
+420628,-4380,State servant,0,Y,Y,0
+192476,-13505,Working,0,Y,Y,1
+177261,-13870,Working,2,Y,N,1
+215155,0,Working,0,N,Y,1
+524424,-10585,Commercial associate,1,N,N,0
+410594,0,Working,0,N,Y,1
+100203,-12045,Working,0,Y,N,1
+646661,-4380,Commercial associate,0,N,Y,0
+489376,-6205,State servant,2,N,N,0
+212716,-8760,Working,0,Y,Y,1
+195981,-2920,Working,0,N,Y,1
+275709,365243,Pensioner,1,N,Y,1
+287922,-7665,Working,2,N,N,1
+327142,-6205,State servant,0,N,Y,0
+292459,-3650,Working,0,N,Y,1
+673908,-2920,Commercial associate,1,Y,Y,0
+315796,-7665,Working,1,Y,Y,1
+497241,0,Working,0,Y,Y,0
+410970,-13505,Working,2,Y,Y,1
+928052,-8395,Commercial associate,2,Y,N,0
+401788,-4745,Working,0,N,Y,0
+325209,-730,Working,0,N,Y,1
+218192,-7300,Working,1,Y,Y,1
+231469,-3285,Working,1,N,N,1
+272469,-5475,Working,0,N,Y,1
+612264,-6205,Commercial associate,2,N,N,1
+355948,-11680,Working,2,N,Y,0
+77462,0,Student,0,N,Y,1
+157293,-13140,State servant,0,Y,Y,0
+216032,-9125,Working,0,Y,Y,1
+184679,-730,Working,0,Y,Y,1
+601843,-365,Commercial associate,1,N,Y,1
+289787,365243,Pensioner,0,N,N,1
+249151,-9490,Working,0,N,N,1
+110248,-4380,Working,1,N,Y,1
+451849,-3285,Working,0,Y,Y,0
+589744,-2555,Commercial associate,3,N,Y,1
+267230,0,Working,1,Y,Y,1
+915215,-12045,Commercial associate,1,Y,Y,0
+169086,365243,Pensioner,1,Y,N,1
+267115,-5840,Working,2,N,Y,1
+246676,-7300,Working,3,N,N,1
+496986,-7300,Working,1,N,N,1
+115573,-730,Working,1,Y,N,1
+113015,-2555,Working,1,N,N,1
+350438,-730,Working,2,N,N,1
+342830,-13870,State servant,0,N,Y,0
+369969,-2190,Working,0,Y,N,1
+590811,-2920,Commercial associate,0,N,Y,0
+155504,-11315,Working,0,N,Y,1
+168774,-365,Working,1,N,N,1
+327887,-7665,State servant,1,N,N,0
+108271,365243,Pensioner,1,N,Y,1
+256520,-730,Working,2,Y,N,1
+287557,-10950,State servant,2,N,N,1
+188635,-6570,State servant,3,N,Y,0
+222889,365243,Pensioner,0,N,Y,1
+364319,-13505,Working,1,Y,Y,0
+231499,-1825,State servant,0,Y,Y,1
+206395,-6570,Commercial associate,0,N,Y,1
+122466,-5110,Working,0,N,Y,1
+497435,-13870,State servant,0,N,N,0
+323133,-9855,Working,3,N,Y,1
+425520,-8395,State servant,2,N,N,0
+286087,-1460,Working,0,N,Y,1
+30593,0,Student,0,N,N,1
+759978,0,Commercial associate,0,N,Y,0
+615890,-8395,Commercial associate,2,Y,Y,0
+199364,-4015,Working,1,Y,N,1
+981575,-8030,Commercial associate,1,Y,N,0
+314156,-730,Working,1,Y,Y,1
+175012,-11315,Working,1,N,N,1
+167145,-9490,Working,0,N,Y,1
+343439,-3285,Working,0,N,Y,0
+186356,-12775,Working,2,N,Y,1
+101986,-9490,Working,3,N,Y,1
+409031,-6570,Working,1,Y,N,0
+389459,-14235,State servant,0,N,N,0
+203879,365243,Pensioner,0,Y,Y,1
+18090,0,Student,0,N,Y,1
+439482,-10585,Working,0,N,N,1
+364750,-10585,Commercial associate,1,Y,Y,0
+292874,-8395,Commercial associate,0,N,Y,1
+274133,-5840,Working,0,N,Y,1
+143702,-11315,Working,2,N,Y,1
+126477,-730,Working,1,N,N,1
+589903,-10220,State servant,1,Y,N,0
+482896,-13505,Commercial associate,1,N,Y,0
+283576,-2920,Working,0,N,N,1
+265812,365243,Pensioner,1,N,N,1
+337134,-2920,Working,1,N,N,1
+497960,-1460,Working,1,Y,Y,1
+722203,-8395,Commercial associate,0,N,Y,0
+406764,-5110,State servant,1,N,Y,0
+138921,-1095,Working,0,Y,Y,1
+740635,-5475,Commercial associate,0,N,Y,0
+181403,-4015,State servant,0,Y,N,0
+317307,-10585,Working,0,N,Y,0
+797170,-13870,Commercial associate,1,N,Y,0
+384676,-1095,State servant,0,Y,Y,0
+216375,365243,Pensioner,1,Y,Y,1
+346404,-8760,Working,1,N,Y,0
+241786,-8760,Working,1,N,Y,1
+222184,-1095,Working,1,Y,N,1
+328745,-7300,Working,2,N,Y,0
+152328,-13140,Working,0,Y,Y,1
+102770,-3285,Working,1,Y,Y,1
+395169,-1825,Working,0,N,Y,0
+258266,-8395,Commercial associate,0,N,Y,0
+385323,-12045,Commercial associate,1,Y,N,0
+113144,-6205,Working,1,N,N,1
+218405,365243,Pensioner,1,N,N,1
+398950,-4380,Working,1,Y,N,0
+303265,-13140,Working,0,N,N,1
+311000,-1825,Working,0,N,N,1
+224388,365243,Pensioner,0,N,N,1
+426707,-10585,Commercial associate,0,Y,Y,0
+131757,365243,Pensioner,0,N,Y,1
+127161,-3285,Working,1,Y,N,1
+399162,-12410,Working,0,N,Y,0
+209015,-8395,Working,0,N,Y,1
+194906,365243,Pensioner,0,N,N,1
+69384,0,Student,0,Y,Y,1
+77151,365243,Pensioner,0,N,N,1
+324188,-5475,Commercial associate,0,Y,N,0
+167611,365243,Pensioner,1,Y,Y,1
+666683,-1095,Commercial associate,2,Y,N,0
+475156,-2190,State servant,2,Y,Y,0
+399530,-3285,Working,0,N,Y,0
+241295,-3285,Working,2,Y,Y,1
+120880,365243,Pensioner,1,N,Y,1
+260747,-365,Working,1,N,Y,1
+122878,-11680,Working,0,Y,N,1
+111598,-1825,Working,1,Y,Y,1
+173723,-2920,Working,1,N,Y,1
+920820,-12410,Commercial associate,0,Y,N,0
+424262,-2190,Working,1,N,Y,1
+234568,-10950,State servant,1,N,Y,1
+73033,365243,Pensioner,2,Y,Y,1
+284622,-6570,Commercial associate,0,N,Y,1
+170845,-6935,Working,0,N,N,1
+139404,-10585,Working,0,N,Y,1
+100645,-8395,Working,1,N,N,1
+95221,365243,Pensioner,1,N,N,1
+489943,-13505,Working,0,N,N,1
+508780,-5475,State servant,0,N,Y,0
+353940,-8395,Working,1,N,Y,1
+203136,365243,Pensioner,0,Y,N,1
+175391,-8030,State servant,0,Y,Y,0
+822060,-7300,Commercial associate,0,N,N,0
+954660,-9855,Commercial associate,0,Y,Y,0
+125314,-8395,Working,0,N,Y,1
+263454,365243,Pensioner,1,N,Y,1
+305788,-13140,Working,0,N,Y,1
+192013,-6935,Working,0,N,N,1
+302421,-10950,Working,1,N,Y,0
+157160,-10220,State servant,2,Y,N,1
+266373,-13505,Working,2,N,N,1
+431372,-9125,Commercial associate,2,N,Y,0
+233770,-10220,Working,1,N,Y,1
+81604,365243,Pensioner,0,N,Y,1
+408820,-3285,Working,0,N,N,1
+398641,-3285,Working,1,Y,Y,1
+161488,-3285,Working,0,N,N,1
+213346,-6570,Working,0,Y,Y,0
+209001,-3650,Working,0,N,Y,1
+421238,-12775,Working,0,N,Y,0
+240786,-6570,Working,0,N,Y,1
+328443,-11680,Working,1,Y,Y,0
+358155,-4380,Working,3,N,Y,0
+421691,-8760,State servant,3,Y,Y,0
+254301,365243,Pensioner,0,N,Y,1
+152600,-13870,Working,1,N,Y,1
+243165,-9490,Working,1,N,Y,1
+185938,-3650,Working,2,Y,Y,1
+789325,-730,Commercial associate,1,Y,Y,1
+599600,-14235,Commercial associate,3,Y,Y,0
+530606,-5475,Commercial associate,0,N,Y,0
+804275,-12410,Commercial associate,1,Y,N,0
+196649,365243,Pensioner,0,N,Y,1
+455351,-12045,Working,0,N,N,1
+132475,365243,Pensioner,2,N,Y,1
+209430,-8760,State servant,1,N,Y,1
+516001,-14235,Commercial associate,0,N,Y,0
+186379,-7300,Working,0,N,N,1
+789320,0,Commercial associate,2,Y,Y,1
+47594,0,Student,1,N,Y,1
+539035,-4015,Commercial associate,1,N,Y,0
+158277,-1825,Working,1,Y,Y,1
+309087,-4380,Working,0,N,N,0
+676812,-11680,Commercial associate,0,N,Y,0
+477874,-12410,Working,0,N,Y,1
+363735,-6570,Working,0,N,Y,0
+318850,-6935,Working,0,N,N,1
+163417,365243,Pensioner,0,N,Y,1
+72011,365243,Pensioner,2,N,N,1
+131104,-6570,Working,1,N,N,1
+527324,0,Commercial associate,1,Y,N,1
+85084,365243,Pensioner,0,N,N,1
+126034,365243,Pensioner,1,N,N,1
+454432,-9855,Working,0,N,N,1
+205879,365243,Pensioner,0,N,N,1
+232602,-3285,Working,0,N,Y,1
+193232,-5475,Working,3,N,N,1
+223505,-4380,Working,1,N,N,1
+324040,-14235,Working,0,N,Y,1
+383197,-10585,Working,2,Y,N,1
+515107,-730,Commercial associate,0,Y,Y,0
+545632,-4015,State servant,0,N,Y,0
+152806,365243,Pensioner,0,N,Y,1
+957906,-7665,Commercial associate,0,N,Y,0
+142902,365243,Pensioner,1,N,Y,1
+766829,-10220,Commercial associate,2,N,Y,0
+141617,-13140,Working,0,N,N,1
+357883,-13505,Commercial associate,3,N,Y,0
+293537,-8760,Working,2,N,N,1
+937973,-6205,Commercial associate,1,N,N,0
+255448,365243,Pensioner,0,N,Y,1
+12464,0,Student,0,N,Y,1
+477275,-6935,Working,1,N,Y,0
+185230,-2555,Working,0,N,Y,1
+470682,-12045,Working,0,N,Y,0
+134699,-8395,Working,1,N,Y,1
+433240,-10585,Working,0,N,N,1
+286202,365243,Pensioner,1,N,Y,1
+430556,-11315,Working,1,N,Y,1
+213297,365243,Pensioner,0,N,Y,1
+296209,-8760,Working,0,N,Y,1
+298752,-2190,Working,2,N,Y,1
+357205,-6935,Working,1,N,Y,1
+228104,-12775,Working,1,Y,Y,1
+426888,-10585,State servant,1,Y,Y,0
+479442,-5475,Working,0,N,Y,0
+287326,-10585,Working,2,N,N,1
+97595,365243,Pensioner,1,N,N,1
+174539,-7300,Working,0,N,Y,1
+126403,-13140,Working,0,Y,Y,1
+68464,365243,Pensioner,1,Y,N,1
+436721,-8030,Working,0,N,Y,1
+141714,365243,Pensioner,0,N,Y,1
+276323,-8030,Commercial associate,0,N,N,1
+229006,-10220,Working,0,Y,N,1
+445230,-365,Working,0,N,N,1
+395239,-6935,Working,1,N,Y,1
+104876,-3650,Working,1,N,Y,1
+202699,-12775,Working,1,N,N,1
+11881,0,Student,1,N,Y,1
+447717,-1825,Working,0,N,N,1
+227198,-12410,Working,0,N,N,1
+390575,-9855,State servant,3,N,Y,0
+285493,-4380,Working,0,Y,N,1
+372020,-9855,Working,0,Y,N,1
+259591,365243,Pensioner,1,N,N,1
+288000,365243,Pensioner,1,N,Y,1
+338047,-12410,Working,2,N,Y,0
+876547,-9490,Commercial associate,0,Y,Y,0
+170854,-7665,Working,0,N,Y,1
+86022,365243,Pensioner,2,N,N,1
+185249,365243,Pensioner,2,N,Y,1
+229959,-10950,Working,1,N,Y,1
+348380,-6570,Working,1,N,Y,1
+510466,-6935,State servant,2,N,N,0
+235940,-12410,State servant,0,N,Y,0
+367571,-10220,Working,0,N,N,1
+203799,365243,Pensioner,1,Y,N,1
+477762,-4745,Working,0,N,Y,1
+432427,-6570,Working,1,N,Y,0
+281048,365243,Pensioner,0,Y,N,1
+75177,365243,Pensioner,1,N,N,1
+256478,-9125,Working,1,N,Y,1
+497330,-12410,Working,0,N,N,0
+139762,365243,Pensioner,0,Y,Y,1
+769574,-12045,Commercial associate,1,Y,Y,0
+125169,-10950,Working,1,Y,Y,1
+192246,-730,Working,1,N,Y,1
+232662,0,State servant,1,N,Y,1
+347135,-12410,Working,0,Y,Y,0
+290141,-8030,Working,1,N,N,1
+390274,-5475,Working,0,N,Y,0
+143394,-3285,Working,1,N,Y,1
+331088,-1095,Working,2,N,N,1
+728926,-12775,Commercial associate,0,N,Y,0
+419389,-9490,Working,0,Y,Y,0
+154617,-7300,Working,0,N,Y,1
+117804,-13505,Working,0,N,N,1
+299646,-9125,Working,1,N,N,1
+168116,-5475,Working,1,Y,Y,1
+308262,-13505,Working,0,Y,Y,0
+456539,-11315,Working,0,N,Y,0
+353115,-5110,Commercial associate,2,N,Y,0
+253141,-1095,Working,0,N,N,1
+476437,-9855,Working,3,N,Y,0
+125044,-12775,Working,0,N,Y,1
+396289,-3285,Commercial associate,2,N,Y,0
+50370,0,Student,2,Y,Y,1
+357519,-4745,Working,0,Y,N,1
+342020,-10220,Working,2,N,Y,1
+77057,365243,Pensioner,0,Y,N,1
+696107,-365,Commercial associate,3,N,N,1
+643719,-7300,Commercial associate,0,Y,Y,0
+428278,-11315,Working,2,Y,Y,0
+385570,-1095,Working,0,N,Y,1
+335026,-9855,Commercial associate,0,Y,N,0
+81364,0,Student,0,N,Y,1
+644281,-2920,Commercial associate,0,N,N,1
+226724,365243,Pensioner,3,Y,Y,1
+168809,-12775,Working,0,Y,Y,1
+284722,365243,Pensioner,0,N,Y,1
+284990,-3650,Working,2,Y,Y,1
+472794,-3285,State servant,0,N,Y,0
+806761,-11315,Commercial associate,0,N,Y,0
+234281,-2190,Commercial associate,0,Y,N,0
+79898,365243,Pensioner,0,N,Y,1
+474735,-2190,Working,1,Y,Y,1
+460236,-9490,Commercial associate,0,N,N,0
+430619,-2190,Working,1,N,Y,0
+727040,-13505,Commercial associate,1,Y,Y,0
+637986,-3285,Commercial associate,0,N,N,0
+315378,-2555,Working,2,N,N,1
+185765,-1460,Working,1,N,Y,1
+409049,-13505,Working,1,N,Y,0
+638702,-730,Commercial associate,0,Y,Y,0
+478456,-10220,Commercial associate,2,N,N,1
+496222,-8760,Working,0,Y,Y,0
+250290,365243,Pensioner,1,Y,Y,1
+988161,-12775,Commercial associate,0,N,N,1
+354276,-4380,State servant,1,Y,N,0
+175282,-11315,State servant,1,N,Y,1
+1066,0,Student,0,Y,Y,1
+447087,-730,Commercial associate,1,N,Y,1
+300250,-5840,Working,3,Y,N,1
+349832,-2555,Commercial associate,1,N,Y,0
+459578,-13505,Commercial associate,1,Y,N,0
+69543,0,Student,2,N,N,1
+338159,-8395,Working,1,N,N,1
+478854,-10950,Working,0,N,Y,0
+167124,365243,Pensioner,2,N,Y,1
+264251,-7665,Working,0,N,Y,1
+215503,-1460,Working,0,Y,N,1
+347462,-10220,Commercial associate,1,Y,N,0
+277969,-14235,Commercial associate,0,N,Y,1
+468971,-5475,Working,1,N,Y,1
+285504,-12045,Commercial associate,0,N,N,0
+351933,-3285,Working,1,Y,Y,0
+409456,-7665,Working,0,N,Y,1
+143324,-8760,Working,0,N,Y,1
+358808,-13870,Working,0,N,Y,0
+209982,-6205,Working,1,N,Y,1
+341964,-5475,Commercial associate,1,N,N,0
+693855,-9490,Commercial associate,0,N,Y,0
+372747,-9490,Working,0,Y,Y,0
+150694,365243,Pensioner,3,N,Y,1
+206243,0,Working,1,N,N,1
+435779,-9125,Working,0,N,N,1
+280085,-2555,Commercial associate,0,N,Y,1
+645861,-1460,Commercial associate,0,N,Y,1
+442414,-13505,Working,1,N,Y,0
+479523,-3650,Working,1,Y,Y,0
+761048,-730,Commercial associate,1,N,Y,1
+390877,-9490,State servant,0,N,Y,0
+210629,-7300,Working,1,Y,N,1
+114472,-8395,Working,2,N,N,1
+496977,-2920,Commercial associate,1,N,Y,0
+462282,-12775,State servant,2,N,N,1
+441241,-13505,State servant,0,Y,Y,0
+984229,-8030,Commercial associate,2,N,Y,0
+496423,-3650,Working,1,N,Y,1
+462072,-11680,Working,1,Y,N,1
+332735,-3650,State servant,1,Y,Y,0
+283551,-2555,Working,3,N,N,1
+279718,-9855,Working,2,N,Y,1
+191568,-2190,Working,0,N,N,1
+188760,-12775,Working,2,Y,Y,1
+155508,-7300,Working,0,N,N,1
+279881,-6205,Working,0,Y,Y,1
+334595,-1095,Commercial associate,1,N,N,1
+388825,-13870,State servant,0,N,Y,0
+115191,365243,Pensioner,0,N,Y,1
+293350,365243,Pensioner,2,N,N,1
+310709,-5110,Commercial associate,2,Y,Y,0
+145822,365243,Pensioner,1,N,Y,1
+227428,-4745,Commercial associate,0,Y,Y,0
+209122,-8760,Working,1,N,Y,1
+210545,-3650,Working,3,Y,Y,1
+191007,-4015,Working,3,N,N,1
+362141,-12045,Working,1,Y,N,1
+243960,-10585,Working,0,N,Y,1
+294784,-12775,Working,0,N,Y,1
+668486,-12775,Commercial associate,1,N,Y,0
+325300,-2920,Working,0,N,Y,1
+603662,-2190,Commercial associate,2,Y,Y,0
+489454,-3650,Working,0,Y,N,1
+357870,-11315,Working,1,N,Y,0
+107707,365243,Pensioner,0,N,N,1
+304402,-9125,Working,0,N,N,0
+138457,-4380,Working,0,Y,Y,0
+376363,-6570,Working,0,N,N,1
+382790,-8030,Working,2,N,Y,1
+218189,-10950,Working,0,N,Y,1
+451079,-5840,Working,0,N,Y,0
+449246,-7665,Commercial associate,3,N,Y,0
+441434,-9125,Working,2,N,N,1
+237090,-10220,Working,0,N,Y,1
+475775,-6570,Working,1,N,N,1
+194564,-9490,Working,0,N,Y,1
+499820,-4745,Working,0,N,N,1
+55108,365243,Pensioner,1,N,Y,1
+379066,-3650,State servant,3,N,Y,0
+368508,-9125,Working,0,N,Y,1
+467733,-365,Working,1,N,Y,1
+544956,-4380,State servant,1,N,Y,0
+245607,365243,Pensioner,0,N,N,1
+193209,365243,Pensioner,1,N,Y,1
+8498,0,Student,0,Y,Y,1
+103911,-6205,Working,1,N,Y,1
+161727,-4015,Working,1,Y,N,1
+114385,365243,Pensioner,0,N,N,1
+846943,-5840,Commercial associate,2,N,N,0
+258454,-10950,Working,0,Y,N,1
+466272,-365,Working,1,Y,Y,0
+2469,0,Student,0,N,N,1
+469686,-5110,Working,0,N,Y,0
+56741,0,Student,1,N,N,1
+320299,-1460,Working,1,N,N,1
+149316,-1460,Working,1,N,Y,1
+455407,-12045,Working,3,Y,Y,0
+497696,-12775,Working,1,N,N,1
+184262,-4015,State servant,1,N,N,1
+479201,-12045,Working,1,N,N,1
+124209,-13140,Working,1,N,N,1
+193406,-10585,Working,0,N,Y,1
+267322,365243,Pensioner,2,N,Y,1
+474386,-13870,Working,3,N,N,1
+286889,-8760,Working,3,N,N,1
+180928,-11315,Working,0,N,Y,1
+56768,365243,Pensioner,0,N,Y,1
+108704,365243,Pensioner,1,N,Y,1
+320799,-1460,Working,0,N,Y,1
+583861,-2555,State servant,0,Y,Y,0
+440478,-2920,Working,2,N,Y,1
+350565,-1460,Working,1,N,N,1
+291731,365243,Pensioner,3,Y,Y,1
+243041,-12775,Working,1,N,N,1
+9029,0,Student,0,N,N,1
+431946,-2920,Commercial associate,0,N,N,1
+483029,-8395,Working,1,Y,Y,0
+253514,-9855,Working,0,N,Y,1
+943351,-730,Commercial associate,1,Y,Y,0
+236122,-1825,Commercial associate,1,Y,Y,1
+413913,-365,Working,0,N,N,1
+245911,-1825,Commercial associate,2,Y,Y,1
+221015,-6570,Working,0,N,Y,1
+377622,-1095,State servant,0,Y,N,0
+438773,-4380,Working,0,N,Y,0
+903231,-8760,Commercial associate,2,N,N,0
+591049,-13505,State servant,0,Y,Y,0
+523832,-5110,State servant,0,N,Y,0
+51147,365243,Pensioner,2,Y,N,1
+166830,365243,Pensioner,0,N,Y,1
+414174,-10950,Commercial associate,0,N,Y,0
+880569,-8030,Commercial associate,0,Y,Y,0
+428170,-14235,Working,0,N,Y,0
+201650,-9855,Commercial associate,1,Y,N,1
+430512,-13505,Working,1,Y,N,1
+666863,-5840,Commercial associate,2,Y,Y,0
+480746,-1460,Working,0,N,Y,0
+383358,-6570,Working,3,N,Y,1
+216416,-365,Working,0,Y,Y,1
+346724,-4015,Commercial associate,0,N,N,0
+362569,-4745,Working,0,N,Y,1
+316473,-4380,Working,0,N,Y,0
+294747,-365,Commercial associate,2,N,Y,1
+272813,-13870,Working,0,Y,Y,0
+688741,-13870,Commercial associate,0,Y,Y,0
+143555,365243,Pensioner,0,N,Y,1
+307105,-14235,Working,1,N,Y,1
+314185,-9855,Working,0,N,N,1
+70056,365243,Pensioner,1,Y,Y,1
+369919,-730,Working,0,N,Y,1
+271314,-2190,State servant,0,N,Y,0
+98637,365243,Pensioner,1,N,Y,1
+332514,-6935,Working,0,Y,Y,0
+181501,-8760,Working,0,N,N,1
+877079,-10220,Commercial associate,0,N,N,0
+287204,-9125,Working,1,N,N,1
+514840,-1095,State servant,0,N,Y,0
+171420,-8760,Working,0,N,N,1
+100356,365243,Pensioner,1,Y,N,1
+590186,-11315,Commercial associate,0,N,N,1
+52234,365243,Pensioner,1,N,N,1
+520940,-365,Commercial associate,0,N,N,1
+426909,-3650,Commercial associate,2,N,N,0
+372777,-730,State servant,0,N,Y,1
+306248,0,Working,1,N,N,1
+249905,-13140,Working,2,N,N,1
+391929,-4745,Working,2,N,N,0
+469923,-6205,Working,0,N,Y,0
+485931,-2555,Working,1,N,Y,1
+186175,-11680,Working,0,Y,N,1
+358187,-730,Working,1,N,N,1
+880473,-7300,Commercial associate,1,Y,Y,0
+144610,365243,Pensioner,1,N,Y,1
+662643,-8030,Commercial associate,0,N,N,0
+193761,-4380,Working,1,N,N,1
+812879,-5110,Commercial associate,0,N,N,0
+434423,-10220,Working,0,N,N,1
+222469,-8030,Commercial associate,1,Y,Y,0
+490347,-13505,State servant,3,N,N,0
+621499,-10220,Commercial associate,0,N,N,0
+302326,-2920,Commercial associate,2,N,N,1
+304968,-4015,Commercial associate,0,Y,Y,0
+453264,-8395,State servant,1,N,N,0
+157795,-6205,Working,0,N,Y,1
+469813,-7300,Working,1,N,N,1
+409823,-10585,Working,1,N,Y,0
+110111,-4015,Working,1,N,Y,1
+628755,-3285,Commercial associate,0,N,Y,0
+98695,365243,Pensioner,1,Y,N,1
+516772,-1825,Commercial associate,0,N,N,0
+220958,-3650,State servant,0,N,N,1
+168514,-2920,Working,0,Y,Y,1
+334284,-14235,Working,0,Y,N,0
+618403,-8030,Commercial associate,2,N,N,0
+578442,-2190,Commercial associate,1,N,N,1
+454350,-730,Working,1,Y,Y,1
+848478,-4015,Commercial associate,1,N,Y,0
+204613,-2920,Working,1,N,N,1
+138022,-9855,Working,2,N,Y,1
+250822,-6935,State servant,1,Y,N,1
+76467,365243,Pensioner,1,N,Y,1
+404667,-1095,Working,0,N,Y,1
+851905,-6205,Commercial associate,1,N,Y,0
+229459,-7665,Working,1,N,N,1
+86789,0,Student,1,N,Y,1
+227210,-10220,Working,0,Y,Y,1
+150450,-6935,Working,1,Y,N,1
+229359,365243,Pensioner,2,N,Y,1
+764048,-1460,Commercial associate,0,N,Y,0
+329096,-13140,Working,1,N,N,1
+224063,-1095,Working,1,N,Y,1
+64538,365243,Pensioner,0,N,N,1
+397251,-10950,Working,3,N,Y,0
+461470,-365,Working,2,Y,N,1
+206277,365243,Pensioner,0,N,N,1
+272784,0,Working,1,N,N,1
+209475,365243,Pensioner,0,N,Y,1
+221501,-4380,Working,0,Y,N,1
+203485,-6935,Commercial associate,2,Y,Y,0
+294251,-3650,Working,0,Y,Y,0
+524218,-3650,Commercial associate,0,Y,Y,0
+440740,-11315,Working,0,N,Y,0
+127281,-13505,Working,0,Y,N,1
+131313,-13505,Working,1,Y,Y,1
+196541,-13870,Working,1,N,N,1
+768926,-730,Commercial associate,1,N,Y,1
+395676,-12410,Working,0,Y,Y,1
+517055,-6205,Commercial associate,0,Y,Y,0
+337616,-365,Working,1,Y,Y,1
+102023,-7665,Working,0,N,N,1
+284332,-13870,State servant,0,N,Y,1
+359424,-8760,Commercial associate,3,N,N,0
+369351,-7300,Working,0,Y,Y,0
+79921,365243,Pensioner,0,N,Y,1
+591685,-10220,Commercial associate,0,N,Y,0
+433389,-8395,Working,1,N,Y,0
+441908,-10220,Working,0,Y,N,0
+222632,365243,Pensioner,1,N,Y,1
+253814,-4015,Working,1,Y,Y,1
+125428,-4745,Working,0,N,N,1
+150837,-1825,Working,0,N,Y,1
+421024,-11680,Commercial associate,1,N,Y,0
+294891,-3285,Working,1,N,N,1
+355450,-2555,Working,0,N,Y,0
+624530,-10950,Commercial associate,2,N,Y,0
+365803,-730,Working,1,Y,N,1
+498629,-11680,Working,1,Y,Y,0
+377106,-12045,Working,0,N,N,1
+166856,-365,Working,1,Y,N,1
+423150,-14235,Working,0,Y,N,0
+11674,0,Student,0,Y,Y,1
+499746,-3650,Working,3,N,Y,1
+251186,365243,Pensioner,0,Y,N,1
+587229,-730,Commercial associate,0,N,N,1
+659429,-10950,Commercial associate,1,N,Y,0
+99032,0,Student,0,N,N,1
+453745,-8395,Working,1,N,Y,1
+284175,-13140,Working,1,Y,Y,1
+418372,-1460,Working,1,N,Y,1
+202883,-11315,Commercial associate,3,Y,Y,0
+53708,365243,Pensioner,0,N,N,1
+949204,-730,Commercial associate,0,Y,Y,0
+813141,-13505,Commercial associate,0,N,Y,0
+790974,-10585,Commercial associate,0,N,N,0
+119636,-13505,Working,2,N,N,1
+331568,-5475,Working,2,Y,N,0
+392034,-13505,State servant,0,N,Y,0
+409360,-13870,State servant,1,N,Y,0
+135689,-13870,Working,2,Y,N,1
+98068,365243,Pensioner,0,N,N,1
+137988,-1095,Working,0,N,N,1
+295847,-10585,Commercial associate,0,N,N,0
+474528,-2190,Commercial associate,0,Y,N,0
+51116,0,Student,1,N,N,1
+289916,-365,Working,1,N,N,1
+442976,-6570,State servant,0,N,N,0
+115979,-3285,Working,2,N,Y,1
+439121,-9490,Working,1,N,Y,1
+70369,0,Student,2,N,Y,1
+375640,-11680,Working,0,N,N,1
+629467,-4015,Commercial associate,2,N,Y,0
+34202,0,Student,0,Y,Y,1
+72914,0,Student,1,N,Y,1
+217594,365243,Pensioner,0,N,Y,1
+777486,-2555,Commercial associate,0,N,N,0
+962744,-12775,Commercial associate,0,N,N,0
+514347,-13870,Commercial associate,0,N,Y,0
+430099,-5110,Working,3,N,Y,1
+383363,-5110,Working,2,Y,N,1
+135723,-6935,Working,0,N,N,1
+468092,-8760,Working,3,N,Y,0
+628631,-2555,Commercial associate,2,N,Y,0
+326420,0,Working,3,Y,Y,1
+371016,-4380,Working,0,Y,N,0
+905734,-2190,Commercial associate,0,N,N,0
+494604,-6570,State servant,0,Y,Y,0
+572009,-4380,Commercial associate,0,N,N,0
+769930,-8030,Commercial associate,0,N,Y,0
+126611,-6935,Working,2,Y,N,1
+291418,-12045,Commercial associate,2,N,Y,1
+972640,-1460,Commercial associate,0,N,Y,0
+390525,-5475,Working,0,N,N,1
+71605,0,Student,2,N,Y,1
+299647,-2555,Working,2,Y,Y,1
+342030,-4380,Working,0,N,Y,0
+201470,-8760,Working,1,Y,N,1
+357046,-12045,Working,0,N,Y,0
+374808,-7665,Commercial associate,1,N,Y,0
+294841,365243,Pensioner,1,N,Y,1
+385009,-9490,Working,0,N,N,1
+252834,-10220,Working,1,N,N,1
+219216,-13505,Working,0,N,Y,1
+3907,0,Student,1,N,N,1
+351928,-6935,Working,2,Y,Y,1
+308713,-1460,Working,0,N,N,1
+327158,-8395,Working,1,Y,Y,0
+94393,0,Student,0,N,Y,1
+391996,-9125,Working,0,N,Y,0
+239809,365243,Pensioner,0,N,Y,1
+413547,-2555,State servant,3,N,Y,0
+280721,-1095,Working,0,N,Y,1
+605448,-1460,Commercial associate,0,Y,Y,0
+450775,-13870,Working,1,N,N,1
+246578,-1460,Commercial associate,2,N,N,1
+280956,-2190,Working,0,Y,Y,1
+215350,365243,Pensioner,0,Y,Y,1
+457683,-13140,Working,1,N,Y,1
+471560,-1460,Working,0,N,N,1
+632410,-8760,Commercial associate,1,N,N,0
+479317,-10220,State servant,0,Y,Y,0
+406776,-6205,Commercial associate,0,Y,Y,0
+463614,-1825,Working,0,N,Y,1
+399867,-5110,Working,0,N,Y,1
+68564,365243,Pensioner,0,Y,Y,1
+248325,365243,Pensioner,1,Y,Y,1
+275765,-5840,Working,1,Y,N,1
+55755,365243,Pensioner,2,N,N,1
+255130,-12775,State servant,0,N,N,1
+134153,365243,Pensioner,0,N,N,1
+143289,-2190,Working,1,N,Y,1
+283966,365243,Pensioner,0,Y,N,1
+477287,-3285,State servant,0,N,N,0
+148295,-8030,Working,1,N,Y,1
+892304,-9125,Commercial associate,0,N,Y,0
+473365,-1460,Working,1,Y,N,0
+190909,-6935,Working,2,N,Y,1
+287437,-5475,Working,2,N,Y,1
+232208,-6570,Working,3,N,Y,1
+297556,-14235,Working,1,N,N,1
+430294,-1095,Working,1,Y,Y,0
+94631,0,Student,0,N,N,1
+469340,-1460,Working,2,N,Y,0
+237231,365243,Pensioner,0,N,Y,1
+380996,-10950,State servant,0,Y,Y,0
+269191,-13140,Commercial associate,1,N,Y,1
+150111,-5110,Working,0,Y,Y,1
+381773,-3650,Working,0,Y,N,0
+227885,-6205,Commercial associate,0,N,N,1
+104929,365243,Pensioner,1,N,Y,1
+104776,-3285,Working,0,Y,N,1
+229468,-8030,State servant,0,Y,Y,0
+506509,-9125,State servant,0,Y,Y,0
+236727,-5840,Working,1,N,N,1
+330644,-5840,Working,0,Y,N,1
+486847,-8760,Commercial associate,1,N,N,1
+434976,-4745,Working,1,N,N,1
+160675,-9490,Working,1,N,Y,1
+217118,365243,Pensioner,1,Y,Y,1
+330763,-365,Working,0,N,Y,1
+131748,-9490,Working,1,N,Y,1
+107986,-9490,Working,0,N,Y,1
+249462,-4015,Working,1,N,Y,1
+362154,-5840,Working,1,N,Y,0
+208893,-12045,Working,1,N,N,1
+116614,-10220,Working,0,N,Y,1
+127500,-10950,Working,0,N,Y,1
+389014,-10585,Working,1,N,Y,1
+460687,-13140,Working,0,N,Y,0
+104999,-9490,Working,1,N,Y,1
+128008,-11315,Working,0,N,N,1
+868586,-13505,Commercial associate,2,Y,Y,0
+334597,-10950,Working,0,N,N,1
+457892,-6935,Working,1,N,Y,0
+24871,0,Student,0,Y,Y,1
+421197,-10220,Working,0,N,Y,0
+176184,365243,Pensioner,0,N,N,1
+157155,-6205,Working,0,N,Y,1
+909490,-1825,Commercial associate,3,N,Y,1
+225539,365243,Pensioner,0,N,N,1
+274031,-7665,Working,1,N,N,1
+399240,-14235,Working,2,Y,Y,0
+204430,-6935,Commercial associate,1,N,N,1
+540278,-365,Commercial associate,0,Y,Y,0
+206837,-1825,Working,0,Y,Y,1
+490913,-13140,State servant,2,N,Y,0
+389305,-6570,State servant,0,Y,Y,0
+324636,-10220,Working,1,N,N,0
+298691,365243,Pensioner,0,N,N,1
+368889,-8395,Working,0,N,Y,0
+416001,-8760,Working,1,Y,N,1
+260660,365243,Pensioner,2,N,N,1
+115473,-1095,Working,1,Y,Y,1
+396614,-6935,Working,2,N,N,1
+147227,-1460,Working,1,N,Y,1
+178259,-9855,Working,2,Y,N,1
+284046,-5475,Working,0,N,Y,1
+272679,-8395,Working,1,N,Y,1
+229923,-10585,Working,1,Y,Y,1
+290767,365243,Pensioner,0,N,Y,1
+288589,-13505,Commercial associate,0,N,Y,0
+290118,-11315,Working,1,Y,Y,1
+330254,-6205,Working,2,N,Y,0
+457183,-8030,Commercial associate,0,N,Y,0
+888211,-9125,Commercial associate,0,Y,N,0
+287473,-3650,Working,0,N,Y,1
+404488,-14235,Commercial associate,0,N,N,1
+51846,0,Student,1,N,Y,1
+16225,0,Student,0,Y,Y,1
+69730,0,Student,0,Y,N,1
+418034,-5840,Working,0,Y,Y,0
+160851,-1825,Working,2,N,N,1
+153779,-8030,State servant,0,N,Y,1
+781403,-6205,Commercial associate,1,N,N,0
+409421,-4745,Working,1,Y,Y,1
+380795,-4745,State servant,2,N,Y,0
+120734,365243,Pensioner,0,N,Y,1
+798684,-7665,Commercial associate,0,N,N,0
+492069,-2190,Working,0,N,N,1
+257679,365243,Pensioner,0,Y,Y,1
+214316,-6935,Commercial associate,2,Y,N,1
+289586,-9125,Working,1,N,N,1
+317072,-10220,Working,0,N,Y,1
+190248,365243,Pensioner,0,N,N,1
+216562,-1095,Working,0,N,N,1
+183508,-6205,Working,0,Y,N,1
+180119,-13140,Working,2,N,Y,1
+449370,-4380,Working,0,N,Y,0
+374595,-2920,State servant,2,Y,Y,0
+357923,-4015,State servant,0,N,Y,0
+480929,-7300,Working,0,N,N,0
+14251,0,Student,1,N,Y,1
+298857,-365,Working,0,N,Y,1
+488829,-13505,Working,0,N,Y,1
+843918,-730,Commercial associate,0,Y,Y,0
+459588,-9490,Working,0,N,N,0
+259182,365243,Pensioner,3,N,Y,1
+154509,-7665,State servant,2,N,N,1
+298867,-10220,State servant,2,N,Y,1
+159289,-2920,Working,1,N,N,1
+494230,-6570,Working,0,Y,Y,0
+399192,-5110,Commercial associate,0,Y,N,0
+173905,-6935,Working,2,N,Y,1
+509097,-7665,State servant,2,Y,Y,0
+318756,-1095,Commercial associate,0,Y,N,0
+201105,365243,Pensioner,2,N,Y,1
+458124,-12045,Working,1,N,Y,0
+139708,-11315,Working,1,N,N,1
+199819,-12045,Working,0,N,Y,1
+414210,-9855,State servant,0,N,N,0
+390104,-5840,Commercial associate,0,N,N,0
+198226,-11680,Working,1,N,Y,1
+225640,-13870,Working,0,N,N,1
+310530,-14235,Working,0,N,N,1
+996451,-2190,Commercial associate,1,N,N,1
+310730,-13870,State servant,1,N,Y,0
+489705,-5475,Working,0,N,N,1
+709957,-3650,Commercial associate,0,N,Y,0
+856343,-12045,Commercial associate,1,N,Y,0
+458659,-6205,Working,0,N,N,1
+488399,-1460,State servant,1,N,N,0
+408365,-7300,Working,1,Y,N,0
+339173,-1095,Working,0,N,N,1
+293207,-3650,State servant,0,N,N,1
+347801,-1460,Commercial associate,2,N,Y,1
+330482,-8030,State servant,0,Y,N,0
+238165,-9855,Working,1,N,Y,1
+9575,0,Student,2,N,N,1
+28032,0,Student,2,N,N,1
+301346,-3650,Working,1,Y,Y,0
+219984,-9490,Commercial associate,3,Y,Y,1
+209527,-9855,Commercial associate,0,N,N,1
+381335,-4015,Working,0,Y,N,0
+85516,365243,Pensioner,0,N,Y,1
+176333,-9855,State servant,0,N,N,1
+159422,-365,Working,1,N,Y,1
+235872,365243,Pensioner,1,Y,Y,1
+61690,365243,Pensioner,0,Y,N,1
+424694,-1460,Working,1,N,N,1
+388538,-2190,State servant,1,Y,Y,0
+221899,-11315,State servant,2,Y,Y,0
+219028,-6935,Working,1,N,Y,1
+212490,-3285,Working,1,Y,Y,1
+254383,365243,Pensioner,1,N,Y,1
+322104,-6205,Working,0,Y,N,1
+967423,-6205,Commercial associate,1,N,Y,0
+890956,-2920,Commercial associate,2,N,N,1
+396579,-12045,Working,1,N,N,1
+668341,-10585,Commercial associate,0,N,Y,0
+254711,-5840,Commercial associate,0,N,Y,0
+903129,-4745,Commercial associate,0,N,N,0
+719989,-3650,Commercial associate,1,N,Y,0
+405583,-11315,Working,1,Y,N,0
+266920,-5840,Commercial associate,0,Y,N,1
+115568,-10585,Working,0,Y,N,1
+260072,-1825,Working,2,Y,Y,1
+553410,-8395,Commercial associate,0,N,Y,0
+443996,-14235,Working,0,Y,N,1
+438770,-7300,Working,0,N,Y,0
+557844,-13505,State servant,0,N,N,0
+153675,-13505,Working,3,N,N,1
+162088,-730,Working,1,N,Y,1
+353470,-4745,Working,3,Y,Y,1
+453762,-11315,Working,0,N,N,1
+368311,-14235,Working,0,Y,N,0
+814229,-9490,Commercial associate,0,N,N,1
+568367,-1095,State servant,2,Y,N,0
+223797,-13870,Working,0,Y,Y,0
+222406,-5110,State servant,0,Y,Y,0
+327897,-4745,Working,1,N,Y,1
+139299,-10585,Working,0,N,N,1
+364834,0,Working,2,N,Y,1
+317069,-3285,Working,2,Y,Y,0
+461802,-4745,Working,0,N,N,0
+248154,365243,Pensioner,0,N,N,1
+337864,-8030,State servant,0,N,N,1
+190301,365243,Pensioner,0,N,Y,1
+395060,-6205,Working,1,N,N,1
+55162,0,Student,0,N,Y,1
+299714,-11680,Working,0,N,N,1
+115181,365243,Pensioner,0,Y,N,1
+62348,0,Student,1,Y,Y,1
+336548,-8395,Working,0,Y,Y,0
+176407,-5110,Working,0,N,N,1
+496676,0,State servant,0,Y,N,1
+212854,-12045,Commercial associate,0,N,N,1
+227941,-2920,Commercial associate,0,N,N,1
+375717,-12775,Working,0,Y,Y,0
+139102,-8760,Working,2,N,Y,1
+56826,365243,Pensioner,0,N,Y,1
+495408,-5840,Working,0,N,N,1
+438860,-3650,Working,0,N,N,0
+257899,365243,Pensioner,0,Y,Y,1
+327351,-2555,Working,0,N,Y,1
+153504,-730,Working,1,N,Y,1
+318811,-13140,Working,2,N,Y,1
+598494,-9125,Commercial associate,1,N,Y,0
+399681,-9490,State servant,2,N,Y,0
+191016,365243,Pensioner,0,N,N,1
+5760,0,Student,1,N,N,1
+7236,0,Student,2,N,N,1
+351504,-2920,Commercial associate,1,N,Y,1
+221074,-1825,Working,1,N,N,1
+486380,-365,Working,1,N,Y,1
+50207,365243,Pensioner,1,N,Y,1
+237096,-10220,Working,2,Y,Y,1
+190557,-10585,Working,0,N,Y,1
+502838,-9855,Commercial associate,1,N,Y,0
+137549,-9855,Working,0,N,Y,1
+22097,0,Student,0,N,Y,1
+170304,-5475,Working,0,N,N,1
+273542,365243,Pensioner,0,Y,N,1
+954751,-10585,Commercial associate,0,N,N,0
+23665,0,Student,0,N,Y,1
+383579,-10950,Working,0,Y,N,0
+590969,-10220,State servant,0,Y,N,0
+670718,-11680,Commercial associate,2,N,Y,0
+446908,-11680,State servant,1,Y,N,0
+129713,-5110,Working,1,N,N,1
+141747,-365,Working,0,N,N,1
+105191,-7300,Working,1,Y,N,1
+119128,365243,Pensioner,0,Y,N,1
+238392,365243,Pensioner,1,N,N,1
+238056,-1825,Commercial associate,1,N,N,1
+282526,-10585,Working,3,N,Y,1
+485144,-9125,Working,2,Y,Y,0
+113371,365243,Pensioner,1,N,Y,1
+548906,0,State servant,0,N,N,1
+104902,-8760,Working,0,N,Y,1
+182754,-8395,Working,0,N,Y,1
+339831,-10950,Working,0,N,Y,1
+352790,-4015,Working,0,N,N,1
+191428,-11680,Working,0,N,Y,1
+464716,-8760,State servant,0,N,N,1
+275606,365243,Pensioner,0,N,N,1
+378382,-3285,Working,0,Y,Y,0
+326843,-11315,Working,0,Y,N,1
+213733,-8395,Working,0,N,N,1
+164930,-9490,Working,0,Y,Y,0
+57252,365243,Pensioner,0,N,Y,1
+360460,-11315,Working,2,N,Y,1
+469262,0,Working,0,Y,Y,1
+202175,-3285,Working,2,Y,N,1
+234125,365243,Pensioner,2,Y,N,1
+381201,-2555,Commercial associate,0,N,Y,1
+332850,-14235,Working,0,N,N,1
+288513,-5110,Working,0,Y,Y,1
+257276,-12410,Commercial associate,0,Y,Y,0
+326728,-11315,Commercial associate,1,N,Y,0
+504379,-730,State servant,2,Y,Y,0
+427781,-6935,State servant,1,N,Y,0
+273142,365243,Pensioner,0,Y,Y,1
+295573,365243,Pensioner,1,N,Y,1
+356673,-5840,Commercial associate,0,N,N,0
+471868,-13870,Working,3,Y,N,0
+106300,-10220,Working,1,Y,N,1
+335714,-11680,Commercial associate,0,N,N,1
+399320,-11315,State servant,1,N,Y,0
+158054,-3650,Working,1,N,Y,1
+528649,-8030,State servant,0,Y,Y,0
+267493,365243,Pensioner,1,Y,Y,1
+428100,-1460,State servant,0,N,Y,0
+142959,365243,Pensioner,0,Y,Y,1
+299570,365243,Pensioner,2,N,N,1
+481822,-1825,Working,0,N,N,1
+546197,-1825,Commercial associate,1,Y,N,1
+349201,-6935,Working,0,N,Y,1
+282874,-10950,Working,1,N,Y,1
+219958,365243,Pensioner,1,N,Y,1
+437060,-12775,Working,2,N,Y,1
+429612,-1825,Working,0,N,Y,1
+73414,0,Student,0,N,Y,1
+64683,0,Student,1,N,N,1
+165152,365243,Pensioner,0,Y,Y,1
+517769,-8760,Commercial associate,0,Y,N,0
+115903,-9855,Working,3,N,Y,1
+395981,-2555,Working,0,Y,Y,0
+348008,-14235,Working,0,N,N,0
+344531,-8395,Working,1,N,Y,1
+559745,-6205,Commercial associate,0,N,Y,0
+53754,365243,Pensioner,1,Y,Y,1
+641671,-2555,Commercial associate,2,N,Y,0
+349018,-6935,Commercial associate,1,N,Y,0
+16588,0,Student,2,N,N,1
+419133,-365,Working,1,Y,N,1
+269480,365243,Pensioner,0,N,Y,1
+117248,-11680,Working,0,Y,Y,0
+211164,-9855,Commercial associate,1,Y,N,0
+342498,-5110,Working,2,N,Y,1
+439103,-4745,State servant,3,N,Y,0
+414483,-2920,Commercial associate,1,Y,Y,0
+258823,-7665,Commercial associate,2,Y,N,1
+254226,-1095,Working,0,N,Y,1
+834655,-11680,Commercial associate,0,N,Y,0
+300571,-10950,Working,1,N,N,1
+191628,-4015,Working,0,N,Y,1
+243915,-12775,Working,1,N,Y,1
+75101,0,Student,1,Y,N,1
+711817,-8760,Commercial associate,2,Y,N,0
+78302,0,Student,0,Y,Y,1
+266887,-365,Working,0,N,Y,1
+119843,-5475,Working,0,N,Y,1
+659348,-6205,Commercial associate,0,N,Y,0
+520410,-8030,Commercial associate,0,N,N,0
+540453,-14235,Commercial associate,1,N,Y,0
+94499,0,Student,1,Y,N,1
+77771,365243,Pensioner,2,N,N,1
+413864,-3285,Working,2,N,N,1
+227984,-8760,Working,1,Y,N,1
+184615,0,Working,0,N,N,1
+231097,-3650,Working,2,N,N,1
+948374,-1460,Commercial associate,1,N,N,1
+435049,-13140,Working,1,N,Y,1
+386958,-12410,Working,1,N,Y,1
+436076,-5840,Working,1,N,Y,0
+152832,-10585,Working,0,Y,N,1
+90375,0,Student,0,N,Y,1
+252800,-13140,State servant,1,N,N,1
+239591,-9490,State servant,0,N,N,0
+231428,-9855,State servant,0,N,N,1
+364313,-1095,Working,2,N,Y,1
+132219,-4380,Working,2,N,Y,1
+159713,365243,Pensioner,0,Y,Y,1
+118925,365243,Pensioner,1,N,N,1
+450625,-3285,Working,0,Y,Y,0
+212968,365243,Pensioner,1,Y,N,1
+964984,-3285,Commercial associate,0,N,N,0
+354493,-3285,Working,2,N,N,1
+201058,-11680,Working,0,N,Y,1
+148059,365243,Pensioner,0,N,Y,1
+445689,-14235,Working,1,N,Y,0
+137450,365243,Pensioner,1,N,Y,1
+102546,365243,Pensioner,1,N,Y,1
+375504,-9490,Working,0,Y,N,0
+270282,-10585,Working,3,N,Y,1
+326838,-2555,Working,1,N,Y,1
+426954,-14235,State servant,0,Y,N,0
+598894,-12775,Commercial associate,2,Y,Y,0
+185765,-8030,Working,0,Y,Y,1
+257505,-12775,Working,0,N,N,1
+257042,-11680,Working,1,Y,N,1
+250491,365243,Pensioner,1,N,N,1
+349152,-1460,Commercial associate,0,Y,N,0
+72554,365243,Pensioner,0,N,N,1
+396729,-8030,Commercial associate,0,N,Y,0
+579266,-12775,State servant,2,N,Y,0
+37834,0,Student,0,Y,N,1
+586623,-6205,Commercial associate,1,Y,Y,0
+335221,-1095,Commercial associate,0,Y,N,1
+110863,-2920,Working,1,N,N,1
+135086,-12775,Working,2,Y,Y,1
+206633,365243,Pensioner,3,N,Y,1
+809099,-6935,Commercial associate,3,Y,Y,0
+233094,-1825,State servant,0,N,Y,1
+493162,-12045,Working,0,N,Y,1
+575546,-5840,State servant,0,N,N,0
+432444,-4380,Working,0,N,Y,0
+8793,0,Student,0,Y,Y,1
+12626,0,Student,0,N,Y,1
+352119,-9125,Working,2,Y,Y,0
+302886,-365,Working,1,N,Y,1
+273402,-6205,Working,1,N,Y,1
+222838,-7300,Working,0,Y,Y,0
+491942,-8395,Working,0,Y,Y,0
+375239,-13505,Working,0,N,Y,1
+400076,-3285,Working,0,N,Y,1
+184355,-12775,Working,2,N,N,1
+952380,-4015,Commercial associate,0,N,N,0
+401154,-7665,State servant,1,Y,Y,0
+213351,-4380,Working,2,Y,Y,1
+170363,-4015,Working,0,Y,Y,1
+395655,-1825,State servant,1,N,Y,1
+409475,-2920,Working,2,Y,Y,1
+171332,-14235,Working,2,Y,N,1
+114171,-9855,Working,1,N,N,1
+269159,-4015,Working,1,Y,N,1
+183518,-7665,Working,2,N,Y,1
+302492,-4380,Working,1,N,N,0
+460998,-4745,Working,0,N,N,1
+336166,0,Working,1,Y,Y,1
+599743,-10220,State servant,0,N,Y,0
+508644,-4015,Commercial associate,0,N,Y,0
+739725,-5475,Commercial associate,2,N,N,0
+978689,-1460,Commercial associate,2,N,Y,1
+378509,-12775,Working,1,Y,Y,0
+201567,-9490,State servant,1,N,N,1
+357263,-8030,Working,0,N,N,1
+613725,-4015,Commercial associate,0,N,Y,0
+245286,-5475,Working,1,Y,N,1
+259571,-7665,Commercial associate,1,N,N,1
+108384,365243,Pensioner,1,Y,N,1
+760769,-1095,Commercial associate,1,Y,Y,0
+384988,-13505,Working,1,N,Y,0
+118413,365243,Pensioner,0,Y,Y,1
+86751,365243,Pensioner,1,N,Y,1
+230946,365243,Pensioner,2,Y,N,1
+134703,365243,Pensioner,1,N,Y,1
+175300,365243,Pensioner,1,N,N,1
+116544,365243,Pensioner,2,N,N,1
+170231,-3650,Working,1,Y,Y,1
+359074,-5475,Working,0,Y,N,0
+90218,365243,Pensioner,1,N,Y,1
+184751,-5840,Working,0,N,N,1
+162017,-365,Working,0,Y,Y,1
+37343,0,Student,1,N,Y,1
+916395,-12045,Commercial associate,0,N,N,0
+213043,-2190,Working,1,N,Y,1
+175822,-7665,Working,0,N,N,1
+71742,365243,Pensioner,1,N,N,1
+867370,-13870,Commercial associate,2,N,N,0
+115060,-2920,Working,1,Y,Y,1
+415554,-5110,State servant,0,Y,Y,0
+492289,-9490,Working,2,Y,N,1
+153459,-6570,Working,1,N,N,1
+370685,-365,Working,2,Y,Y,1
+714772,-12775,Commercial associate,2,Y,Y,0
+531232,-2190,State servant,0,N,Y,0
+751518,-6570,Commercial associate,0,N,Y,0
+379995,-1825,Working,2,N,Y,1
+257422,-6570,Working,1,Y,N,1
+248216,-2555,Working,1,N,N,1
+257050,365243,Pensioner,2,N,Y,1
+289425,-3650,Commercial associate,0,N,Y,0
+398980,-9490,Working,1,N,Y,1
+256872,-10950,Working,0,N,Y,1
+415925,-5840,Working,0,N,N,0
+95161,0,Student,0,Y,N,1
+124060,365243,Pensioner,0,N,Y,1
+382897,-7300,Working,2,Y,N,0
+842346,-11680,Commercial associate,0,Y,N,0
+261546,-14235,State servant,2,N,N,1
+230079,365243,Pensioner,1,Y,N,1
+806362,-4380,Commercial associate,0,N,Y,0
+331648,-11315,Commercial associate,2,Y,N,1
+218217,-10585,Working,0,N,Y,1
+658992,-5110,Commercial associate,0,N,N,1
+314785,-13870,Commercial associate,1,Y,N,0
+937166,-4015,Commercial associate,0,N,Y,0
+155780,365243,Pensioner,1,Y,N,1
+325363,-2190,State servant,1,N,Y,0
+214461,-2190,Working,1,N,N,1
+385435,-13870,Working,0,N,Y,0
+365425,-8760,Working,0,N,Y,1
+492507,-9855,Working,0,Y,Y,0
+104932,-4745,Working,2,Y,Y,1
+551575,-12410,State servant,0,N,Y,0
+345946,-5110,Working,0,N,Y,0
+461653,-12775,Working,0,Y,Y,0
+187958,-3650,Working,1,N,Y,1
+64578,365243,Pensioner,1,Y,Y,1
+587332,-5840,Commercial associate,2,N,Y,1
+481756,-2190,Working,1,N,N,1
+44770,0,Student,2,Y,N,1
+278943,365243,Pensioner,0,Y,N,1
+106639,365243,Pensioner,0,Y,Y,1
+296125,365243,Pensioner,0,Y,Y,1
+370260,-14235,Working,0,N,N,0
+285460,365243,Pensioner,0,Y,Y,1
+77674,0,Student,1,N,Y,1
+379600,-2190,Working,2,N,Y,1
+346846,-3285,Working,0,Y,N,0
+159615,365243,Pensioner,0,N,Y,1
+462372,-9855,Commercial associate,0,N,Y,0
+612774,-8395,Commercial associate,1,N,Y,0
+487058,-10220,Working,3,Y,Y,0
+176286,-365,Working,0,Y,N,1
+152705,-3285,Working,1,Y,Y,1
+380226,-2555,Working,0,Y,Y,0
+427321,-4015,Working,0,N,N,1
+594554,-8030,Commercial associate,2,N,Y,0
+298361,-12045,Working,3,N,Y,1
+351976,-9855,Working,0,N,Y,1
+274792,-8030,Working,0,N,Y,1
+246406,365243,Pensioner,0,N,Y,1
+219023,-7300,State servant,1,N,Y,1
+92771,365243,Pensioner,0,Y,N,1
+400359,0,Working,0,Y,N,1
+198558,-365,Working,2,Y,Y,1
+467964,-4745,Working,0,Y,Y,0
+118344,-12410,Working,0,Y,N,1
+176162,365243,Pensioner,1,N,N,1
+56738,0,Student,3,Y,N,1
+363679,-6935,Working,0,N,Y,0
+264112,-14235,Working,0,Y,Y,0
+197226,365243,Pensioner,0,N,Y,1
+299453,0,Working,0,Y,Y,1
+606300,-8760,Commercial associate,0,N,Y,0
+77875,365243,Pensioner,0,N,Y,1
+449607,-365,Working,0,N,N,1
+383879,-10585,Working,0,N,Y,0
+272016,-4380,Working,0,Y,N,1
+323480,-2920,Commercial associate,0,Y,Y,0
+218913,-5840,Working,0,N,N,1
+271241,365243,Pensioner,0,Y,Y,1
+159328,-4745,Working,0,Y,Y,0
+905317,-2920,Commercial associate,1,Y,N,0
+220003,-3285,Working,1,Y,Y,1
+431532,-12045,Working,1,N,Y,1
+88513,365243,Pensioner,1,Y,N,1
+840995,-365,Commercial associate,0,Y,N,0
+540181,-1825,State servant,0,N,N,0
+244512,-7665,Working,0,Y,N,1
+210620,-11315,Commercial associate,0,Y,Y,0
+302837,-8760,Commercial associate,1,N,Y,0
+146944,-12410,Working,0,Y,N,1
+109544,365243,Pensioner,0,N,Y,1
+121634,365243,Pensioner,0,N,Y,1
+165627,-3285,Working,1,N,Y,1
+402864,-730,Working,2,N,N,1
+943061,-4380,Commercial associate,0,N,Y,0
+262406,-13870,Working,1,N,N,1
+298163,-8760,Commercial associate,3,Y,Y,0
+330670,-6935,Commercial associate,0,Y,N,0
+167899,-10950,Working,2,N,Y,1
+12377,0,Student,2,N,N,1
+252861,-3285,Commercial associate,0,N,N,1
+316585,-10585,Commercial associate,1,Y,N,0
+113807,365243,Pensioner,0,Y,Y,1
+678996,-6205,Commercial associate,0,N,Y,0
+133202,-365,Working,1,Y,N,1
+297991,365243,Pensioner,0,N,Y,1
+104886,-2555,Working,0,N,Y,1
+225890,-14235,Working,1,Y,N,1
+901298,-6205,Commercial associate,0,Y,Y,0
+662893,0,Commercial associate,3,Y,Y,0
+958468,-9490,Commercial associate,2,N,Y,0
+430527,-8030,Working,0,N,N,1
+462606,-13140,Working,1,N,Y,0
+307111,-11315,Working,0,N,Y,0
+225606,-7300,Working,1,Y,Y,1
+453655,-9125,Working,0,N,Y,1
+226204,365243,Pensioner,1,Y,Y,1
+330287,-4745,Working,2,N,Y,1
+237901,-3285,Commercial associate,0,Y,Y,0
+428067,-12045,Working,0,N,N,1
+276172,-12410,Working,0,N,N,1
+829365,-2555,Commercial associate,0,Y,N,0
+514614,-10950,Commercial associate,0,N,N,0
+598773,-5110,Commercial associate,1,N,Y,0
+283214,-3650,Working,0,N,N,1
+142981,365243,Pensioner,0,N,Y,1
+262723,-14235,Working,3,N,N,1
+420195,-10585,Commercial associate,1,N,Y,0
+200130,365243,Pensioner,1,N,N,1
+126455,-9490,Working,2,Y,N,1
+577303,-11680,Commercial associate,1,N,N,0
+248742,365243,Pensioner,1,N,Y,1
+138564,365243,Pensioner,0,N,N,1
+361887,-13870,Working,0,N,Y,1
+816646,-730,Commercial associate,1,N,N,1
+444301,-9855,Working,1,N,N,1
+380278,-6570,Working,1,Y,N,1
+14760,0,Student,1,N,N,1
+616838,-1460,Commercial associate,0,N,N,0
+388676,-8760,Working,0,N,Y,1
+635539,-7665,Commercial associate,0,Y,N,0
+417377,-9125,Working,0,Y,Y,0
+377757,-6570,State servant,2,N,N,0
+299303,-365,Working,1,N,N,1
+307041,-12775,Working,0,N,Y,1
+375974,-7300,Working,0,N,Y,0
+634806,-1095,Commercial associate,0,N,N,1
+274998,365243,Pensioner,1,N,N,1
+103242,365243,Pensioner,1,N,Y,1
+178860,365243,Pensioner,0,N,N,1
+256123,365243,Pensioner,1,N,Y,1
+142073,-3650,Working,0,Y,Y,0
+273259,-5475,Working,1,N,Y,1
+684575,-14235,Commercial associate,0,N,N,0
+236164,-6570,Working,0,N,Y,1
+208938,365243,Pensioner,0,Y,Y,1
+206905,-10585,Working,0,N,Y,1
+241695,365243,Pensioner,1,N,Y,1
+136557,365243,Pensioner,2,N,Y,1
+155733,-2920,Working,0,N,Y,1
+998126,-2920,Commercial associate,0,N,Y,0
+361352,-2920,State servant,2,Y,Y,0
+132779,-12410,Working,1,N,Y,1
+181498,365243,Pensioner,1,Y,N,1
+162114,-5475,Working,1,N,Y,1
+296999,-6935,Working,1,N,Y,1
+520533,-11680,Commercial associate,2,N,Y,0
+117175,-9490,Working,0,N,Y,1
+386587,-4380,State servant,0,Y,N,0
+433406,-1825,Working,1,N,Y,0
+189638,-5475,Working,1,N,N,1
+311781,-1095,Working,3,N,N,1
+405168,-2920,Working,3,Y,Y,0
+478248,-12410,Working,2,N,Y,0
+431402,-9125,Working,0,N,N,1
+144154,365243,Pensioner,0,N,N,1
+230446,365243,Pensioner,0,N,Y,1
+103206,365243,Pensioner,0,N,Y,1

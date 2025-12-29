@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="hero">
+    <div class="hero-content">
+        <h1>Smart Credit Scoring for Everyone</h1>
+        <p class="hero-sub">Millions of people in India don't have a credit history - but that doesn't mean they're not
+            creditworthy.
+            We're using AI to look at different kinds of data (like employment history and asset ownership) to help more
+            people get access to loans.</p>
+
+        <div class="cta-buttons">
+            <a href="{{ url_for('assess') }}" class="btn btn-primary">Check Credit Score</a>
+            <a href="{{ url_for('fairness') }}" class="btn btn-secondary">Learn More</a>
+        </div>
+    </div>
+    <div class="hero-visual">
+        <div class="floating-card">
+            <span>Credit Score</span>
+            <strong>740</strong>
+        </div>
+        <div class="floating-card delay-1">
+            <span>Risk Level</span>
+            <strong style="color: #22c55e;">Low</strong>
+        </div>
+    </div>
+</section>
+{% endblock %}
