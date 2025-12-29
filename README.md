@@ -73,5 +73,5 @@ Use the demo buttons on the assessment page to try:
 If this were deployed at scale, it could help millions of unbanked people access credit based on their actual reliability, not just their formal banking history. This is especially important for small business owners, daily wage workers, and others in the informal economy.
 
 ---
-
+The project is live on - https://runtime-terrors-project-final.onrender.com/
 Built for Netweb AI for Public Good Hackathon - Team Runtime Terrors
